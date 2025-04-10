@@ -36,7 +36,7 @@ Default.args = {
     { label: 'Sign out', href: '#', isSignOut: true },
   ],
   user: {
-    name: 'Umang Patel',
+    name: 'Hello User 😊',
     role: 'Super Admin',
   },
   handleBurgerMenuClick: () => {},

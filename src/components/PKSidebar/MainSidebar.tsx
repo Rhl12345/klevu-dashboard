@@ -5,7 +5,6 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 
 import Button from "@/components/Button/Button";
 import Image from "@/components/Image/Image";
-import Input from "@/components/Input/Input";
 import { Label } from "@/components/Label/Label";
 import { RecursiveMenuItem } from "@/components/PKSidebar/MenuItems";
 import { Sidebar } from "@/components/Sidebar/Sidebar";
@@ -199,29 +198,6 @@ const MainSidebar = () => {
                         className="md:w-40 w-32 h-auto !bg-transparent"
                       />
                     </div>
-
-                    <div className="relative w-full px-5">
-                      <Label htmlFor="search" className="sr-only">
-                        Search menu items
-                      </Label>
-                      <Input
-                        id="search"
-                        name="search"
-                        placeholder="Search menu items"
-                        formik={false}
-                      />
-
-                      <Button
-                        type="button"
-                        aria-label="Submit search"
-                        variant="default"
-                        className="absolute top-0 flex items-center cursor-pointer w-10 h-10 right-5 z-10 justify-center"
-                        icon={<SvgIcon name="SearchIcon" />}
-                      >
-                        <span className="sr-only">Submit search</span>
-                      </Button>
-                    </div>
-
                     <nav className="flex w-full flex-1 flex-col overflow-y-auto">
                       <ul
                         id="topiclinks"
@@ -263,7 +239,7 @@ const MainSidebar = () => {
                               className="ml-2 mr-3 text-sm [&.active]:font-semibold text-quaternary-dark dark:text-quaternary-light truncate max-w-24 w-auto"
                               aria-hidden="true"
                             >
-                              Umang Patel
+                              Hello User 😊
                             </span>
                             <SvgIcon name="TableSortIcon" />
                           </span>
@@ -271,16 +247,13 @@ const MainSidebar = () => {
                       </div>
                       <div
                         id="user-menu"
-                        className="z-50 absolute w-full -top-48 right-0 lg:bottom-10 lg:-right-64"
+                        className="z-50 absolute w-full right-0 lg:bottom-10 lg:-right-64"
                         style={{ display: isUserMenuOpen ? "" : "none" }}
                       >
                         <div className="">
                           <div className="z-50 max-md:flex max-md:flex-wrap w-full max-md:mx-2 rounded-none bg-white border border-gray-light dark:border-gray-dark dark:bg-dark-body-bg py-2 pb-0 shadow-lg ring-1 ring-gray-900/5 focus:outline-none m-0.5 overflow-hidden">
                             <div className="block w-full relative my-0 px-3 pr-10 py-1 text-sm/6 text-quaternary-dark dark:text-quaternary-light font-semibold border-b border-gray-light dark:border-gray-dark pb-2">
-                              Umang Patel
-                              <span className="text-quaternary-dark dark:text-quaternary-light text-xs block font-normal">
-                                Super Admin
-                              </span>
+                            Hello User 😊
                               <Button
                                 type="button"
                                 variant="default"
@@ -299,24 +272,6 @@ const MainSidebar = () => {
                                 <Label className="sr-only">Appearance</Label>
                               </Button>
                             </div>
-                            <Link
-                              href={`${PageRoutes.PROFILE.MY_ACCOUNT}/74`}
-                              className="block w-full px-3 py-1.5 text-sm/6 text-quaternary-dark dark:text-quaternary-light hover:text-primary-light dark:hover:text-quaternary-dark hover:bg-gray-pointer"
-                            >
-                              Profile
-                            </Link>
-                            <Link
-                              href={`${PageRoutes.USERS.LIST}`}
-                              className="block w-full px-3 py-1.5 text-sm/6 text-quaternary-dark dark:text-quaternary-light hover:text-primary-light dark:hover:text-quaternary-dark hover:bg-gray-pointer"
-                            >
-                              User
-                            </Link>
-                            <Link
-                              href={`${PageRoutes.SYSTEM_LOG.LIST}`}
-                              className="block w-full px-3 py-1.5 text-sm/6 text-quaternary-dark dark:text-quaternary-light hover:text-primary-light dark:hover:text-quaternary-dark hover:bg-gray-pointer"
-                            >
-                              Logs
-                            </Link>
                             <Link
                               href={""}
                               replace
