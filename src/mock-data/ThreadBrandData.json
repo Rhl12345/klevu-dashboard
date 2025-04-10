@@ -1,0 +1,50 @@
+{
+  "threadBrandList": [
+    {
+      "createdName": "Shrey Patel",
+      "modifiedName": "Shrey Patel",
+      "logoGroupDescriptionName": "Madera Group",
+      "id": 1,
+      "logoGroupDescriptionId": 1,
+      "brandValue": "Madera",
+      "displayOrder": 1,
+      "recStatus": "A",
+      "createdDate": "2024-03-21T08:23:35.1125081",
+      "createdBy": 14,
+      "modifiedDate": "2024-03-21T08:23:35.1125081",
+      "modifiedBy": 14,
+      "rowVersion": "5xGpM4BJ3Ag=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "createdName": "Shrey Patel",
+      "modifiedName": "Shrey Patel",
+      "logoGroupDescriptionName": "Robison Anton Group",
+      "id": 2,
+      "logoGroupDescriptionId": 2,
+      "brandValue": "Robison Anton",
+      "displayOrder": 2,
+      "recStatus": "I",
+      "createdDate": "2024-04-04T06:08:33.5544758",
+      "createdBy": 111,
+      "modifiedDate": "2024-04-04T06:08:33.5544758",
+      "modifiedBy": 111,
+      "rowVersion": "xeuJqG1U3Ag=",
+      "location": "RI",
+      "ipAddress": "27.54.168.197",
+      "macAddress": "00-00-00-00-00-00"
+    }
+  ],
+  "groupDescriptionList": [
+    {
+      "label": "Madera Group",
+      "value": 1
+    },
+    {
+      "label": "Robison Anton Group",
+      "value": 2
+    }
+  ]
+}

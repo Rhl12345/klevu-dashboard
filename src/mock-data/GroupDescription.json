@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "createdName": "Divyesh Shah",
+            "modifiedName": " ",
+            "id": 6,
+            "descriptionValue": "Group Description 1",
+            "displayOrder": 1,
+            "recStatus": "A",
+            "createdDate": "2024-03-13T09:55:49.1460729",
+            "createdBy": "Amelia",
+            "modifiedDate": "2025-01-14T09:55:58.341301",
+            "modifiedBy": "Gabriel",
+            "rowVersion": "dYvlwkND3Ag=",
+            "location": "RI",
+            "ipAddress": "27.54.168.197",
+            "macAddress": "00-00-00-00-00-00"
+        },
+        {
+            "createdName": "Bhargav Yadav",
+            "modifiedName": " ",
+            "id": 7,
+            "descriptionValue": "Group Description 2",
+            "displayOrder": 2,
+            "recStatus": "A",
+            "createdDate": "2024-03-13T09:55:58.341301",
+            "createdBy": "Emma",
+            "modifiedDate": "2025-01-10T09:55:58.341301",
+            "modifiedBy": "Michael",
+            "rowVersion": "JKBgyEND3Ag=",
+            "location": "RI",
+            "ipAddress": "27.54.168.197",
+            "macAddress": "00-00-00-00-00-00"
+        }
+    ]
+}

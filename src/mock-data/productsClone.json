@@ -1,0 +1,217 @@
+{
+    "success": true,
+    "data": [
+        {
+            "storeTypeId": 1,
+            "storeType": "Corporate Store",
+            "storeList": [
+                {
+                    "storeId": 218,
+                    "storeName": "24 On Tour",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_218.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/86ff074c-76b9-4f88-b0b7-2aa0499e97d5.png"
+                },
+                {
+                    "storeId": 134,
+                    "storeName": "Bacardi",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_134.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/a5580af8-59b8-4d2c-865e-7359a285a4c8.png"
+                },
+                {
+                    "storeId": 16,
+                    "storeName": "Bacardi Grey Goose",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_16.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/baab3651-8a9a-4cdb-b156-8c9e7f365b7a.png"
+                },
+                {
+                    "storeId": 14,
+                    "storeName": "Boston Beer",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_14.gif",
+                    "emailLogo": "/betastoragemedia/temp/1/store/ed6f89d5-e937-444e-b9d5-9423cae6db50.gif"
+                },
+                {
+                    "storeId": 46,
+                    "storeName": "Porsche",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_46.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/6a0b6128-bd83-4e0f-9886-84502ec3ba46.png"
+                },
+                {
+                    "storeId": 118,
+                    "storeName": "Skadden Holiday store",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_118.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/1325bdc8-6f96-4108-92d6-1508d8f6ae6a.jpg"
+                },
+                {
+                    "storeId": 128,
+                    "storeName": "Stryker",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_128.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/e902449c-3542-4e42-b05a-4ff23ecb2fd4.png"
+                },
+                {
+                    "storeId": 19,
+                    "storeName": "The Home Depot",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_19.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/df6495bd-2c09-4131-a8c2-50f8f4c3a38a.png"
+                },
+                {
+                    "storeId": 20,
+                    "storeName": "Uniti",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_20.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/9b22f5b4-ff86-471c-9456-c05ff0ed22b8.png"
+                },
+                {
+                    "storeId": 21,
+                    "storeName": "Usaa Alpha Healthy Points",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_21.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/286ea9f6-4a41-40fa-8917-ffc2acf23cb4.png"
+                },
+                {
+                    "storeId": 22,
+                    "storeName": "Usaa Claims Apparel",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_22.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/a5904ed4-7526-472e-a1db-b377ccb30708.png"
+                },
+                {
+                    "storeId": 23,
+                    "storeName": "Usaa Healthy Points",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_23.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/eba759e6-58cc-40ff-b33d-4db6941cb428.png"
+                },
+                {
+                    "storeId": 130,
+                    "storeName": "USAA NEO Shirts",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_130.jpg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/1478b480-3ee6-4152-9f0f-3c5611c96ed9.jpg"
+                },
+                {
+                    "storeId": 26,
+                    "storeName": "Usaa Punchout",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_26.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/8a5e37db-f505-40c7-a41d-db6f23366b47.png"
+                }
+            ]
+        },
+        {
+            "storeTypeId": 2,
+            "storeType": "eCommerce Store",
+            "storeList": [
+                {
+                    "storeId": 5,
+                    "storeName": "Corporate Gear",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_5.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/6b4b4b03-2b77-4065-91d1-86c840689115.png"
+                },
+                {
+                    "storeId": 219,
+                    "storeName": "Customized Store  ",
+                    "storeImagePath": "",
+                    "emailLogo": ""
+                },
+                {
+                    "storeId": 8,
+                    "storeName": "Driving Impressions",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_8.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/e35aab0b-55cd-4640-bb1c-f0b536f4a666.png"
+                },
+                {
+                    "storeId": 84,
+                    "storeName": "Gameday Gear",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_84.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/b46cc375-84bd-4d1b-80d4-774d2bb9877c.png"
+                },
+                {
+                    "storeId": 1521,
+                    "storeName": "GFORE Corporate Gear",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_1521.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/bc6f0b3b-7320-442c-b89c-64ad2fdd0625.png"
+                },
+                {
+                    "storeId": 65,
+                    "storeName": "ParsonsKellogg",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_65.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/e01b357e-a589-428b-809c-5b50e5ed70cf.png"
+                },
+                {
+                    "storeId": 9,
+                    "storeName": "Peter Millar Corporate Gear",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_9.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/2ea5d449-438a-4c9b-bced-7334a7631dcb.png"
+                },
+                {
+                    "storeId": 7,
+                    "storeName": "PK Health Gear",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_7.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/ab510214-0478-45fe-b771-572ec5cb7b0e.png"
+                }
+            ]
+        },
+        {
+            "storeTypeId": 3,
+            "storeType": "Store Builder",
+            "storeList": [
+                {
+                    "storeId": 1265,
+                    "storeName": "24ontour",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_1265.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/80581e21-a581-463e-a12b-4badde60b001.png"
+                },
+                {
+                    "storeId": 28,
+                    "storeName": "CG Stores",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_28.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/7fd28a36-764c-4580-aafe-92bc82a2789d.png"
+                },
+                {
+                    "storeId": 30,
+                    "storeName": "Gameday Stores",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_30.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/fe9665ba-842e-48f7-886a-af2955e3ae84.png"
+                },
+                {
+                    "storeId": 29,
+                    "storeName": "Health Stores",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_29.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/440d768f-6264-4245-8034-e052af786526.png"
+                },
+                {
+                    "storeId": 27,
+                    "storeName": "PK Stores",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_27.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/55c98b16-3344-4d29-ad0a-c24842174b3a.png"
+                }
+            ]
+        },
+        {
+            "storeTypeId": 5,
+            "storeType": "Form Builder",
+            "storeList": [
+                {
+                    "storeId": 32,
+                    "storeName": "CG Forms",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_32.svg",
+                    "emailLogo": "/betastoragemedia/temp/1/store/8bddd1d3-0ad3-4377-84e3-855ec4fcf607.png"
+                },
+                {
+                    "storeId": 34,
+                    "storeName": "Gameday Forms",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_34.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/cd8c29eb-d242-4cd3-a9b6-86e8f1260101.png"
+                },
+                {
+                    "storeId": 33,
+                    "storeName": "Health Forms",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_33.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/477f18d2-9003-47e5-8af0-067697962a08.png"
+                },
+                {
+                    "storeId": 31,
+                    "storeName": "PK Forms",
+                    "storeImagePath": "/betastoragemedia/1/store/logo_31.png",
+                    "emailLogo": "/betastoragemedia/temp/1/store/38c54cd6-14c3-426f-aeec-3f52351ebc14.png"
+                }
+            ]
+        }
+    ],
+    "errors": {},
+    "otherData": null
+}

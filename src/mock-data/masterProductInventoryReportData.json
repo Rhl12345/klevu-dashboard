@@ -1,0 +1,121 @@
+{
+    "data": [
+        {
+            "systemsku": "L792-GRP-SM",
+            "brand": "Port Authority",
+            "vendor": "SanMar",
+            "style": "L792",
+            "color": "Graphite/Black",
+            "size": "S",
+            "vendor_inv": 42,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 17,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "L792-GRP-XXL",
+            "brand": "Port Authority",
+            "vendor": "SanMar",
+            "style": "L792",
+            "color": "Graphite/Black",
+            "size": "XXL",
+            "vendor_inv": 27,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-SM",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "S",
+            "vendor_inv": 2118,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2093,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-MD",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "M",
+            "vendor_inv": 3000,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2975,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-LG",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "L",
+            "vendor_inv": 3000,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2975,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-XL",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "XL",
+            "vendor_inv": 3000,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2975,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-XXL",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "2XL",
+            "vendor_inv": 2270,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2245,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-BLK-3XL",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "Black/Light Stone",
+            "size": "3XL",
+            "vendor_inv": 1064,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 1039,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        },
+        {
+            "systemsku": "S608-WHT-SM",
+            "brand": "SanMar",
+            "vendor": "SanMar",
+            "style": "S608",
+            "color": "White/Light Stone",
+            "size": "S",
+            "vendor_inv": 3000,
+            "buffer_inv": 25,
+            "bc_inv": 0,
+            "inventory": 2975,
+            "date_time_of_update": "02/07/2025 07:39:28"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "sku": "SKU001",
+            "product_name": "Notebook",
+            "qty": 10,
+            "total": 100.00,
+            "fundraising_amount": 10.00,
+            "total_fundraising_amount": 110.00,
+            "order_number": "ORD001"
+        },
+        {
+            "sku": "SKU002",
+            "product_name": "Pen",
+            "qty": 20,
+            "total": 40.00,
+            "fundraising_amount": 5.00,
+            "total_fundraising_amount": 45.00,
+            "order_number": "ORD002"
+        },
+        {
+            "sku": "SKU003",
+            "product_name": "Eraser",
+            "qty": 50,
+            "total": 25.00,
+            "fundraising_amount": 2.50,
+            "total_fundraising_amount": 27.50,
+            "order_number": "ORD003"
+        },
+        {
+            "sku": "SKU004",
+            "product_name": "Marker",
+            "qty": 15,
+            "total": 75.00,
+            "fundraising_amount": 7.50,
+            "total_fundraising_amount": 82.50,
+            "order_number": "ORD004"
+        },
+        {
+            "sku": "SKU005",
+            "product_name": "Ruler",
+            "qty": 30,
+            "total": 60.00,
+            "fundraising_amount": 6.00,
+            "total_fundraising_amount": 66.00,
+            "order_number": "ORD005"
+        },
+        {
+            "sku": "SKU006",
+            "product_name": "Highlighter",
+            "qty": 25,
+            "total": 125.00,
+            "fundraising_amount": 12.50,
+            "total_fundraising_amount": 137.50,
+            "order_number": "ORD006"
+        }
+    ],
+    "detailed_breakdown": [
+        {
+            "fundraising_collected": "Fundraising Collected",
+            "total_fundraising_collected": 50.00,
+            "parsonskellogg_fees": "Parsonskellogg Fees",
+            "total_parsonskellogg_fees": 50.00,
+            "card_processing_fees": "Card Processing Fees",
+            "total_card_processing_fees": 30.00,
+            "net_fundraising": "Net Fundraising",
+            "total_net_fundraising": 30.00
+        }
+    ]
+}

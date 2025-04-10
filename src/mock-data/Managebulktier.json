@@ -1,0 +1,162 @@
+{
+  "customers": [
+    {
+      "storeName": "Corporate Gear",
+      "companyName": "CG Industries",
+      "customerNumber": "CG001",
+      "customerName": "John Smith",
+      "currentTier": "Tier 2",
+      "oldTier": "Tier 1",
+      "createdDate": "2024-03-15T10:30:00",
+      "createdBy": "Admin User",
+      "modifiedBy": "2024-03-16T15:45:00",
+      "updatedBy": "System Admin",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Bacardi",
+      "companyName": "Bacardi Limited",
+      "customerNumber": "BC002",
+      "customerName": "Sarah Johnson",
+      "currentTier": "Tier 3",
+      "oldTier": "Tier 2",
+      "createdDate": "2024-03-14T09:20:00",
+      "createdBy": "Jane Doe",
+      "modifiedBy": "2024-03-15T11:30:00",
+      "updatedBy": "Jane Doe",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Boston Beer",
+      "companyName": "Boston Brewing Co",
+      "customerNumber": "BB003",
+      "customerName": "Mike Wilson",
+      "currentTier": "Tier 1",
+      "oldTier": "Tier 1",
+      "createdDate": "2024-03-13T14:15:00",
+      "createdBy": "System Admin",
+      "modifiedBy": "2024-03-14T16:20:00",
+      "updatedBy": "Admin User",
+      "recStatus": "Inactive"
+    },
+    {
+      "storeName": "Corporate Gear",
+      "companyName": "CG Industries",
+      "customerNumber": "CG004",
+      "customerName": "Emily Brown",
+      "currentTier": "Tier 2",
+      "oldTier": "Tier 2",
+      "createdDate": "2024-03-12T11:45:00",
+      "createdBy": "Admin User",
+      "modifiedBy": "2024-03-13T09:30:00",
+      "updatedBy": "System Admin",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Bacardi",
+      "companyName": "Bacardi Limited",
+      "customerNumber": "BC005",
+      "customerName": "David Lee",
+      "currentTier": "Tier 1",
+      "oldTier": "Tier 3",
+      "createdDate": "2024-03-11T16:50:00",
+      "createdBy": "Jane Doe",
+      "modifiedBy": "2024-03-12T10:15:00",
+      "updatedBy": "Jane Doe",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Boston Beer",
+      "companyName": "Boston Brewing Co",
+      "customerNumber": "BB006",
+      "customerName": "Lisa Chen",
+      "currentTier": "Tier 3",
+      "oldTier": "Tier 2",
+      "createdDate": "2024-03-10T13:25:00",
+      "createdBy": "System Admin",
+      "modifiedBy": "2024-03-11T14:40:00",
+      "updatedBy": "Admin User",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Corporate Gear",
+      "companyName": "CG Industries",
+      "customerNumber": "CG007",
+      "customerName": "Robert Taylor",
+      "currentTier": "Tier 2",
+      "oldTier": "Tier 2",
+      "createdDate": "2024-03-09T15:35:00",
+      "createdBy": "Admin User",
+      "modifiedBy": "2024-03-10T12:50:00",
+      "updatedBy": "System Admin",
+      "recStatus": "Inactive"
+    },
+    {
+      "storeName": "Bacardi",
+      "companyName": "Bacardi Limited",
+      "customerNumber": "BC008",
+      "customerName": "Amanda Martinez",
+      "currentTier": "Tier 1",
+      "oldTier": "Tier 1",
+      "createdDate": "2024-03-08T10:55:00",
+      "createdBy": "Jane Doe",
+      "modifiedBy": "2024-03-09T11:20:00",
+      "updatedBy": "Jane Doe",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Boston Beer",
+      "companyName": "Boston Brewing Co",
+      "customerNumber": "BB009",
+      "customerName": "Kevin Park",
+      "currentTier": "Tier 3",
+      "oldTier": "Tier 1",
+      "createdDate": "2024-03-07T14:05:00",
+      "createdBy": "System Admin",
+      "modifiedBy": "2024-03-08T15:30:00",
+      "updatedBy": "Admin User",
+      "recStatus": "Active"
+    },
+    {
+      "storeName": "Corporate Gear",
+      "companyName": "CG Industries",
+      "customerNumber": "CG010",
+      "customerName": "Rachel Green",
+      "currentTier": "Tier 2",
+      "oldTier": "Tier 3",
+      "createdDate": "2024-03-06T11:15:00",
+      "createdBy": "Admin User",
+      "modifiedBy": "2024-03-07T13:45:00",
+      "updatedBy": "System Admin",
+      "recStatus": "Active"
+    }
+  ],
+  "storeOptions": [
+    {
+      "label": "Corporate Gear",
+      "value": "Corporate Gear"
+    },
+    {
+      "label": "Bacardi",
+      "value": "Bacardi"
+    },
+    {
+      "label": "Boston Beer",
+      "value": "Boston Beer"
+    }
+  ],
+  "tierOptions": [
+    {
+      "label": "Tier 1",
+      "value": "Tier 1"
+    },
+    {
+      "label": "Tier 2",
+      "value": "Tier 2"
+    },
+    {
+      "label": "Tier 3",
+      "value": "Tier 3"
+    }
+  ]
+}

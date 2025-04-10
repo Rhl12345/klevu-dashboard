@@ -1,0 +1,269 @@
+/* ---- Cross-editor content styles. --------------------------------------------------------------- */
+.ck.ck-content:not(.ck-style-grid__button__preview):not(
+    .ck-editor__nested-editable
+  ) {
+  /* Make sure all content containers have some min height to make them easier to locate. */
+  min-height: 300px;
+  padding: 1em 1.5em;
+}
+
+/* Make sure all content containers are distinguishable on a web page even of not focused. */
+.ck.ck-content:not(:focus) {
+  border: 1px solid var(--ck-color-base-border);
+}
+
+/* Fix for editor styles overflowing into comment reply fields */
+.ck-comment__input .ck.ck-content {
+  min-height: unset;
+  border: 0;
+  padding: 0;
+}
+
+/* Font sizes and vertical rhythm for common elements (headings, lists, paragraphs, etc.) */
+.ck-content h1 {
+  font-size: 2.3em;
+}
+.ck-content h2 {
+  font-size: 1.84em;
+}
+.ck-content h3 {
+  font-size: 1.48em;
+}
+.ck-content h4 {
+  font-size: 1.22em;
+}
+.ck-content h5 {
+  font-size: 1.06em;
+}
+.ck-content h6 {
+  font-size: 1em;
+}
+.ck-content h1,
+.ck-content h2,
+.ck-content h3,
+.ck-content h4,
+.ck-content h5,
+.ck-content h6 {
+  line-height: 1.2em;
+  padding-top: 0.8em;
+  margin-bottom: 0.4em;
+}
+.ck-content blockquote,
+.ck-content ol,
+.ck-content p,
+.ck-content ul {
+  font-size: 1em;
+  line-height: 1.6em;
+  padding-top: 0.2em;
+  margin-bottom: var(--ck-spacing-large);
+}
+
+/* Add these to your existing CSS */
+.ck-content .text-tiny {
+  font-size: 9px;
+}
+.ck-content .text-small {
+  font-size: 11px;
+}
+.ck-content .text-big {
+  font-size: 19px;
+}
+.ck-content .text-huge {
+  font-size: 21px;
+}
+
+.ck-content pre {
+  background: #2b2b2b;
+  color: #fff;
+  padding: 1em;
+  border-radius: 4px;
+  min-height: 15px;
+  white-space: pre-wrap;
+}
+
+.ck-content .page-break {
+  border-bottom: 2px dashed #c4c4c4;
+  margin: 1em 0;
+}
+
+.editor-wrapper {
+  width: 100%;
+  min-height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.editor-wrapper .ck-editor__editable {
+  min-height: 300px;
+  max-height: 600px;
+  padding: 1em;
+}
+
+.ck.ck-editor__editable_inline {
+  border: 1px solid var(--ck-color-base-border);
+  padding: 0 var(--ck-spacing-standard);
+}
+
+.ck.ck-editor__editable_inline > :first-child {
+  margin-top: var(--ck-spacing-large);
+}
+
+.ck.ck-editor__editable_inline > :last-child {
+  margin-bottom: var(--ck-spacing-large);
+}
+
+.ck.ck-toolbar {
+  border: 0;
+  border-bottom: 1px solid var(--ck-color-toolbar-border);
+  border-radius: 0;
+}
+
+/* Paragraph */
+.ck-content p {
+  margin: 1em 0;
+}
+
+/* Headings */
+.ck-content h1 {
+  font-size: 2.3em;
+}
+
+.ck-content h2 {
+  font-size: 1.84em;
+}
+
+.ck-content h3 {
+  font-size: 1.48em;
+}
+
+.ck-content h4 {
+  font-size: 1.22em;
+}
+
+/* Lists */
+.ck-content ul,
+.ck-content ol {
+  margin-left: 1em;
+}
+
+/* Table */
+.ck-content table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.ck-content table td,
+.ck-content table th {
+  border: 1px solid #bfbfbf;
+  padding: 0.4em;
+}
+
+/* Images */
+.ck-content img {
+  max-width: 100%;
+  margin: 1em 0;
+}
+
+/* Font sizes */
+.ck-content .text-tiny {
+  font-size: 0.7em;
+}
+.ck-content .text-small {
+  font-size: 0.85em;
+}
+.ck-content .text-big {
+  font-size: 1.4em;
+}
+.ck-content .text-huge {
+  font-size: 1.8em;
+}
+
+.ck-toolbar.ck-toolbar_grouping {
+  background: transparent;
+  background-color: transparent;
+}
+.ck-button {
+  @apply bg-body-light dark:bg-body-dark;
+}
+body.dark .ck-button {
+  @apply bg-body-dark;
+}
+.ck-icon.ck-button__icon {
+  @apply text-quaternary-dark dark:text-quaternary-light;
+}
+.ck.ck-editor__top .ck-sticky-panel .ck-sticky-panel__content {
+  @apply border-gray-light dark:border-gray-dark !rounded-none;
+}
+.ck.ck-editor__main .ck-editor__editable.ck-rounded-corners,
+.ck.ck-button.ck-disabled .ck-button__icon,
+.ck.ck-editor__main .ck-editor__editable.ck-rounded-corners,
+.ck.ck-button.ck-disabled .ck-button__icon,
+.ck.ck-icon.ck-icon_inherit-color {
+  @apply dark:bg-body-dark text-quaternary-dark dark:text-quaternary-light text-sm font-normal;
+}
+[dir="ltr"] .ck.ck-button.ck-button_with-text .ck-button__icon,
+[dir="ltr"] a.ck.ck-button.ck-button_with-text .ck-button__icon,
+.ck.ck-button.ck-button_with-text .ck-button__label,
+a.ck.ck-button.ck-button_with-text .ck-button__label {
+  @apply text-quaternary-dark dark:text-quaternary-light font-normal;
+}
+.ck.ck-editor__main .ck-editor__editable.ck-rounded-corners:is(.dark *),
+.ck.ck-button.ck-disabled .ck-button__icon:is(.dark *),
+.ck.ck-editor__main .ck-editor__editable.ck-rounded-corners:is(.dark *),
+.ck.ck-button.ck-disabled .ck-button__icon:is(.dark *) {
+  @apply border-gray-light dark:border-gray-dark;
+}
+.ck-rounded-corners
+  .ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item
+  > .ck-button,
+.ck-rounded-corners
+  .ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item:first-child
+  > .ck-button,
+.ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item:first-child
+  > .ck-button.ck-rounded-corners {
+  @apply bg-body-light dark:bg-body-dark text-quaternary-dark dark:text-quaternary-light;
+}
+
+.ck-rounded-corners
+  .ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item
+  > .ck-button:hover,
+.ck-rounded-corners
+  .ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item:first-child
+  > .ck-button:hover,
+.ck.ck-dropdown
+  > .ck-dropdown__panel
+  > .ck-list
+  .ck-list__item:first-child
+  > .ck-button.ck-rounded-corners:hover {
+  @apply bg-gray-default dark:bg-gray-dark text-primary-light dark:text-primary-dark;
+}
+.ck-rounded-corners .ck.ck-button:hover:is(.dark *) {
+  @apply text-primary-light dark:text-primary-dark;
+}
+.ck.ck-list__item {
+  @apply text-quaternary-dark dark:text-quaternary-light hover:bg-gray-default dark:hover:bg-gray-dark hover:text-primary-light dark:hover:text-primary-dark;
+}
+.ck.ck-list__item:hover {
+  @apply bg-gray-default dark:bg-gray-dark text-primary-light dark:text-primary-dark;
+}
+.ck.ck-content:not(.ck-style-grid__button__preview):not(
+    .ck-editor__nested-editable
+  ),
+.ck-focused {
+  @apply focus:outline-none focus:ring-0 focus:shadow-none focus:outline-none ring-gray-light dark:ring-gray-dark border-gray-light dark:border-gray-dark;
+}

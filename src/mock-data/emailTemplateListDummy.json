@@ -1,0 +1,106 @@
+{
+  "emailTemplateListData": [
+    {
+      "id": 1,
+      "label": "Forgotpassword",
+      "emailFrom": "Corporate Gear",
+      "emailTo": "Corporate Gear",
+      "store": "Corporate Gear",
+      "subject": "Please Reset Your Corporate Gear Password",
+      "emailCC": "Lorem Ipsum  ",
+      "emailBCC": "Lorem Ipsum ",
+      "emailBody": "<table border=\"0\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p><a href=\"###LIVE_SERVER###\"><img alt=\"###STORENAME###\" src=\"###LIVE_SERVER###/images/Store_###StoreID###.png\" /> </a></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Dear Valued Customer,</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Your Password has expired! As part of our systems upgrade, we require all customer accounts to create a new password.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Please click on the link below to securely update your account.</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td><a href=\"###LINK###\" style=\"color:blue;\">Click here to reset your password.</a></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>\n\t\t\t<p>Have Questions? Give us a call or send us an email.<br />\n\t\t\tp:(888) 293-5648 | e: <a href=\"mailto:support@corporategear.com\">support@corporategear.com</a></p>\n\t\t\t</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Thank You,<br />\n\t\t\tCorporate Gear Support Team</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n",
+      "createdDate": "2023-05-27T06:16:20.15",
+      "createdBy": "Vishal Patel",
+      "updatedDate": "06/07/2023 11:21 AM",
+      "updatedBy": "Vipul Solanki",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "label": "ProductReview",
+      "emailFrom": "Corporate Gear",
+      "emailTo": "Corporate Gear",
+      "store": "Corporate Gear",
+      "subject": "Request For Product Review",
+      "emailCC": "",
+      "emailBCC": "",
+      "emailBody": "\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\r\n\r\n\r\n<body>\r\n\t<table style=\"          @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&amp;display=swap');        \" width=\"600\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\" align=\"center\">\r\n\t\t<tbody>\r\n\t\t\t<tr>\r\n\t\t\t\t<td bgcolor=\"#f5f5f6\">\r\n\t\t\t\t\t<table width=\"800\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\r\n\t\t\t\t\t\t<tbody>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"border-top: 5px solid #003a70\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t<tr  style=\"###LogoHide###\">\r\n\t\t\t<td style=\"vertical-align:middle\" align=\"center\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<a href=\"###LIVE_SERVER###\">\r\n\t\t\t\t\t\t<img   alt=\"###LIVE_SERVER###\" src=\"###LIVE_SERVER###/images/Store_###StoreID###.png\"/>\r\n\t\t\t\t\t</a>\r\n\t\t\t\t</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"border-bottom: 2px solid #f0f0f0\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td>&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"vertical-align:middle\" align=\"center\">\r\n\t\t\t\t\t<a href=\"###LIVE_SERVER###/index.html\">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=\"###LIVE_SERVER###/aboutus.html\">About Us</a>&nbsp;&nbsp;|&nbsp; <a href=\"###LIVE_SERVER###/Contactus.html\">Contact Us</a>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"border-bottom: 2px solid #f0f0f0\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td>&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td  valign=\"middle\"  align=\"center\" >\r\n\t\t\t\t\t\t\t\t\t<img style=\"       width:150px; height:150px;                     display: inline-block;                          border: none;                          text-decoration: none;                          outline: none;                        \" src=\"https://redefinecommerce.blob.core.windows.net/rdc/common/rate_review_FILL0_wght400_GRAD0_opsz48.svg\" alt=\"\"/>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td>&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"                        font-family: 'Open Sans', sans-serif;                        font-weight: 600;                        font-size: 22px;                        color: #000000;                      \" valign=\"middle\" align=\"center\">                      Request For<br/>                      Product Review                    </td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"height: 30px\" valign=\"middle\" height=\"30\" align=\"center\">\r\n\t\t\t\t\t\t\t\t\t<img style=\"                        display: inline-block;                          border: none;                          text-decoration: none;                          outline: none;                        \" src=\"https://redefinecommerce.blob.core.windows.net/rdc/common/divider.png\" alt=\"\"/>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td valign=\"top\" align=\"center\">\r\n\t\t\t\t\t\t\t\t\t<table width=\"700\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\r\n\t\t\t\t\t\t\t\t\t\t<tbody>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 600;                                font-size: 16px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                              Dear ###CustomerName###,                           </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 16px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                              Thank you for your order! We’d like to hear how your experience with ###StoreName### went.                           </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 500;                                font-size: 18px;                                color: #003a70;                                letter-spacing: 3px;                              \" valign=\"middle\" align=\"left\">                           Your order number is: <strong> ###OrderNumber###   </strong>                         </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 14px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                            Do you mind taking just a few minutes to leave a review?                          </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 14px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                           You can leave your feedback by visiting <strong> WriteReview</strong> link.                         </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 14px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                          Thank you for your order! We&rsquo;re excited to work with you and pair your logo with the premium gear you&rsquo;ve selected from ###StoreName###. Please keep your order number <u>\r\n\t\t\t\t\t\t\t\t\t<strong>###OrderNumber###</strong>\r\n\t\t\t\t\t\t\t\t                                      </u> on file.Your order summary can be found below                        </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 14px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                            ###Product_Lists###                          </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 16px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                              Thank you,                            </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td style=\"                                font-family: 'Open Sans', sans-serif;                                font-weight: 400;                                font-size: 16px;                                color: #000000;                              \" valign=\"middle\" align=\"left\">                              ###StoreName###                            </td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t\t\t\t\t<td valign=\"middle\" align=\"left\">&nbsp;</td>\r\n\t\t\t\t\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t\t\t\t</tbody>\r\n\t\t\t\t\t\t\t\t\t</table>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"border-bottom: 2px solid #f0f0f0\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"height: 40px\" height=\"40\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"                        font-family: 'Open Sans', sans-serif;                        font-weight: 400;                        font-size: 12px;                        color: #525252;                      \" valign=\"middle\" align=\"center\">                      © ###Year###  ###StoreName### All Rights Reserved.                    </td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td style=\"height: 40px\" height=\"40\">&nbsp;</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t</tbody>\r\n\t\t\t\t\t</table>\r\n\t\t\t\t</td>\r\n\t\t\t</tr>\r\n\t\t</tbody>\r\n\t</table>\r\n</body>      \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "createdDate": "2023-05-27T06:16:20.15",
+      "createdBy": "Vishal Patel",
+      "updatedDate": "03/02/2023 01:08 PM",
+      "updatedBy": "",
+      "recStatus": "A"
+    },
+    {
+      "id": 3,
+      "label": "CreateAccount",
+      "emailFrom": "Corporate Gear",
+      "emailTo": "Corporate Gear",
+      "store": "Corporate Gear",
+      "subject": "Welcome to Corporate Gear!",
+      "emailCC": "",
+      "emailBCC": "",
+      "emailBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "createdDate": "2023-05-27T06:16:20.15",
+      "createdBy": "Vishal Patel",
+      "updatedDate": "05/02/2023 09:42 AM",
+      "updatedBy": "Vipul Solanki",
+      "recStatus": "A"
+    },
+    {
+      "id": 4,
+      "label": "GiftCertificate",
+      "emailFrom": "Corporate Gear",
+      "emailTo": "Corporate Gear",
+      "store": "Corporate Gear",
+      "subject": "New Gift Certificate from ",
+      "emailCC": "",
+      "emailBCC": "",
+      "emailBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "createdDate": "2023-05-27T06:16:20.15",
+      "createdBy": "Vishal Patel",
+      "updatedDate": "2023-05-27T06:16:20.15",
+      "updatedBy": "",
+      "recStatus": "A"
+    },
+    {
+      "id": 5,
+      "label": "Inquiries",
+      "emailFrom": "Corporate Gear",
+      "emailTo": "Corporate Gear",
+      "store": "Corporate Gear",
+      "subject": "Customer Request Notification For Inventory",
+      "emailCC": "",
+      "emailBCC": "",
+      "emailBody": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "createdDate": "2023-05-27T06:16:20.15",
+      "createdBy": "Vishal Patel",
+      "updatedDate": "2023-05-27T06:16:20.15",
+      "updatedBy": "",
+      "recStatus": "I"
+    }
+  ],
+  "EMAIL_AUTORESPONDER_OPTIONS": [
+    {
+      "label": "24 On Tour",
+      "value": "1"
+    },
+    {
+      "label": "Bacardi",
+      "value": "2"
+    },
+    {
+      "label": "Bacardi Grey Goose",
+      "value": "3"
+    },
+    {
+      "label": "Boston Beer",
+      "value": "4"
+    },
+    {
+      "label": "Corporate Gear",
+      "value": "5"
+    }
+  ]
+}

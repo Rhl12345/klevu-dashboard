@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "sr_no": 1,
+            "product_name": "Wireless Mouse",
+            "sku": "WM123",
+            "total_quantity": 100,
+            "total_order": 25
+        },
+        {
+            "sr_no": 2,
+            "product_name": "Gaming Keyboard",
+            "sku": "GK456",
+            "total_quantity": 50,
+            "total_order": 15
+        },
+        {
+            "sr_no": 3,
+            "product_name": "Laptop Stand",
+            "sku": "LS789",
+            "total_quantity": 70,
+            "total_order": 30
+        },
+        {
+            "sr_no": 4,
+            "product_name": "Webcam",
+            "sku": "WC234",
+            "total_quantity": 40,
+            "total_order": 10
+        },
+        {
+            "sr_no": 5,
+            "product_name": "External Hard Drive",
+            "sku": "HD567",
+            "total_quantity": 60,
+            "total_order": 20
+        }
+    ]
+}

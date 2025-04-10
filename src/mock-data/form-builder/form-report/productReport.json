@@ -1,0 +1,109 @@
+{
+  "data": {
+    "totalQuantity": 5,
+    "includeProductArtwork": true,
+    "products": [
+      {
+        "id": 1,
+        "name": "STIO Women's Sweetwater Fleece Jacket",
+        "style": "Stio Style 100049-72029",
+        "image": [
+          {
+            "id": 1,
+            "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/100049-452.jpg",
+            "name": "Mountain Shadow"
+          },
+          {
+            "id": 2,
+            "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/100049-112.jpg",
+            "name": "Abyss Heather"
+          }
+        ],
+        "quantity": 2,
+        "variations": [
+          {
+            "id": 1,
+            "color": "Mountain Shadow",
+            "size": "LG",
+            "quantity": 2,
+            "paid": 350.0,
+            "base": 350.0
+          },
+          {
+            "id": 2,
+            "color": "Abyss Heather",
+            "size": "XL",
+            "quantity": 1,
+            "paid": 175.0,
+            "base": 175.0
+          }
+        ],
+        "totalQuantity": 3,
+        "totalPaid": 525.0,
+        "totalBase": 525.0
+      },
+      {
+        "id": 2,
+        "name": "STIO Women's Azura Jacket",
+        "style": "Stio Style 100036-72030",
+        "image": [
+          {
+            "id": 1,
+            "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/100049-452.jpg",
+            "name": "Abyss Heather"
+          }
+        ],
+        "quantity": 1,
+        "variations": [
+          {
+            "id": 1,
+            "color": "Mountain Shadow",
+            "size": "LG",
+            "quantity": 2,
+            "paid": 350.0,
+            "base": 350.0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "STIO Men's Azura Jacket",
+        "style": "Stio Style 200027-72031",
+        "image": [
+          {
+            "id": 1,
+            "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/100049-112.jpg",
+            "name": "Mountain Shadow"
+          },
+          {
+            "id": 2,
+            "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/100049-452.jpg",
+            "name": "Abyss Heather"
+          }
+        ],
+        "quantity": 2,
+        "variations": [
+          {
+            "id": 1,
+            "color": "Mountain Shadow",
+            "size": "LG",
+            "quantity": 2,
+            "paid": 350.0,
+            "base": 350.0
+          },
+          {
+            "id": 2,
+            "color": "Mountain Shadow",
+            "size": "XL",
+            "quantity": 1,
+            "paid": 175.0,
+            "base": 175.0
+          }
+        ],
+        "totalQuantity": 3,
+        "totalPaid": 525.0,
+        "totalBase": 525.0
+      }
+    ]
+  }
+}

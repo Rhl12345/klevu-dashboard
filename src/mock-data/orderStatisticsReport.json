@@ -1,0 +1,114 @@
+{
+  "orderStatisticsReportData": [
+    {
+      "day": "2024-03-20T10:30:00",
+      "totalOrders": 145,
+      "subTotal": 7850.99,
+      "tax": 628.08,
+      "shipping": 245.5,
+      "refund": 120.0,
+      "discount": 350.25,
+      "adjustmentAmount": 25.0,
+      "total": 8279.32
+    },
+    {
+      "day": "2024-03-19T09:45:00",
+      "totalOrders": 132,
+      "subTotal": 6920.5,
+      "tax": 553.64,
+      "shipping": 220.75,
+      "refund": 85.0,
+      "discount": 275.5,
+      "adjustmentAmount": 15.0,
+      "total": 7349.39
+    },
+    {
+      "day": "2024-03-18T11:15:00",
+      "totalOrders": 158,
+      "subTotal": 8250.75,
+      "tax": 660.06,
+      "shipping": 265.25,
+      "refund": 95.5,
+      "discount": 412.5,
+      "adjustmentAmount": 30.0,
+      "total": 8698.06
+    },
+    {
+      "day": "2024-03-17T08:20:00",
+      "totalOrders": 121,
+      "subTotal": 5980.25,
+      "tax": 478.42,
+      "shipping": 198.75,
+      "refund": 150.0,
+      "discount": 299.0,
+      "adjustmentAmount": 20.0,
+      "total": 6228.42
+    },
+    {
+      "day": "2024-03-16T13:40:00",
+      "totalOrders": 167,
+      "subTotal": 9120.8,
+      "tax": 729.66,
+      "shipping": 285.5,
+      "refund": 75.25,
+      "discount": 456.0,
+      "adjustmentAmount": 35.0,
+      "total": 9639.71
+    },
+    {
+      "day": "2024-03-15T12:10:00",
+      "totalOrders": 139,
+      "subTotal": 7150.45,
+      "tax": 572.04,
+      "shipping": 235.25,
+      "refund": 110.5,
+      "discount": 357.5,
+      "adjustmentAmount": 22.0,
+      "total": 7511.74
+    },
+    {
+      "day": "2024-03-14T10:55:00",
+      "totalOrders": 143,
+      "subTotal": 7680.3,
+      "tax": 614.42,
+      "shipping": 242.75,
+      "refund": 90.0,
+      "discount": 384.0,
+      "adjustmentAmount": 28.0,
+      "total": 8091.47
+    },
+    {
+      "day": "2024-03-13T09:30:00",
+      "totalOrders": 129,
+      "subTotal": 6450.9,
+      "tax": 516.07,
+      "shipping": 215.0,
+      "refund": 135.75,
+      "discount": 322.5,
+      "adjustmentAmount": 18.0,
+      "total": 6741.72
+    },
+    {
+      "day": "2024-03-12T14:20:00",
+      "totalOrders": 152,
+      "subTotal": 8420.6,
+      "tax": 673.65,
+      "shipping": 255.0,
+      "refund": 105.25,
+      "discount": 421.0,
+      "adjustmentAmount": 32.0,
+      "total": 8855.0
+    },
+    {
+      "day": "2024-03-11T11:45:00",
+      "totalOrders": 136,
+      "subTotal": 7250.85,
+      "tax": 580.07,
+      "shipping": 230.25,
+      "refund": 98.5,
+      "discount": 362.5,
+      "adjustmentAmount": 24.0,
+      "total": 7624.17
+    }
+  ]
+}

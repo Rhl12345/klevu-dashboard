@@ -1,0 +1,198 @@
+{
+  "BRANDS": [
+    {
+      "label": "Adidas",
+      "value": "adidas"
+    },
+    {
+      "label": "Nike",
+      "value": "nike"
+    },
+    {
+      "label": "Puma",
+      "value": "puma"
+    },
+    {
+      "label": "Reebok",
+      "value": "reebok"
+    },
+    {
+      "label": "Under Armour",
+      "value": "under-armour"
+    },
+    {
+      "label": "New Balance",
+      "value": "new-balance"
+    },
+    {
+      "label": "Converse",
+      "value": "converse"
+    },
+    {
+      "label": "Vans",
+      "value": "vans"
+    },
+    {
+      "label": "ASICS",
+      "value": "asics"
+    },
+    {
+      "label": "Fila",
+      "value": "fila"
+    },
+    {
+      "label": "Skechers",
+      "value": "skechers"
+    },
+    {
+      "label": "Jordan",
+      "value": "jordan"
+    },
+    {
+      "label": "Brooks",
+      "value": "brooks"
+    }
+  ],
+  "merchantServiceData": [
+    {
+      "storeName": "Store Alpha",
+      "serviceName": "Product Feed",
+      "serviceStatus": "Active",
+      "updatedDate": "2024-03-20T14:30:00",
+      "updatedBy": "John Doe",
+      "recStatus": "A"
+    },
+    {
+      "storeName": "Store Beta",
+      "serviceName": "Inventory Sync",
+      "serviceStatus": "Pending",
+      "updatedDate": "2024-03-19T09:15:00",
+      "updatedBy": "Jane Smith",
+      "recStatus": "I"
+    },
+    {
+      "storeName": "Store Gamma",
+      "serviceName": "Price Update",
+      "serviceStatus": "Active",
+      "updatedDate": "2024-03-18T16:45:00",
+      "updatedBy": "Mike Johnson",
+      "recStatus": "A"
+    },
+    {
+      "storeName": "Store Delta",
+      "serviceName": "Order Sync",
+      "serviceStatus": "Inactive",
+      "updatedDate": "2024-03-17T11:20:00",
+      "updatedBy": "Sarah Wilson",
+      "recStatus": "A"
+    },
+    {
+      "storeName": "Store Epsilon",
+      "serviceName": "Category Mapping",
+      "serviceStatus": "Active",
+      "updatedDate": "2024-03-16T13:50:00",
+      "updatedBy": "Tom Brown",
+      "recStatus": "A"
+    },
+    {
+      "storeName": "Store Zeta",
+      "serviceName": "Product Import",
+      "serviceStatus": "Pending",
+      "updatedDate": "2024-03-15T10:05:00",
+      "updatedBy": "Lisa Anderson",
+      "recStatus": "A"
+    }
+  ],
+  "filteringOptions": [
+    {
+      "label": "bacardi",
+      "value": "bacardi"
+    },
+    {
+      "label": "Corporate Gear",
+      "value": "corporateGear"
+    },
+    {
+      "label": "Bosten Beer",
+      "value": "bostenBeer"
+    },
+    {
+      "label": "Tech Solutions Inc",
+      "value": "techSolutions"
+    },
+    {
+      "label": "Global Foods",
+      "value": "globalFoods"
+    },
+    {
+      "label": "Sports Elite",
+      "value": "sportsElite"
+    },
+    {
+      "label": "Fashion Forward",
+      "value": "fashionForward"
+    },
+    {
+      "label": "Green Energy Co",
+      "value": "greenEnergy"
+    },
+    {
+      "label": "Auto Parts Plus",
+      " value": "autoPartsPlus"
+    },
+    {
+      "label": "Health Essentials",
+      "value": "healthEssentials"
+    },
+    {
+      "label": "Digital Dynamics",
+      "value": "digitalDynamics"
+    },
+    {
+      "label": "Office Supplies Pro",
+      "value": "officeSuppliesPro"
+    },
+    {
+      "label": "Gourmet Foods Co",
+      "value": "gourmetFoods"
+    }
+  ],
+  "categories": [
+    { "id": "checkbox-1", "label": "Electronics" },
+    { "id": "checkbox-2", "label": "Fashion" },
+    { "id": "checkbox-3", "label": "Home & Garden" },
+    { "id": "checkbox-4", "label": "Sports & Outdoors" }
+  ],
+  "BrandsOptions": [
+    {
+      "label": "Adidas",
+      "value": "adidas"
+    },
+
+    {
+      "label": "Nike",
+      "value": "nike"
+    },
+
+    {
+      "label": "Puma",
+      "value": "puma"
+    }
+  ],
+  "categoriesOptions": [
+    {
+      "label": "Adidas",
+      "value": "adidas"
+    },
+
+    {
+      "label": "Nike",
+      "value": "nike"
+    },
+
+    {
+      "label": "Puma",
+      "value": "puma"
+    }
+  ]
+}

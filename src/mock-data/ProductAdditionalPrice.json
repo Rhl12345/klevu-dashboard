@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Addidas",
+      "amount": 1000,
+      "description": "Addidas is a brand that sells shoes and clothing",
+      "hideFromCustomer": false,
+      "fundRaising": false
+    },
+    {
+      "id": 2,
+      "name": "Nike",
+      "amount": 2000,
+      "description": "Nike is a brand that sells shoes and clothing",
+      "hideFromCustomer": true,
+      "fundRaising": false
+    },
+    {
+      "id": 3,
+      "name": "Puma",
+      "amount": 3000,
+      "description": "Puma is a brand that sells shoes and clothing",
+      "hideFromCustomer": false,
+      "fundRaising": true
+    },
+    {
+      "id": 4,
+      "name": "Reebok",
+      "amount": 4000,
+      "description": "Reebok is a brand that sells shoes and clothing",
+      "hideFromCustomer": true,
+      "fundRaising": true
+    },
+    {
+      "id": 5,
+      "name": "Converse",
+      "amount": 5000,
+      "description": "Converse is a brand that sells shoes and clothing",
+      "hideFromCustomer": false,
+      "fundRaising": false
+    }
+  ]

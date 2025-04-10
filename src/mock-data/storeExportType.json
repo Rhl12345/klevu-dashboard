@@ -1,0 +1,70 @@
+[
+  {
+    "value": "LogoLocation",
+    "label": "LogoLocation"
+  },
+  {
+    "value": "Companion",
+    "label": "Companion"
+  },
+  {
+    "value": "MinimumQuantity",
+    "label": "MinimumQuantity"
+  },
+  {
+    "value": "StoreProductSeo",
+    "label": "StoreProductSeo"
+  },
+  {
+    "value": "StoreAlterImageTag",
+    "label": "StoreAlterImageTag"
+  },
+  {
+    "value": "StoreShortDescription",
+    "label": "StoreShortDescription"
+  },
+  {
+    "value": "StoreProductFlag",
+    "label": "StoreProductFlag"
+  },
+  {
+    "value": "StoreProductQuantityDiscount",
+    "label": "StoreProductQuantityDiscount"
+  },
+  {
+    "value": "StoreProductAlterImage",
+    "label": "StoreProductAlterImage"
+  },
+  {
+    "value": "StoreProductAlterImage",
+    "label": "StoreProductAlterImage"
+  },
+  {
+    "value": "StoreProductPrices",
+    "label": "StoreProductPrices"
+  },
+  {
+    "value": "StoreProductSizeChart",
+    "label": "StoreProductSizeChart"
+  },
+  {
+    "value": "StoreProductPricesChart",
+    "label": "StoreProductPricesChart"
+  },
+  {
+    "value": "StoreProductDescription",
+    "label": "StoreProductDescription"
+  },
+  {
+    "value": "StoreProductDraftOrStagingToActive",
+    "label": "StoreProductDraftOrStagingToActive"
+  },
+  {
+    "value": "StoreProductDraftOrStagingToActive",
+    "label": "StoreProductDraftOrStagingToActive"
+  },
+  {
+    "value": "StoreProductName",
+    "label": "StoreProductName"
+  }
+]

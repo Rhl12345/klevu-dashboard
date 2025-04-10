@@ -1,0 +1,124 @@
+{
+    "threadData": [
+        {
+            "id": 1,
+            "groupColorValue": "144",
+            "threadBrandName": "Madera",
+            "displayOrder": "1",
+            "createdDate": "03/21/2024",
+            "createdBy": "Vikas Patel",
+            "updatedDate": "03/21/2024",
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 2,
+            "groupColorValue": "WHITE",
+            "threadBrandName": "Madera",
+            "displayOrder": "1",
+            "createdDate": "03/26/2024",
+            "createdBy": "Betol User",
+            "updatedDate": "03/21/2024",
+            "updatedBy": null,
+            "recStatus": "I"
+        },
+        {
+            "id": 3,
+            "groupColorValue": "BLACK",
+            "threadBrandName": "Madera",
+            "displayOrder": "2",
+            "createdDate": "03/26/2024",
+            "createdBy": "Betol User",
+            "updatedDate": "03/21/2024",
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 4,
+            "groupColorValue": "1000 Emerald Black",
+            "threadBrandName": "Madera",
+            "displayOrder": "3",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 5,
+            "groupColorValue": "1001 Super White",
+            "threadBrandName": "Madera",
+            "displayOrder": "4",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 6,
+            "groupColorValue": "1002 Snow White",
+            "threadBrandName": "Madera",
+            "displayOrder": "5",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 7,
+            "groupColorValue": "1003 Creme White",
+            "threadBrandName": "Madera",
+            "displayOrder": "6",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 8,
+            "groupColorValue": "1004 Natural White",
+            "threadBrandName": "Madera",
+            "displayOrder": "7",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 9,
+            "groupColorValue": "1005 Fluorescent White",
+            "threadBrandName": "Madera",
+            "displayOrder": "8",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        },
+        {
+            "id": 10,
+            "groupColorValue": "1006 Diamond Black",
+            "threadBrandName": "Madera",
+            "displayOrder": "9",
+            "createdDate": null,
+            "createdBy": null,
+            "updatedDate": null,
+            "updatedBy": null,
+            "recStatus": "A"
+        }
+    ],
+    "THREAD_GROUP_OPTIONS": [
+        {
+            "label": "Madera",
+            "value": "1"
+        },
+        {
+            "label": "Robison Anton",
+            "value": "2"
+        }
+    ]
+}

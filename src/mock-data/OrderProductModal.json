@@ -1,0 +1,7 @@
+[
+    { "googleImageLink": "https://www.google.com/search?q=Product+1&tbm=isch", "name": "Product 1", "price": 10, "totalAmount": 10, "items": 1, "recStatus": "In Stock" },
+    { "googleImageLink": "https://www.google.com/search?q=Product+2&tbm=isch", "name": "Product 2", "price": 20, "totalAmount": 20, "items": 1, "recStatus": "In Stock" },
+    { "googleImageLink": "https://www.google.com/search?q=Product+3&tbm=isch", "name": "Product 3", "price": 30, "totalAmount": 30, "items": 1, "recStatus": "Out of Stock" },
+    { "googleImageLink": "https://www.google.com/search?q=Product+4&tbm=isch", "name": "Product 4", "price": 40, "totalAmount": 40, "items": 1, "recStatus": "In Stock" },
+    { "googleImageLink": "https://www.google.com/search?q=Product+5&tbm=isch", "name": "Product 5", "price": 50, "totalAmount": 50, "items": 1, "recStatus": "In Stock" }
+]

@@ -1,0 +1,118 @@
+{
+    "companyData": [
+    {
+      "id": 1,
+      "companyName": "Tech Solutions Inc",
+      "stores": "Store A",
+      "storeLogoUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "revenue": "250,000",
+      "orders": 1250,
+      "lastActive": "2024-03-20T14:30:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "companyName": "Global Retail Corp",
+      "stores": "Store B",
+      "storeLogoUrl": "https://www.gstatic.com/meet/google_meet_horizontal_wordmark_2020q4_1x_icon_124_40_2373e79660dabbf194273d27aa7ee1f5.png",
+      "revenue": "180,000",
+      "orders": 890,
+      "lastActive": "2024-03-19T09:15:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 3,
+      "companyName": "Digital Dynamics",
+      "stores": "Store C",
+      "storeLogoUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "revenue": "320,000",
+      "orders": 1580,
+      "lastActive": "2024-03-18T16:45:00",
+      "recStatus": "I"
+    },
+    {
+      "id": 4,
+      "companyName": "Smart Systems Ltd",
+      "stores": "Store D",
+      "storeLogoUrl": "https://www.gstatic.com/images/branding/product/2x/docs_2020q4_48dp.png",
+      "revenue": "420,000",
+      "orders": 2100,
+      "lastActive": "2024-03-17T11:20:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 5,
+      "companyName": "Future Electronics",
+      "stores": "Store E",
+      "storeLogoUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "revenue": "150,000",
+      "orders": 750,
+      "lastActive": "2024-03-16T13:10:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 6,
+      "companyName": "Innovation Hub",
+      "stores": "Store F",
+      "storeLogoUrl": "https://www.gstatic.com/images/branding/product/2x/docs_2020q4_48dp.png",
+      "revenue": "280,000",
+      "orders": 1400,
+      "lastActive": "2024-03-15T15:30:00",
+      "recStatus": "I"
+    },
+    {
+      "id": 7,
+      "companyName": "Prime Ventures",
+      "stores": "Store G",
+      "storeLogoUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "revenue": "390,000",
+      "orders": 1950,
+      "lastActive": "2024-03-14T10:45:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 8,
+      "companyName": "Next Gen Solutions",
+      "stores": "Store H",
+      "storeLogoUrl": "https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png",
+      "revenue": "210,000",
+      "orders": 1050,
+      "lastActive": "2024-03-13T14:20:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 9,
+      "companyName": "Digital First Inc",
+      "stores": "Store I",
+      "storeLogoUrl": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "revenue": "175,000",
+      "orders": 875,
+      "lastActive": "2024-03-12T09:30:00",
+      "recStatus": "I"
+    },
+    {
+      "id": 10,
+      "companyName": "Tech Pioneers",
+      "stores": "Store J",
+      "storeLogoUrl": "https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png",
+      "revenue": "295,000",
+      "orders": 1475,
+      "lastActive": "2024-03-11T16:15:00",
+      "recStatus": "A"
+    }
+  ],
+  "dropdownOptions": [
+    {
+      "label": "Bacardi",
+      "value": "bacardi"
+    },
+    {
+      "label": "Bosten Beer",
+      "value": "Bosten Beer"
+    },
+    {
+      "label": "Corporate Gear",
+      "value": "Corporate Gear"
+    }
+  ]
+}

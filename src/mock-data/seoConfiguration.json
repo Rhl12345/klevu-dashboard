@@ -1,0 +1,60 @@
+{
+  "commonTags": {
+    "headCode": "",
+    "bodyCode": ""
+  },
+  "googleAnalytics": {
+    "enabled": false,
+    "tagId": ""
+  },
+  "googleTagManager": {
+    "enabled": false,
+    "gtmCode": ""
+  },
+  "facebookPixel": {
+    "enabled": false,
+    "pixelId": ""
+  },
+  "pinterest": {
+    "enabled": false,
+    "headCode": "",
+    "htmlVerificationCode": ""
+  },
+  "affiliateConversion": {
+    "enabled": false,
+    "connection": ""
+  },
+  "social": {
+    "ogTags": {
+      "image": null,
+      "url": "",
+      "title": "",
+      "description": ""
+    },
+    "facebook": {
+      "url": "",
+      "title": "",
+      "description": ""
+    },
+    "twitter": {
+      "url": "",
+      "title": "",
+      "description": ""
+    },
+    "linkedin": {
+      "url": "",
+      "title": "",
+      "description": ""
+    },
+    "pinterest": {
+      "image": null,
+      "url": "",
+      "title": "",
+      "description": ""
+    }
+  },
+  "integration": {
+    "enabled": false,
+    "semrushAPIKey": ""
+  }
+}

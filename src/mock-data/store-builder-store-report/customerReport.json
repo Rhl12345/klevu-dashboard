@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "product_name": "T-Shirt",
+            "size": "M",
+            "color": "Red",
+            "quantity": 10,
+            "paid": 100.00
+        },
+        {
+            "product_name": "Hoodie",
+            "size": "L",
+            "color": "Blue",
+            "quantity": 5,
+            "paid": 75.00
+        },
+        {
+            "product_name": "Jacket",
+            "size": "XL",
+            "color": "Black",
+            "quantity": 8,
+            "paid": 200.00
+        },
+        {
+            "product_name": "Shirt",
+            "size": "S",
+            "color": "White",
+            "quantity": 15,
+            "paid": 150.00
+        },
+        {
+            "product_name": "Pants",
+            "size": "M",
+            "color": "Green",
+            "quantity": 6,
+            "paid": 90.00
+        }
+    ]
+}

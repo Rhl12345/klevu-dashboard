@@ -1,0 +1,94 @@
+[
+  {
+    "id": "1",
+    "storeName": "corporate-gear",
+    "displayName": "Corporate Gear",
+    "storeType": "ecommerce-store",
+    "url": "https://ecommerce-store-1.com"
+  },
+  {
+    "id": "2",
+    "storeName": "game-day-gear",
+    "displayName": "Game Day Gear",
+    "storeType": "ecommerce-store",
+    "url": "https://ecommerce-store-1.com"
+  },
+  {
+    "id": "3",
+    "storeName": "driving-impressions",
+    "displayName": "Driving Impressions",
+    "storeType": "ecommerce-store",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "4",
+    "storeName": "pk-health-gear",
+    "displayName": "PK Health Gear",
+    "storeType": "ecommerce-store",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "5",
+    "storeName": "porsche",
+    "displayName": "Porsche",
+    "storeType": "corporate-store",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "6",
+    "storeName": "bacardi",
+    "displayName": "Bacardi",
+    "storeType": "corporate-store",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "7",
+    "storeName": "unity",
+    "displayName": "Unity",
+    "storeType": "corporate-store",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "8",
+    "storeName": "pk-stores",
+    "displayName": "PK Stores",
+    "storeType": "store-builder",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "9",
+    "storeName": "cg-stores",
+    "displayName": "CG Stores",
+    "storeType": "store-builder",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "10",
+    "storeName": "gameday-stores",
+    "displayName": "Game Day Stores",
+    "storeType": "store-builder",
+    "url": "https://corporate-store-1.com"
+  },
+
+  {
+    "id": "8",
+    "storeName": "pk-forms",
+    "displayName": "PK Forms",
+    "storeType": "form-builder",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "9",
+    "storeName": "cg-forms",
+    "displayName": "CG Forms",
+    "storeType": "form-builder",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "10",
+    "storeName": "gameday-forms",
+    "displayName": "Game Day Forms",
+    "storeType": "form-builder",
+    "url": "https://corporate-store-1.com"
+  }
+]

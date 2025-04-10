@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "Prem",
+            "customerEmail": "prem@redefinesolutions.com",
+            "totalOrders": 2,
+            "orderTotal": 6101.00
+        },
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "Tejas",
+            "customerEmail": "tejas@redefinesolutions.com",
+            "totalOrders": 2,
+            "orderTotal": 6307.00
+        },
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "John",
+            "customerEmail": "john@example.com",
+            "totalOrders": 3,
+            "orderTotal": 7200.00
+        },
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "Emily",
+            "customerEmail": "emily@example.com",
+            "totalOrders": 1,
+            "orderTotal": 4500.00
+        },
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "Michael",
+            "customerEmail": "michael@example.com",
+            "totalOrders": 4,
+            "orderTotal": 9800.00
+        },
+        {
+            "storeLogo": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+            "storeName": "Corporate Gear",
+            "customerName": "Sarah",
+            "customerEmail": "sarah@example.com",
+            "totalOrders": 2,
+            "orderTotal": 5000.00
+        }
+    ]
+}

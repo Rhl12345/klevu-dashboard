@@ -1,0 +1,92 @@
+import { ILogoData } from "@/types/admin-stores/storeForm.types";
+import { IThirdPartyServiceData } from "@/types/admin-theme/adminTheme.types";
+
+export const thirdPartyData: IThirdPartyServiceData[] = [
+  {
+    id: 1,
+    name: "Klaviyo",
+    serviceName: "Klaviyo",
+    storeName: "Corporate Gear",
+    createdDate: "05/27/2023",
+    createdTime: "06:16 AM",
+    createdBy: "Vishal Patel",
+    updatedDate: "10/05/2023",
+    updatedTime: "07:23 AM",
+    updatedBy: "Binal Prajapati",
+    recStatus: "Active",
+  },
+  {
+    id: 2,
+    name: "Uniti-Okta",
+    serviceName: "Okta",
+    storeName: "Uniti",
+    createdDate: "06/28/2023",
+    createdTime: "08:56 AM",
+    createdBy: "Bhargav Yadav",
+    updatedDate: "08/02/2023",
+    updatedTime: "02:46 AM",
+    updatedBy: "Ankit Gandhi",
+    recStatus: "Active",
+  },
+  {
+    id: 3,
+    name: "Sample Landing page",
+    serviceName: "Coupa",
+    storeName: "Boston Beer",
+    createdDate: "06/28/2023",
+    createdTime: "12:30 PM",
+    createdBy: "Priya Chitlangia",
+    updatedDate: null,
+    updatedTime: null,
+    updatedBy: null,
+    recStatus: "Active",
+  },
+  {
+    id: 4,
+    name: "PRIYA",
+    serviceName: "Coupa",
+    storeName: "Corporate Gear",
+    createdDate: "06/29/2023",
+    createdTime: "08:25 AM",
+    createdBy: "Priya Chitlangia",
+    updatedDate: "08/11/2023",
+    updatedTime: "02:14 AM",
+    updatedBy: "Bhargav Yadav",
+    recStatus: "Inactive",
+  },
+  {
+    id: 5,
+    name: "Customer Lead",
+    serviceName: "Customer Lead",
+    storeName: "Corporate Gear",
+    createdDate: "07/12/2023",
+    createdTime: "05:43 AM",
+    createdBy: "Binal Prajapati",
+    updatedDate: "02/08/2024",
+    updatedTime: "06:15 AM",
+    updatedBy: "Ankit Gandhi",
+    recStatus: "Active",
+  },
+];
+
+export const DECORATION_OPTIONS = [
+  { value: "DTH", label: "DTH" },
+  { value: "EMB", label: "EMB" },
+  { value: "ENG", label: "ENG" },
+  { value: "GBP", label: "GBP" },
+  { value: "PER", label: "PER" },
+  { value: "SCR", label: "SCR" },
+];
+
+export const DECORATION_DUMMY_DATA: ILogoData[] = [
+  {
+    logoNo: "LOGO001",
+    logoFile: "/noImage.png",
+    logoType: "PER",
+    dstFile: "/storagemedia/1/import/MSF.DST",
+    sewOut: "Completed",
+    sewOutProofFile: "/noImage.png",
+    stitchCount: 5000,
+    description: "Company main logo - 3 inches width",
+  },
+];

@@ -1,0 +1,64 @@
+{
+    "brandId": 0,
+    "categoryId": 7,
+    "storeId": 5,
+    "totalProducts": 2956,
+    "message": null,
+    "data": [
+        {
+            "orderId": "#JS10403",
+            "status": "Unfulfilled",
+            "date": "02/10/2024",
+            "subTotal": 179.00,
+            "discountAmt": 0.00,
+            "shipping": 80.00,
+            "tax": 14.72,
+            "addAmount": 0.00,
+            "total": 2020.72
+        },
+        {
+            "orderId": "#1606426",
+            "status": "Unfulfilled",
+            "date": "02/10/2025",
+            "subTotal": 234.00,
+            "discountAmt": 0.00,
+            "shipping": 100.00,
+            "tax": 0.00,
+            "addAmount": 0.00,
+            "total": 234.00
+        },
+        {
+            "orderId": "#JS10404",
+            "status": "Fulfilled",
+            "date": "03/15/2024",
+            "subTotal": 150.00,
+            "discountAmt": 10.00,
+            "shipping": 50.00,
+            "tax": 12.00,
+            "addAmount": 5.00,
+            "total": 207.00
+        },
+        {
+            "orderId": "#1606427",
+            "status": "Pending",
+            "date": "04/20/2025",
+            "subTotal": 300.00,
+            "discountAmt": 20.00,
+            "shipping": 60.00,
+            "tax": 18.00,
+            "addAmount": 0.00,
+            "total": 358.00
+        },
+        {
+            "orderId": "#JS10405",
+            "status": "Cancelled",
+            "date": "05/25/2024",
+            "subTotal": 100.00,
+            "discountAmt": 5.00,
+            "shipping": 30.00,
+            "tax": 8.00,
+            "addAmount": 0.00,
+            "total": 133.00
+        }
+    ]
+}

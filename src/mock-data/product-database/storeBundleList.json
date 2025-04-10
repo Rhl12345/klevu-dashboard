@@ -1,0 +1,120 @@
+{
+  "store": [
+    {
+      "typeId": 1,
+      "type": "Corporate Store",
+      "list": [
+        {
+          "id": 216,
+          "name": "ParsonsKellogg",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_216.png",
+          "recStatus": "A",
+          "isActive": true
+        },
+        {
+          "id": 24,
+          "name": "Usaa Military Affairs",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_24.png",
+          "recStatus": "A",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "typeId": 2,
+      "type": "eCommerce Store",
+      "list": [
+        {
+          "id": 5,
+          "name": "Corporate Gear",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_5.svg",
+          "recStatus": "A",
+          "isActive": true
+        },
+        {
+          "id": 8,
+          "name": "Driving Impressions",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_8.png",
+          "recStatus": "A",
+          "isActive": true
+        },
+        {
+          "id": 7,
+          "name": "PKHealth Gear",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_7.png",
+          "recStatus": "A",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "typeId": 3,
+      "type": "Store Builder",
+      "list": [
+        {
+          "id": 30,
+          "name": "Gameday Stores",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_30.jpg",
+          "recStatus": "A",
+          "isActive": true
+        },
+        {
+          "id": 27,
+          "name": "PK Stores",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_27.png",
+          "recStatus": "I",
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "typeId": 5,
+      "type": "Form Builder",
+      "list": [
+        {
+          "id": 1,
+          "name": "Corporate Gear",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_5.svg",
+          "recStatus": "A",
+          "isActive": true
+        }
+      ]
+    }
+  ],
+
+  "bundle": [
+    {
+      "typeId": 1,
+      "type": "Corporate Store",
+      "list": [
+        {
+          "id": 216,
+          "name": "ParsonsKellogg",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_216.png",
+          "recStatus": "A",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "typeId": 2,
+      "type": "eCommerce Store",
+      "list": [
+        {
+          "id": 5,
+          "name": "Corporate Gear",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_5.svg",
+          "recStatus": "A",
+          "isActive": true
+        },
+        {
+          "id": 8,
+          "name": "Driving Impressions",
+          "imageUrl": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_8.png",
+          "recStatus": "A",
+          "isActive": true
+        }
+      ]
+    }
+  ]
+}

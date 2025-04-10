@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "storeName": "usaa-clothing",
+    "displayName": "USAA Clothing",
+    "storeType": "store-builder",
+    "storeBuilderId": "8",
+    "storeBuilderName": "pk-form",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "2",
+    "storeName": "freedom-boat-club",
+    "displayName": "Freedom Boat Club",
+    "storeType": "store-builder",
+    "storeBuilderId": "8",
+    "storeBuilderName": "pk-form",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "3",
+    "storeName": "greenwave",
+    "displayName": "Greenwave",
+    "storeType": "store-builder",
+    "storeBuilderId": "8",
+    "storeBuilderName": "pk-form",
+    "url": "https://corporate-store-1.com"
+  }
+]

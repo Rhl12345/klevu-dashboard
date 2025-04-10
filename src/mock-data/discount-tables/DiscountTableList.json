@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "quantityName": "Discount Table 1",
+      "storeName": "Store A",
+      "brandName": "Brand X",
+      "vendorName": "Vendor 1",
+      "createdDate": "2024-01-01T10:00:00",
+      "createdName": "John Doe",
+      "modifiedDate": "2024-01-02T15:30:00",
+      "modifiedName": "Jane Smith",
+      "recStatus": "A",
+      "default": true,
+      "isBundle": false,
+      "storeId": 1,
+      "brandId": 1,
+      "vendorId": 1
+    },
+    {
+      "id": "2",
+      "quantityName": "Discount Table 2",
+      "storeName": "Store B",
+      "brandName": "Brand Y",
+      "vendorName": "Vendor 2",
+      "createdDate": "2024-01-03T09:00:00",
+      "createdName": "John Doe",
+      "modifiedDate": null,
+      "modifiedName": null,
+      "recStatus": "A",
+      "default": true,
+      "isBundle": true,
+      "storeId": 2,
+      "brandId": 2,
+      "vendorId": 2
+    },
+    {
+      "id": "3",
+      "quantityName": "Discount Table 3",
+      "storeName": "Store C",
+      "brandName": "Brand Z",
+      "vendorName": "Vendor 3",
+      "createdDate": "2024-01-04T14:00:00",
+      "createdName": "Jane Smith",
+      "modifiedDate": "2024-01-05T11:20:00",
+      "modifiedName": "John Doe",
+      "recStatus": "I",
+      "default": false,
+      "isBundle": false,
+      "storeId": 3,
+      "brandId": 3,
+      "vendorId": 3
+    }
+  ],
+  "totalCount": 3,
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false
+}

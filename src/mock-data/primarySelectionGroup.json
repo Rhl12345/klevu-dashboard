@@ -1,0 +1,524 @@
+{
+        "pageIndex": 1,
+        "pageSize": 25,
+        "totalCount": 8,
+        "totalPages": 1,
+        "hasPreviousPage": false,
+        "hasNextPage": false,
+        "items": [
+            {
+                "id": 44733,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/AD222-HT1276.jpg",
+                    "/storagemedia/1/product/attributeimages/AD222-HT1227.jpg",
+                    "/storagemedia/1/product/attributeimages/AD222-HT1275.jpg"
+                ],
+                "count": 12,
+                "ourSKU": "AD222",
+                "vendorSKU": "AD222",
+                "name": "Adidas Golf Women's Golf Hoodie",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 35.00,
+                "msrp": 70.00,
+                "imap": 0.00,
+                "salePrice": 70.00,
+                "category": "Women > Hoodies & Sweatshirts > Hoodies",
+                "createdDate": "2024-09-11T00:29:03.3720105",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:30:14.6758368",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "BeufZvn+3Ag=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "Adidas Golf",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212517,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD222-HT1276.jpg",
+                        "productId": 44733,
+                        "quantity": 512
+                    },
+                    {
+                        "id": 212516,
+                        "name": "Blue Fusion",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD222-HT1227.jpg",
+                        "productId": 44733,
+                        "quantity": 512
+                    },
+                    {
+                        "id": 212515,
+                        "name": "White",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD222-HT1275.jpg",
+                        "productId": 44733,
+                        "quantity": 512
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Women"
+            },
+            {
+                "id": 44734,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/AD129-HS4813.jpg",
+                    "/storagemedia/1/product/attributeimages/AD129-HI3847.jpg"
+                ],
+                "count": 4,
+                "ourSKU": "AD129",
+                "vendorSKU": "AD129",
+                "name": "Adidas Golf Men's Three Stripe Cold.Rdy Hoodie",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 45.00,
+                "msrp": 90.00,
+                "imap": 0.00,
+                "salePrice": 90.00,
+                "category": "Men > Hoodies & Sweatshirts > Hoodies",
+                "createdDate": "2024-09-11T00:29:03.3720157",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:30:04.6922796",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "p4cYBfsM3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "Adidas Golf",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212519,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD129-HI3847.jpg",
+                        "productId": 44734,
+                        "quantity": 1388
+                    },
+                    {
+                        "id": 212518,
+                        "name": "Collegiate Navy",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD129-HS4813.jpg",
+                        "productId": 44734,
+                        "quantity": 1388
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Men"
+            },
+            {
+                "id": 44735,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/AD121-H56796.jpg",
+                    "/storagemedia/1/product/attributeimages/AD121-H56797.jpg"
+                ],
+                "count": 1,
+                "ourSKU": "AD121",
+                "vendorSKU": "AD121",
+                "name": "Adidas Golf Men's Primegreen Jacket",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 35.00,
+                "msrp": 70.00,
+                "imap": 0.00,
+                "salePrice": 70.00,
+                "category": "Men > Jackets > Lightweight",
+                "createdDate": "2024-09-11T00:29:03.3720206",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T08:12:54.6218227",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "3h3vNW4Z3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "Adidas Golf",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212521,
+                        "name": "Crew Navy",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD121-H56796.jpg",
+                        "productId": 44735,
+                        "quantity": 542
+                    },
+                    {
+                        "id": 212520,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD121-H56797.jpg",
+                        "productId": 44735,
+                        "quantity": 542
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": ""
+            },
+            {
+                "id": 44736,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/A554-ORG.jpg",
+                    "/storagemedia/1/product/attributeimages/A554-BLK.jpg",
+                    "/storagemedia/1/product/attributeimages/A554-NVY.jpg",
+                    "/storagemedia/1/product/attributeimages/A554-BLU.jpg",
+                    "/storagemedia/1/product/attributeimages/A554-GRN.jpg"
+                ],
+                "count": 27,
+                "ourSKU": "A554",
+                "vendorSKU": "A554",
+                "name": "Adidas Men's 3-Stripes Quarter-Zip",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 33.85,
+                "msrp": 70.00,
+                "imap": 0.00,
+                "salePrice": 70.00,
+                "category": "Men > Quarter Zips & Pullovers > 1-4 Zips",
+                "createdDate": "2024-09-11T00:29:03.3720261",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:34:55.7858454",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "yNkkl0Yp3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "S&S Activewear LLC",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212474,
+                        "name": "Acid Orange Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-ORG.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    },
+                    {
+                        "id": 212475,
+                        "name": "Black Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-BLK.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    },
+                    {
+                        "id": 212483,
+                        "name": "Collegiate Navy Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-NVY.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    },
+                    {
+                        "id": 212491,
+                        "name": "Focus Blue Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-BLU.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    },
+                    {
+                        "id": 212507,
+                        "name": "Green Oxide Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-GRN.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    },
+                    {
+                        "id": 212493,
+                        "name": "Grey Three Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/A554-GRY.jpg",
+                        "productId": 44736,
+                        "quantity": 23540
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Men"
+            },
+            {
+                "id": 44737,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/AD107-HA6150.jpg",
+                    "/storagemedia/1/product/attributeimages/AD107-GM0019.jpg",
+                    "/storagemedia/1/product/attributeimages/AD107-GM0022.jpg"
+                ],
+                "count": 12,
+                "ourSKU": "AD107",
+                "vendorSKU": "AD107",
+                "name": "Adidas Men's 3-Stripe Layering Quarter-Zip",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 35.00,
+                "msrp": 70.00,
+                "imap": 0.00,
+                "salePrice": 70.00,
+                "category": "Men > Quarter Zips & Pullovers",
+                "createdDate": "2024-09-11T00:29:03.3720309",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:34:35.9751279",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "2R3vNW4Z3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "Adidas Golf",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212469,
+                        "name": "Blue Rush",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD107-HA6150.jpg",
+                        "productId": 44737,
+                        "quantity": 48
+                    },
+                    {
+                        "id": 212470,
+                        "name": "Crew Navy",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD107-GM0019.jpg",
+                        "productId": 44737,
+                        "quantity": 48
+                    },
+                    {
+                        "id": 212471,
+                        "name": "Grey Three",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD107-GM0022.jpg",
+                        "productId": 44737,
+                        "quantity": 48
+                    },
+                    {
+                        "id": 212472,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD107-GM0026.jpg",
+                        "productId": 44737,
+                        "quantity": 48
+                    },
+                    {
+                        "id": 212473,
+                        "name": "Collegiate Navy Melange",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD107-HR9066.jpg",
+                        "productId": 44737,
+                        "quantity": 48
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Men"
+            },
+            {
+                "id": 44738,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/A313-BLK.jpg",
+                    "/storagemedia/1/product/attributeimages/A313-NVY.jpg",
+                    "/storagemedia/1/product/attributeimages/A313-GRY.jpg"
+                ],
+                "count": 4,
+                "ourSKU": "A313",
+                "vendorSKU": "A313",
+                "name": "Adidas Horizontal 3-Stripes Gym Sack",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 12.13,
+                "msrp": 24.50,
+                "imap": 0.00,
+                "salePrice": 24.50,
+                "category": "Accessories > Bags > Cinch Bags",
+                "createdDate": "2024-09-11T00:29:03.3720356",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:34:25.5373632",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "zB3vNW4Z3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "S&S Activewear LLC",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212478,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/A313-BLK.jpg",
+                        "productId": 44738,
+                        "quantity": 0
+                    },
+                    {
+                        "id": 212477,
+                        "name": "Navy",
+                        "productImage": "/storagemedia/1/product/attributeimages/A313-NVY.jpg",
+                        "productId": 44738,
+                        "quantity": 0
+                    },
+                    {
+                        "id": 212476,
+                        "name": "Grey",
+                        "productImage": "/storagemedia/1/product/attributeimages/A313-GRY.jpg",
+                        "productId": 44738,
+                        "quantity": 0
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": ""
+            },
+            {
+                "id": 44739,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/A482-ROY.jpg",
+                    "/storagemedia/1/product/attributeimages/A482-NVY.jpg",
+                    "/storagemedia/1/product/attributeimages/A482-BLK.jpg"
+                ],
+                "count": 14,
+                "ourSKU": "A482",
+                "vendorSKU": "A482",
+                "name": "Adidas Men's 3-Stripes Double Knit Quarter-Zip Pullover ",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 26.77,
+                "msrp": 54.00,
+                "imap": 0.00,
+                "salePrice": 54.00,
+                "category": "Men > Quarter Zips & Pullovers > 1-4 Zips",
+                "createdDate": "2024-09-11T00:29:03.3720406",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:34:44.884353",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "xdkkl0Yp3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "S&S Activewear LLC",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212484,
+                        "name": "Black / Grey Two",
+                        "productImage": "/storagemedia/1/product/attributeimages/A482-BLK.jpg",
+                        "productId": 44739,
+                        "quantity": 6956
+                    },
+                    {
+                        "id": 212482,
+                        "name": "Team Royal / Grey Two",
+                        "productImage": "/storagemedia/1/product/attributeimages/A482-ROY.jpg",
+                        "productId": 44739,
+                        "quantity": 6956
+                    },
+                    {
+                        "id": 212481,
+                        "name": "Team Navy Blue / Grey",
+                        "productImage": "/storagemedia/1/product/attributeimages/A482-NVY.jpg",
+                        "productId": 44739,
+                        "quantity": 6956
+                    },
+                    {
+                        "id": 212480,
+                        "name": "Grey Three / White",
+                        "productImage": "/storagemedia/1/product/attributeimages/A482-GRY.jpg",
+                        "productId": 44739,
+                        "quantity": 6956
+                    },
+                    {
+                        "id": 212490,
+                        "name": "Team Collegiate Red / Grey Two",
+                        "productImage": "/storagemedia/1/product/attributeimages/A482-RED.jpg",
+                        "productId": 44739,
+                        "quantity": 6956
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Men"
+            },
+            {
+                "id": 44740,
+                "storeId": 1379,
+                "productImage": [
+                    "/storagemedia/1/product/attributeimages/AD230-IA7825.jpg",
+                    "/storagemedia/1/product/attributeimages/AD230-HM5542.jpg",
+                    "/storagemedia/1/product/attributeimages/AD230-HZ9794.jpg"
+                ],
+                "count": 15,
+                "ourSKU": "AD230",
+                "vendorSKU": "AD230",
+                "name": "Adidas Golf Women's Mock Neck",
+                "recStatus": "A",
+                "upc": "",
+                "quantity": 0,
+                "ourCost": 32.50,
+                "msrp": 65.00,
+                "imap": 0.00,
+                "salePrice": 65.00,
+                "category": "Women > Quarter Zips & Pullovers",
+                "createdDate": "2024-09-11T00:29:03.3719826",
+                "createdBy": 65,
+                "modifiedDate": "2024-09-11T00:34:15.8658531",
+                "modifiedBy": 65,
+                "location": "RI",
+                "ipAddress": "27.54.168.197",
+                "macAddress": "00-00-00-00-00-00",
+                "rowVersion": "w9kkl0Yp3Qg=",
+                "createdName": "Bhargav Yadav",
+                "modifiedName": "Bhargav Yadav",
+                "vendorName": "Adidas Golf",
+                "brandName": "adidas",
+                "subRows": [
+                    {
+                        "id": 212492,
+                        "name": "White",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD230-HM5542.jpg",
+                        "productId": 44740,
+                        "quantity": 1357
+                    },
+                    {
+                        "id": 212513,
+                        "name": "Collegiate Navy",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD230-IA7825.jpg",
+                        "productId": 44740,
+                        "quantity": 1357
+                    },
+                    {
+                        "id": 212512,
+                        "name": "Black",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD230-HZ9793.jpg",
+                        "productId": 44740,
+                        "quantity": 1357
+                    },
+                    {
+                        "id": 212511,
+                        "name": "Blue Fusion",
+                        "productImage": "/storagemedia/1/product/attributeimages/AD230-HZ9794.jpg",
+                        "productId": 44740,
+                        "quantity": 1357
+                    }
+                ],
+                "lastNavSyncDate": null,
+                "navSyncStatus": "P",
+                "gender": "Women"
+            }
+        ]
+    }

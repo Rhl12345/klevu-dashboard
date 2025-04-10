@@ -1,0 +1,418 @@
+{
+  "userNameOptions": [
+    {
+      "value": "133",
+      "label": "Aakash  Chaudhary"
+    },
+    {
+      "value": "93",
+      "label": "Alex Alutto"
+    },
+    {
+      "value": "82",
+      "label": "Alex Dumais"
+    }
+  ],
+  "pageRedirects": [
+    {
+      "id": 1,
+      "name": "Store 1",
+      "oldUrl": "http://department-store.retailonline.store",
+      "newUrl": "http://store.retailonline.store",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 2,
+      "name": "Electronics Hub",
+      "oldUrl": "http://electronics-hub.techonline.store",
+      "newUrl": "http://electronics.techonline.store",
+      "createdDate": "2023-09-15T14:22:33.4567890",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 3,
+      "name": "Fashion Store",
+      "oldUrl": "http://fashion-boutique.fashiononline.store",
+      "newUrl": "http://fashion.fashiononline.store",
+      "createdDate": "2023-10-01T08:45:21.7891234",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 4,
+      "name": "Book Corner",
+      "oldUrl": "http://book-corner.booksonline.store",
+      "newUrl": "http://books.booksonline.store",
+      "createdDate": "2023-10-12T11:33:44.5678901",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 5,
+      "name": "Sports Zone",
+      "oldUrl": "http://sports-zone.sportsonline.store",
+      "newUrl": "http://sports.sportsonline.store",
+      "createdDate": "2023-11-05T16:17:23.4567890",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 6,
+      "name": "Home Decor",
+      "oldUrl": "http://home-decor.interioronline.store",
+      "newUrl": "http://decor.interioronline.store",
+      "createdDate": "2023-11-20T09:28:15.3456789",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 7,
+      "name": "Garden Center",
+      "oldUrl": "http://garden-center.outdooronline.store",
+      "newUrl": "http://garden.outdooronline.store",
+      "createdDate": "2023-12-03T13:42:56.2345678",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 8,
+      "name": "Pet Shop",
+      "oldUrl": "http://pet-shop.petsonline.store",
+      "newUrl": "http://pets.petsonline.store",
+      "createdDate": "2023-12-18T10:11:33.1234567",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 9,
+      "name": "Toy World",
+      "oldUrl": "http://toy-world.toysonline.store",
+      "newUrl": "http://toys.toysonline.store",
+      "createdDate": "2024-01-05T15:23:47.8901234",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 10,
+      "name": "Music Store",
+      "oldUrl": "http://music-store.musiconline.store",
+      "newUrl": "http://music.musiconline.store",
+      "createdDate": "2024-01-20T12:34:56.7890123",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 11,
+      "name": "Art Gallery",
+      "oldUrl": "http://art-gallery.artonline.store",
+      "newUrl": "http://art.artonline.store",
+      "createdDate": "2024-02-01T08:15:30.6789012",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 12,
+      "name": "Tech Hub",
+      "oldUrl": "http://tech-hub.techonline.store",
+      "newUrl": "http://tech.techonline.store",
+      "createdDate": "2024-02-15T11:22:44.5678901",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 13,
+      "name": "Food Court",
+      "oldUrl": "http://food-court.foodonline.store",
+      "newUrl": "http://food.foodonline.store",
+      "createdDate": "2024-03-01T14:55:22.4567890",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 14,
+      "name": "Fitness Center",
+      "oldUrl": "http://fitness-center.fitnessonline.store",
+      "newUrl": "http://fitness.fitnessonline.store",
+      "createdDate": "2024-03-15T09:33:11.3456789",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 15,
+      "name": "Beauty Salon",
+      "oldUrl": "http://beauty-salon.beautyonline.store",
+      "newUrl": "http://beauty.beautyonline.store",
+      "createdDate": "2024-03-30T16:44:28.2345678",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 16,
+      "name": "Coffee Shop",
+      "oldUrl": "http://coffee-shop.beveragesonline.store",
+      "newUrl": "http://coffee.beveragesonline.store",
+      "createdDate": "2024-04-10T10:17:39.1234567",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 17,
+      "name": "Jewelry Store",
+      "oldUrl": "http://jewelry-store.jewelryonline.store",
+      "newUrl": "http://jewelry.jewelryonline.store",
+      "createdDate": "2024-04-25T13:28:50.0123456",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 18,
+      "name": "Shoe Gallery",
+      "oldUrl": "http://shoe-gallery.shoesonline.store",
+      "newUrl": "http://shoes.shoesonline.store",
+      "createdDate": "2024-05-05T15:39:21.9012345",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 19,
+      "name": "Watch World",
+      "oldUrl": "http://watch-world.watchesonline.store",
+      "newUrl": "http://watches.watchesonline.store",
+      "createdDate": "2024-05-20T11:50:32.8901234",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 20,
+      "name": "Kids Zone",
+      "oldUrl": "http://kids-zone.kidsonline.store",
+      "newUrl": "http://kids.kidsonline.store",
+      "createdDate": "2024-06-01T14:11:43.7890123",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 21,
+      "name": "Mobile Shop",
+      "oldUrl": "http://mobile-shop.mobileonline.store",
+      "newUrl": "http://mobile.mobileonline.store",
+      "createdDate": "2024-06-15T16:22:54.6789012",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 22,
+      "name": "Camera Store",
+      "oldUrl": "http://camera-store.cameraonline.store",
+      "newUrl": "http://camera.cameraonline.store",
+      "createdDate": "2024-06-30T09:33:05.5678901",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 23,
+      "name": "Gaming Zone",
+      "oldUrl": "http://gaming-zone.gamingonline.store",
+      "newUrl": "http://gaming.gamingonline.store",
+      "createdDate": "2024-07-10T12:44:16.4567890",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 24,
+      "name": "Furniture Hub",
+      "oldUrl": "http://furniture-hub.furnitureonline.store",
+      "newUrl": "http://furniture.furnitureonline.store",
+      "createdDate": "2024-07-25T15:55:27.3456789",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 25,
+      "name": "Bakery Shop",
+      "oldUrl": "http://bakery-shop.bakeryonline.store",
+      "newUrl": "http://bakery.bakeryonline.store",
+      "createdDate": "2024-08-05T11:06:38.2345678",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 26,
+      "name": "Organic Store",
+      "oldUrl": "http://organic-store.organicsonline.store",
+      "newUrl": "http://organic.organicsonline.store",
+      "createdDate": "2024-08-20T14:17:49.1234567",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 27,
+      "name": "Gift Shop",
+      "oldUrl": "http://gift-shop.giftsonline.store",
+      "newUrl": "http://gifts.giftsonline.store",
+      "createdDate": "2024-09-01T16:28:50.0123456",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 28,
+      "name": "Stationery Store",
+      "oldUrl": "http://stationery-store.stationeryonline.store",
+      "newUrl": "http://stationery.stationeryonline.store",
+      "createdDate": "2024-09-15T09:39:11.9012345",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 29,
+      "name": "Travel Agency",
+      "oldUrl": "http://travel-agency.travelonline.store",
+      "newUrl": "http://travel.travelonline.store",
+      "createdDate": "2024-09-30T12:50:22.8901234",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 30,
+      "name": "Bike Shop",
+      "oldUrl": "http://bike-shop.bikesonline.store",
+      "newUrl": "http://bikes.bikesonline.store",
+      "createdDate": "2024-10-10T15:01:33.7890123",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 31,
+      "name": "Car Dealership",
+      "oldUrl": "http://car-dealership.carsonline.store",
+      "newUrl": "http://cars.carsonline.store",
+      "createdDate": "2024-10-25T11:12:44.6789012",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 32,
+      "name": "Antique Store",
+      "oldUrl": "http://antique-store.antiquesonline.store",
+      "newUrl": "http://antiques.antiquesonline.store",
+      "createdDate": "2024-11-05T14:23:55.5678901",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 33,
+      "name": "Craft Shop",
+      "oldUrl": "http://craft-shop.craftsonline.store",
+      "newUrl": "http://crafts.craftsonline.store",
+      "createdDate": "2024-11-20T16:34:06.4567890",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 34,
+      "name": "Wine Store",
+      "oldUrl": "http://wine-store.winesonline.store",
+      "newUrl": "http://wines.winesonline.store",
+      "createdDate": "2024-12-01T09:45:17.3456789",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 35,
+      "name": "Chocolate Shop",
+      "oldUrl": "http://chocolate-shop.chocolatesonline.store",
+      "newUrl": "http://chocolates.chocolatesonline.store",
+      "createdDate": "2024-12-15T12:56:28.2345678",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 36,
+      "name": "Ice Cream Parlor",
+      "oldUrl": "http://ice-cream-parlor.icecreamonline.store",
+      "newUrl": "http://icecream.icecreamonline.store",
+      "createdDate": "2024-12-30T15:07:39.1234567",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 37,
+      "name": "Pizza Place",
+      "oldUrl": "http://pizza-place.pizzaonline.store",
+      "newUrl": "http://pizza.pizzaonline.store",
+      "createdDate": "2025-01-10T11:18:50.0123456",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 38,
+      "name": "Burger Joint",
+      "oldUrl": "http://burger-joint.burgersonline.store",
+      "newUrl": "http://burgers.burgersonline.store",
+      "createdDate": "2025-01-25T14:29:01.9012345",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 39,
+      "name": "Sushi Bar",
+      "oldUrl": "http://sushi-bar.sushionline.store",
+      "newUrl": "http://sushi.sushionline.store",
+      "createdDate": "2025-02-05T16:40:12.8901234",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 40,
+      "name": "Tea House",
+      "oldUrl": "http://tea-house.teaonline.store",
+      "newUrl": "http://tea.teaonline.store",
+      "createdDate": "2025-02-20T09:51:23.7890123",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 41,
+      "name": "Smoothie Bar",
+      "oldUrl": "http://smoothie-bar.smoothiesonline.store",
+      "newUrl": "http://smoothies.smoothiesonline.store",
+      "createdDate": "2025-03-05T12:02:34.6789012",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 42,
+      "name": "Yoga Studio",
+      "oldUrl": "http://yoga-studio.yogaonline.store",
+      "newUrl": "http://yoga.yogaonline.store",
+      "createdDate": "2025-03-20T15:13:45.5678901",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 43,
+      "name": "Dance Academy",
+      "oldUrl": "http://dance-academy.danceonline.store",
+      "newUrl": "http://dance.danceonline.store",
+      "createdDate": "2025-04-01T11:24:56.4567890",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 44,
+      "name": "Gym Center",
+      "oldUrl": "http://gym-center.gymonline.store",
+      "newUrl": "http://gym.gymonline.store",
+      "createdDate": "2025-04-15T14:35:07.3456789",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 45,
+      "name": "Spa Resort",
+      "oldUrl": "http://spa-resort.spaonline.store",
+      "newUrl": "http://spa.spaonline.store",
+      "createdDate": "2025-04-30T16:46:18.2345678",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 46,
+      "name": "Nail Salon",
+      "oldUrl": "http://nail-salon.nailsonline.store",
+      "newUrl": "http://nails.nailsonline.store",
+      "createdDate": "2025-05-10T09:57:29.1234567",
+      "createdBy": "Admin 4"
+    },
+    {
+      "id": 47,
+      "name": "Hair Studio",
+      "oldUrl": "http://hair-studio.haironline.store",
+      "newUrl": "http://hair.haironline.store",
+      "createdDate": "2025-05-25T12:08:40.0123456",
+      "createdBy": "Admin 1"
+    },
+    {
+      "id": 48,
+      "name": "Massage Center",
+      "oldUrl": "http://massage-center.massageonline.store",
+      "newUrl": "http://massage.massageonline.store",
+      "createdDate": "2025-06-05T15:19:51.9012345",
+      "createdBy": "Admin 3"
+    },
+    {
+      "id": 49,
+      "name": "Dental Clinic",
+      "oldUrl": "http://dental-clinic.dentalonline.store",
+      "newUrl": "http://dental.dentalonline.store",
+      "createdDate": "2025-06-20T11:30:02.8901234",
+      "createdBy": "Admin 2"
+    },
+    {
+      "id": 50,
+      "name": "Vision Care",
+      "oldUrl": "http://vision-care.visiononline.store",
+      "newUrl": "http://vision.visiononline.store",
+      "createdDate": "2025-07-01T14:41:13.7890123",
+      "createdBy": "Admin 4"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "value": 1,
+    "label": "Brand OR Manufacturer Name"
+  },
+  {
+    "value": 2,
+    "label": "Vendor Name"
+  },
+  {
+    "value": 3,
+    "label": "Product Name"
+  },
+  {
+    "value": 4,
+    "label": "Our ERP / NAV will have different Name from Above Name"
+  },
+  {
+    "value": 5,
+    "label": "ERP Name / NAV Name"
+  },
+  {
+    "value": 6,
+    "label": "This item has and Existing ID in our ERP / NAV"
+  },
+  {
+    "value": 7,
+    "label": "ERP / NAV Item ID"
+  },
+  {
+    "value": 8,
+    "label": "Vendor SKU / Manufacturer / Brand Part Number"
+  },
+  {
+    "value": 9,
+    "label": "Our SKU"
+  },
+  {
+    "value": 10,
+    "label": "Product Type"
+  },
+  {
+    "value": 11,
+    "label": "Companion Product"
+  },
+  {
+    "value": 12,
+    "label": "Tax Code"
+  },
+  {
+    "value": 13,
+    "label": "Category"
+  },
+  {
+    "value": 14,
+    "label": "Description"
+  },
+  {
+    "value": 15,
+    "label": "Short Description"
+  },
+  {
+    "value": 16,
+    "label": "Search Dimension Template"
+  },
+  {
+    "value": 17,
+    "label": "Length"
+  },
+  {
+    "value": 18,
+    "label": "width"
+  },
+  {
+    "value": 19,
+    "label": "Height"
+  },
+  {
+    "value": 20,
+    "label": "Volume"
+  },
+  {
+    "value": 21,
+    "label": "Weight (LBS)"
+  },
+  {
+    "value": 22,
+    "label": "Ship Weight"
+  },
+  {
+    "value": 23,
+    "label": "Upc"
+  },
+  {
+    "value": 24,
+    "label": "Bundle"
+  },
+  {
+    "value": 25,
+    "label": "OUR COST"
+  },
+  {
+    "value": 26,
+    "label": "MSRP"
+  },
+  {
+    "value": 27,
+    "label": "IMAP"
+  },
+  {
+    "value": 28,
+    "label": "SALE PRICE"
+  },
+  {
+    "value": 29,
+    "label": "Gift Wrap"
+  },
+  {
+    "value": 30,
+    "label": "GIFT WRAP PRICE"
+  },
+  {
+    "value": 31,
+    "label": "Call For Price"
+  },
+  {
+    "value": 32,
+    "label": "Enable Map"
+  },
+  {
+    "value": 33,
+    "label": "Quantity Disocunt Template"
+  },
+  {
+    "value": 34,
+    "label": "Ecomm Safety Qty"
+  },
+  {
+    "value": 35,
+    "label": "Size Chart"
+  },
+  {
+    "value": 36,
+    "label": "Size Chart Template Description"
+  },
+  {
+    "value": 37,
+    "label": "New Product"
+  },
+  {
+    "value": 38,
+    "label": "Assemble Product"
+  },
+  {
+    "value": 39,
+    "label": "Drop Ship Product"
+  },
+  {
+    "value": 40,
+    "label": "Sale Product"
+  },
+  {
+    "value": 41,
+    "label": "Restricted Product"
+  },
+  {
+    "value": 42,
+    "label": "Featured"
+  },
+  {
+    "value": 43,
+    "label": "New Arrival"
+  },
+  {
+    "value": 44,
+    "label": "Best Sellar"
+  },
+  {
+    "value": 45,
+    "label": "Price Quote"
+  },
+  {
+    "value": 46,
+    "label": "Gift Set"
+  },
+  {
+    "value": 47,
+    "label": "Comming Soon"
+  },
+  {
+    "value": 48,
+    "label": "No Coupon"
+  },
+  {
+    "value": 49,
+    "label": "Sepate Ship"
+  },
+  {
+    "value": 50,
+    "label": "Sample Product"
+  },
+  {
+    "value": 51,
+    "label": "Attribute Combination"
+  },
+  {
+    "value": 52,
+    "label": "Attribute Image"
+  },
+  {
+    "value": 53,
+    "label": "New SKU"
+  },
+  {
+    "value": 56,
+    "label": "Sename"
+  },
+  {
+    "value": 57,
+    "label": "Personalization"
+  },
+  {
+    "value": 115,
+    "label": "Vendor of Vendor SKU Mapping"
+  },
+  {
+    "value": 116,
+    "label": "VendorSku of Vendor SKU Mapping"
+  },
+  {
+    "value": 117,
+    "label": "ReferenceName of Vendor SKU Mapping"
+  },
+  {
+    "value": 123,
+    "label": "Do you want enable logo location for this product?"
+  },
+  {
+    "value": 125,
+    "label": "Facet"
+  },
+  {
+    "value": 126,
+    "label": "SKU Swap"
+  },
+  {
+    "value": 130,
+    "label": "Min Quantity"
+  }
+]

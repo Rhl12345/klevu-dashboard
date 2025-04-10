@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "store_name": "Corporate Gear",
+            "order": "1635483",
+            "order_date": "02/13/2025 09:07 AM",
+            "customer_name": "DhrumitParikh",
+            "email": "dhrumit@redefinesolutions.com",
+            "order_total": 527.00,
+            "status": "NEW"
+        },
+        {
+            "id": 1,
+            "store_name": "Corporate Gear",
+            "order": "1635436",
+            "order_date": "02/03/2025 08:48 AM",
+            "customer_name": "kushalvaghela",
+            "email": "Kushal@redefinesolutions.com",
+            "order_total": 2530.00,
+            "status": "NEW"
+        },
+        {
+            "id": 2,
+            "store_name": "Corporate Gear",
+            "order": "1635449",
+            "order_date": "02/07/2025 05:46 AM",
+            "customer_name": "kushalvaghela",
+            "email": "Kushal@redefinesolutions.com",
+            "order_total": 1584.00,
+            "status": "NEW"
+        },
+        {
+            "id": 3,
+            "store_name": "Corporate Gear",
+            "order": "1635456",
+            "order_date": "02/10/2025 04:51 AM",
+            "customer_name": "kushalvaghela",
+            "email": "Kushal@redefinesolutions.com",
+            "order_total": 212.00,
+            "status": "NEW"
+        },
+        {
+            "id": 4,
+            "store_name": "Corporate Gear",
+            "order": "1635490",
+            "order_date": "02/13/2025 12:12 PM",
+            "customer_name": "kushalvaghela",
+            "email": "Kushal@redefinesolutions.com",
+            "order_total": 3380.00,
+            "status": "NEW"
+        },
+        {
+            "id": 5,
+            "store_name": "Corporate Gear",
+            "order": "1635582",
+            "order_date": "02/27/2025 08:49 AM",
+            "customer_name": "ReyGupta",
+            "email": "richag@yopmail.com",
+            "order_total": 2285.00,
+            "status": "NEW"
+        }
+    ]
+}

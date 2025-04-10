@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "orderNo": "#1501946",
+      "orderDate": "11/25/2024 02:45 AM",
+      "customerName": "Yadav Bhargav",
+      "customerEmail": "bhargav@redefinecommerce.com",
+      "quantity": 2,
+      "total": 70.0,
+      "paymentStatus": "Captured",
+      "fulfillmentStatus": "Unfulfilled",
+      "orderStatus": "New"
+    },
+    {
+      "id": 2,
+      "orderNo": "#1501947",
+      "orderDate": "11/25/2024 03:03 AM",
+      "customerName": "Yadav Bhargav",
+      "customerEmail": "bhargav@redefinecommerce.com",
+      "quantity": 2,
+      "total": 90.0,
+      "paymentStatus": "Captured",
+      "fulfillmentStatus": "Unfulfilled",
+      "orderStatus": "New"
+    },
+    {
+      "id": 3,
+      "orderNo": "#1501948",
+      "orderDate": "11/25/2024 03:22 AM",
+      "customerName": "Yadav Bhargav",
+      "customerEmail": "bhargav@redefinecommerce.com",
+      "quantity": 2,
+      "total": 70.0,
+      "paymentStatus": "Captured",
+      "fulfillmentStatus": "FulFilled",
+      "orderStatus": "Shipped"
+    }
+  ]
+}

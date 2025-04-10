@@ -1,0 +1,261 @@
+{
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalCount": 7,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "items": [
+    {
+      "id": 7,
+      "name": "as",
+      "percentage": 10,
+      "storeName": "Boston Beer",
+      "readinessDetail": [],
+      "createdName": "Chandan Kumar",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-09-01T06:10:31.3535307",
+      "createdBy": 67,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "yEKIJbKq2wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 3,
+      "name": "Corporate Gear",
+      "percentage": 90,
+      "storeName": "Corporate Gear",
+      "readinessDetail": [
+        {
+          "id": 1,
+          "name": "Brand OR Manufacturer Name",
+          "fieldPercentage": 10,
+          "rowVersion": "s8L8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 10,
+          "rowVersion": "/ML8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 10,
+          "rowVersion": "KcP8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 4,
+          "name": "Our ERP / NAV will have different Name from Above Name",
+          "fieldPercentage": 20,
+          "rowVersion": "VsP8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 5,
+          "name": "ERP Name / NAV Name",
+          "fieldPercentage": 20,
+          "rowVersion": "gsP8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 6,
+          "name": "This item has and Existing ID in our ERP / NAV",
+          "fieldPercentage": 10,
+          "rowVersion": "tcP8/xai3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 7,
+          "name": "ERP / NAV Item ID",
+          "fieldPercentage": 10,
+          "rowVersion": "6sP8/xai3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Vipul Solanki",
+      "modifiedName": "Bhargav Yadav",
+      "storeid": 5,
+      "recStatus": "A",
+      "createdDate": "2023-06-30T11:16:17.2894637",
+      "createdBy": 3,
+      "modifiedDate": "2024-07-12T02:04:43.4275897",
+      "modifiedBy": 65,
+      "rowVersion": "Avcy/xai3Ag=",
+      "location": "RI",
+      "ipAddress": "27.54.168.197",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 4,
+      "name": "GG",
+      "percentage": 30,
+      "storeName": "Gameday Gear",
+      "readinessDetail": [
+        {
+          "id": 6,
+          "name": "This item has and Existing ID in our ERP / NAV",
+          "fieldPercentage": 10,
+          "rowVersion": "17FoReF92wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Bhargav Yadav",
+      "modifiedName": "Binal Prajapati",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-07-06T01:53:04.1765442",
+      "createdBy": 65,
+      "modifiedDate": "2023-07-06T05:24:30.9197105",
+      "modifiedBy": 85,
+      "rowVersion": "NROiRuF92wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 10,
+      "name": "HNPEN radiness",
+      "percentage": 80,
+      "storeName": "HNPEN",
+      "readinessDetail": [
+        {
+          "id": 1,
+          "name": "Brand OR Manufacturer Name",
+          "fieldPercentage": 10,
+          "rowVersion": "AWhkYSM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 20,
+          "rowVersion": "RGhkYSM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 50,
+          "rowVersion": "smdkYSM53Qg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Mital  Tank",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2025-01-20T07:23:06.2445904",
+      "createdBy": 171,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "zafCSCM53Qg=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 1,
+      "name": "Kristina",
+      "percentage": 78,
+      "storeName": "Cyxtera",
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 30,
+          "rowVersion": "9jFiQLl32wg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 4,
+          "name": "Our ERP / NAV will have different Name from Above Name",
+          "fieldPercentage": 70,
+          "rowVersion": "STJiQLl32wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Kristina Brown",
+      "modifiedName": "Anand Kumar",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-06-28T09:21:42.7034499",
+      "createdBy": 71,
+      "modifiedDate": "2024-03-08T01:58:45.3949393",
+      "modifiedBy": 159,
+      "rowVersion": "4vy+SRM/3Ag=",
+      "location": "RI",
+      "ipAddress": "27.54.168.197",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 5,
+      "name": "PKG",
+      "percentage": 30,
+      "storeName": "PKHealth Gear",
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 10,
+          "rowVersion": "4DpVZNd+2wg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 6,
+          "name": "This item has and Existing ID in our ERP / NAV",
+          "fieldPercentage": 5,
+          "rowVersion": "EztVZNd+2wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Bhargav Yadav",
+      "modifiedName": "Ankit Gandhi",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-07-06T05:13:52.9579483",
+      "createdBy": 65,
+      "modifiedDate": "2023-07-07T10:46:21.2969991",
+      "modifiedBy": 57,
+      "rowVersion": "qJbtZtd+2wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 2,
+      "name": "PRIYA",
+      "percentage": 3,
+      "storeName": "Driving Impressions",
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 5,
+          "rowVersion": "FKxevcZ32wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Priya Chitlangia",
+      "modifiedName": "Priya Chitlangia",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-06-28T10:59:17.9570452",
+      "createdBy": 70,
+      "modifiedDate": "2023-06-28T10:59:30.3647327",
+      "modifiedBy": 70,
+      "rowVersion": "dP2Hv8Z32wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    }
+  ]
+}

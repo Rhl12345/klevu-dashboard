@@ -1,0 +1,25 @@
+{
+  "productCustomFieldsData": [
+    {
+      "name": "Custom Field 1",
+      "require": "yes",
+      "extraPrice": 10,
+      "changePerCharacter": "yes",
+      "makeExclusive": "yes"
+    },
+    {
+      "name": "Custom Field 2",
+      "require": "no",
+      "extraPrice": 15,
+      "changePerCharacter": "yes",
+      "makeExclusive": "no"
+    },
+    {
+      "name": "Custom Field 3",
+      "require": "yes",
+      "extraPrice": 20,
+      "changePerCharacter": "yes",
+      "makeExclusive": "no"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "fixChargesTempData": [
+    {
+      "id": 1,
+      "name": "Hazel Bennett",
+      "charges": 28.17,
+      "store_name": "Target",
+      "created_date": "08/03/2023 03:09 AM",
+      "created_by": "Jack Walker",
+      "updated_date": "08/03/2023 04:03 AM",
+      "updated_by": "Sophia Anderson",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "name": "Michael Thompson",
+      "charges": 32.67,
+      "store_name": "Macy's",
+      "created_date": "08/03/2023 03:46 AM",
+      "created_by": "Genesis Ross",
+      "updated_date": "08/03/2023 04:38 AM",
+      "updated_by": "Sebastian Lewis",
+      "recStatus": "A"
+    },
+    {
+      "id": 3,
+      "name": "Mason Young",
+      "charges": 41.82,
+      "store_name": "Home Depot",
+      "created_date": "08/03/2023 03:06 AM",
+      "created_by": "Autumn Bryant",
+      "updated_date": "08/03/2023 03:30 AM",
+      "updated_by": "Amelia Taylor",
+      "recStatus": "I"
+    },
+    {
+      "id": 4,
+      "name": "Isaac Barnes",
+      "charges": 25.2,
+      "store_name": "Target",
+      "created_date": "08/03/2023 03:35 AM",
+      "created_by": "Zoe King",
+      "updated_date": "08/03/2023 04:24 AM",
+      "updated_by": "Michael Thompson",
+      "recStatus": "A"
+    },
+    {
+      "id": 5,
+      "name": "Ezekiel Torres",
+      "charges": 49.33,
+      "store_name": "Target",
+      "created_date": "08/03/2023 03:06 AM",
+      "created_by": "Olivia Roberts",
+      "updated_date": "08/03/2023 03:36 AM",
+      "updated_by": "Olivia Roberts",
+      "recStatus": "I"
+    },
+    {
+      "id": 6,
+      "name": "Leo Torres",
+      "charges": 12.5,
+      "store_name": "Amazon",
+      "created_date": "08/03/2023 03:56 AM",
+      "created_by": "Victoria Morris",
+      "updated_date": "08/03/2023 03:03 AM",
+      "updated_by": "Sophia Clark",
+      "recStatus": "A"
+    },
+    {
+      "id": 7,
+      "name": "Emma Johnson",
+      "charges": 40.99,
+      "store_name": "Amazon",
+      "created_date": "08/03/2023 03:29 AM",
+      "created_by": "Sofia Collins",
+      "updated_date": "08/03/2023 04:19 AM",
+      "updated_by": "Maya Griffin",
+      "recStatus": "I"
+    },
+    {
+      "id": 8,
+      "name": "Lucas Moore",
+      "charges": 47.25,
+      "store_name": "Home Depot",
+      "created_date": "08/03/2023 03:14 AM",
+      "created_by": "Lucas Moore",
+      "updated_date": "08/03/2023 04:16 AM",
+      "updated_by": "Hunter Reed",
+      "recStatus": "I"
+    },
+    {
+      "id": 9,
+      "name": "Aiden Young",
+      "charges": 30.06,
+      "store_name": "Apple",
+      "created_date": "08/03/2023 03:42 AM",
+      "created_by": "Lily Campbell",
+      "updated_date": "08/03/2023 04:48 AM",
+      "updated_by": "John Smith",
+      "recStatus": "I"
+    },
+    {
+      "id": 10,
+      "name": "Violet Howard",
+      "charges": 12.49,
+      "store_name": "Costco",
+      "created_date": "08/03/2023 04:31 AM",
+      "created_by": "Jose Russell",
+      "updated_date": "08/03/2023 03:43 AM",
+      "updated_by": "Ava Lewis",
+      "recStatus": "I"
+    }
+  ]
+}

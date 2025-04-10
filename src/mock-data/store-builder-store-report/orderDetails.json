@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "color": "New Navy",
+            "size": "MD (25528-NENA-MD)",
+            "quantity": 8,
+            "paid": 920.00,
+            "base": 920.00
+        },
+        {
+            "color": "New Navy",
+            "size": "XS (25528-NENA-XS)",
+            "quantity": 14,
+            "paid": 1610.00,
+            "base": 1610.00
+        },
+        {
+            "color": "Black",
+            "size": "LG (25528-BLAC-LG)",
+            "quantity": 10,
+            "paid": 1200.00,
+            "base": 1200.00
+        },
+        {
+            "color": "Gray",
+            "size": "SM (25528-GRAY-SM)",
+            "quantity": 5,
+            "paid": 600.00,
+            "base": 600.00
+        },
+        {
+            "color": "White",
+            "size": "XL (25528-WHIT-XL)",
+            "quantity": 12,
+            "paid": 1440.00,
+            "base": 1440.00
+        },
+        {
+            "color": "Red",
+            "size": "XXL (25528-RED-XXL)",
+            "quantity": 7,
+            "paid": 1050.00,
+            "base": 1050.00
+        }
+    ],
+    "order_data": [
+        {
+            "oderImg": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/product/attributeimages/D620-BUR.jpg",
+            "orderName": "Burgundy"
+        }
+    ]
+}

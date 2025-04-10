@@ -1,0 +1,88 @@
+{
+  "lowInventoryReportData": [
+    {
+      "srno": 1,
+      "productName": "Organic Coffee Beans",
+      "sku": "COF-001",
+      "storeName": "Bacardi",
+      "totalQuantity": 5
+    },
+    {
+      "srno": 2,
+      "productName": "Premium Tea Bags",
+      "sku": "TEA-002",
+      "storeName": "ParsonsKellogg",
+      "totalQuantity": 3
+    },
+    {
+      "srno": 3,
+      "productName": "Herbal Green Tea",
+      "sku": "TEA-003",
+      "storeName": "Corporate Gear",
+      "totalQuantity": 2
+    },
+    {
+      "srno": 4,
+      "productName": "Dark Chocolate Bar",
+      "sku": "CHO-001",
+      "storeName": "Gameday Gear",
+      "totalQuantity": 4
+    },
+    {
+      "srno": 5,
+      "productName": "Vanilla Extract",
+      "sku": "VAN-001",
+      "storeName": "GFORE Corporate Gear",
+      "totalQuantity": 1
+    },
+    {
+      "srno": 6,
+      "productName": "Protein Powder",
+      "sku": "PRO-001",
+      "storeName": "Bacardi",
+      "totalQuantity": 3
+    },
+    {
+      "srno": 7,
+      "productName": "Energy Bars",
+      "sku": "SNK-002",
+      "storeName": "ParsonsKellogg",
+      "totalQuantity": 4
+    },
+    {
+      "srno": 8,
+      "productName": "Vitamin C Supplements",
+      "sku": "VIT-003",
+      "storeName": "Corporate Gear",
+      "totalQuantity": 2
+    },
+    {
+      "srno": 9,
+      "productName": "Athletic Socks",
+      "sku": "APP-001",
+      "storeName": "Gameday Gear",
+      "totalQuantity": 5
+    },
+    {
+      "srno": 10,
+      "productName": "Sports Water Bottle",
+      "sku": "ACC-001",
+      "storeName": "GFORE Corporate Gear",
+      "totalQuantity": 3
+    },
+    {
+      "srno": 11,
+      "productName": "Yoga Mat",
+      "sku": "FIT-001",
+      "storeName": "Bacardi",
+      "totalQuantity": 2
+    },
+    {
+      "srno": 12,
+      "productName": "Running Shoes",
+      "sku": "SHO-001",
+      "storeName": "ParsonsKellogg",
+      "totalQuantity": 4
+    }
+  ]
+}

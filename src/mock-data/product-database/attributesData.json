@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Color",
+    "id": "1",
+    "isRequired": true,
+    "options": [
+      {
+        "value": "Blue Sea",
+        "suffix": "BSEA",
+        "seasonalSKU": "Red123",
+        "displayOrder": 1,
+        "isActive": true,
+        "isDiscontinued": false
+      },
+      {
+        "value": "Navy",
+        "suffix": "NAV",
+        "seasonalSKU": "nav123",
+        "displayOrder": 2,
+        "isActive": true,
+        "isDiscontinued": false
+      },
+      {
+        "value": "Ultra Violet",
+        "suffix": "ULTRV",
+        "seasonalSKU": "ultr123",
+        "displayOrder": 3,
+        "isActive": true,
+        "isDiscontinued": false
+      }
+    ]
+  },
+
+  {
+    "name": "Size",
+    "id": "2",
+    "isRequired": true,
+    "variationId": "65",
+    "options": [
+      {
+        "value": "SM",
+        "suffix": "SM",
+        "seasonalSKU": "sm123",
+        "displayOrder": 1,
+        "isActive": true,
+        "isDiscontinued": false
+      },
+      {
+        "value": "MD",
+        "suffix": "MD",
+        "seasonalSKU": "md123",
+        "displayOrder": 2,
+        "isActive": true,
+        "isDiscontinued": false
+      },
+      {
+        "value": "LG",
+        "suffix": "LG",
+        "seasonalSKU": "lg123",
+        "displayOrder": 3,
+        "isActive": true,
+        "isDiscontinued": false
+      },
+      {
+        "value": "XL",
+        "suffix": "XL",
+        "seasonalSKU": "xl123",
+        "displayOrder": 4,
+        "isActive": true,
+        "isDiscontinued": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "storeName": "bacardi-top-apparel-store",
+    "displayName": "Bacardi Top Apparel Store",
+    "storeType": "form-builder",
+    "formBuilderId": "9",
+    "formBuilderName": "cg-forms",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "2",
+    "storeName": "bombay-sapphire-apparel-store",
+    "displayName": "Bombay Sapphire Apparel Store",
+    "storeType": "form-builder",
+    "formBuilderId": "9",
+    "formBuilderName": "cg-forms",
+    "url": "https://corporate-store-1.com"
+  },
+  {
+    "id": "3",
+    "storeName": "cg-apparel-form",
+    "displayName": "CG Apparel Form",
+    "storeType": "form-builder",
+    "formBuilderId": "9",
+    "formBuilderName": "cg-forms",
+    "url": "https://corporate-store-1.com"
+  }
+]

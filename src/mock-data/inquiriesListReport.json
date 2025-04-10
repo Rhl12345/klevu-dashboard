@@ -1,0 +1,111 @@
+{
+  "inquiriesListReport": {
+    "data": [
+      {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "subject": "Product Availability",
+        "date": "2024-03-01",
+        "reply": "Pending"
+      },
+      {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "subject": "Pricing Question",
+        "date": "2024-03-02",
+        "reply": "Replied"
+      },
+      {
+        "name": "Mike Johnson",
+        "email": "mike.j@example.com",
+        "subject": "Shipping Details",
+        "date": "2024-03-03",
+        "reply": "Pending"
+      },
+      {
+        "name": "Sarah Williams",
+        "email": "sarah.w@example.com",
+        "subject": "Product Specifications",
+        "date": "2024-03-04",
+        "reply": "Replied"
+      },
+      {
+        "name": "Robert Brown",
+        "email": "robert.b@example.com",
+        "subject": "Bulk Order",
+        "date": "2024-03-05",
+        "reply": "Pending"
+      },
+      {
+        "name": "Emily Davis",
+        "email": "emily.d@example.com",
+        "subject": "Return Policy",
+        "date": "2024-03-06",
+        "reply": "Replied"
+      },
+      {
+        "name": "David Wilson",
+        "email": "david.w@example.com",
+        "subject": "Product Quality",
+        "date": "2024-03-07",
+        "reply": "Pending"
+      },
+      {
+        "name": "Lisa Anderson",
+        "email": "lisa.a@example.com",
+        "subject": "Warranty Information",
+        "date": "2024-03-08",
+        "reply": "Replied"
+      },
+      {
+        "name": "James Taylor",
+        "email": "james.t@example.com",
+        "subject": "Payment Options",
+        "date": "2024-03-09",
+        "reply": "Pending"
+      },
+      {
+        "name": "Mary Martinez",
+        "email": "mary.m@example.com",
+        "subject": "Product Comparison",
+        "date": "2024-03-10",
+        "reply": "Replied"
+      },
+      {
+        "name": "Thomas Lee",
+        "email": "thomas.l@example.com",
+        "subject": "Delivery Time",
+        "date": "2024-03-11",
+        "reply": "Pending"
+      },
+      {
+        "name": "Patricia Clark",
+        "email": "patricia.c@example.com",
+        "subject": "Product Demo",
+        "date": "2024-03-12",
+        "reply": "Replied"
+      },
+      {
+        "name": "Kevin White",
+        "email": "kevin.w@example.com",
+        "subject": "Technical Support",
+        "date": "2024-03-13",
+        "reply": "Pending"
+      },
+      {
+        "name": "Jennifer Hall",
+        "email": "jennifer.h@example.com",
+        "subject": "Order Status",
+        "date": "2024-03-14",
+        "reply": "Replied"
+      },
+      {
+        "name": "Daniel King",
+        "email": "daniel.k@example.com",
+        "subject": "Product Feedback",
+        "date": "2024-03-15",
+        "reply": "Pending"
+      }
+    ]
+  }
+}

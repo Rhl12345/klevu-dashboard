@@ -1,0 +1,12 @@
+/* Scrollbar css */
+
+/* Add this CSS to your global styles or a relevant CSS file */
+.hide-scrollbar::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* Optional: just to ensure the background is transparent */
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

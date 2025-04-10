@@ -1,0 +1,138 @@
+{
+    "data":
+    [
+        {
+          "id": 1,
+          "primaryTypeId": 2,
+          "secondaryTypeId": 3,
+          "menuTypeId": 1,
+          "menuValue": null
+        },
+        {
+          "id": 2,
+          "primaryTypeId": 2,
+          "secondaryTypeId": 2,
+          "menuTypeId": 2,
+          "menuValue": null
+        },
+        {
+          "id": 3,
+          "primaryTypeId": 1,
+          "secondaryTypeId": 5,
+          "menuTypeId": 3,
+          "menuValue": null
+        },
+        {
+          "id": 4,
+          "primaryTypeId": 1,
+          "secondaryTypeId": 2,
+          "menuTypeId": 1,
+          "menuValue": null
+        },
+        {
+          "id": 5,
+          "primaryTypeId": 2,
+          "secondaryTypeId": 3,
+          "menuTypeId": 2,
+          "menuValue": null
+        },
+        {
+          "id": 6,
+          "primaryTypeId": 2,
+          "secondaryTypeId": 4,
+          "menuTypeId": 3,
+          "menuValue": null
+        },
+        {
+          "id": 7,
+          "primaryTypeId": 1,
+          "secondaryTypeId": 2,
+          "menuTypeId": 1,
+          "menuValue": null
+        }
+    ],
+    "TYPE_OPTIONS":
+    [
+        {
+            "value": 1,
+            "label": "Topic"
+        },
+        {
+            "value": 2,
+            "label": "Category"
+        }   
+    ],
+    "CATEGORY_OPTIONS":
+    [
+        {
+            "value": 1,
+            "label": "Men"
+        },
+        {
+            "value": 2,
+            "label": "Women"
+        },
+        {
+            "value": 3,
+            "label": "Sales"
+        },
+        {
+            "value": 4,
+            "label": "Accessories"
+        }
+    ],
+    "TOPIC_OPTIONS":
+    [
+        {
+            "value": 1,
+            "label": "Galvin Green Custom Golf Apparel"
+        },
+        {
+            "value": 2,
+            "label": "Helly Hansen Logo Apparel Collection"
+        },
+        {
+            "value": 3,
+            "label": "Customize High Sierra Brand"
+        },
+        {
+            "value": 4,
+            "label": "Custom Igloo Coolers And Bags"
+        },
+        {
+            "value": 5,
+            "label": "Johnnie O Custom Apparel Collection"
+        },
+        {
+            "value": 6,
+            "label": "Klean Kanteen Logo Drinkware"
+        },
+        {
+            "value": 7,
+            "label": "Custom Knack Bags And Backpacks"
+        },
+        {
+            "value": 8,
+            "label": "Lacoste Collection"
+        }
+    ],
+    "MENU_OPTIONS":
+    [
+        {
+            "value": 1,
+            "label": "None"
+        },
+        {
+            "value": 2,
+            "label": "Dynamic"
+        },
+        {
+            "value": 3,
+            "label": "Custom"
+        },
+        {
+            "value": 4,
+            "label": "Link"
+        }
+    ]
+}

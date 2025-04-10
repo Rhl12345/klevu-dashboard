@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "quantityId": "qt_001",
+      "minQuantity": 1,
+      "maxQuantity": 10,
+      "discount": 5.0,
+      "discountType": "percentage",
+      "recStatus": "A",
+      "createdDate": "2024-03-20T10:00:00Z",
+      "createdBy": "System",
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "1"
+    },
+    {
+      "id": "2",
+      "quantityId": "qt_001",
+      "minQuantity": 11,
+      "maxQuantity": 20,
+      "discount": 10.0,
+      "discountType": "percentage",
+      "recStatus": "A",
+      "createdDate": "2024-03-20T10:00:00Z",
+      "createdBy": "System",
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "1"
+    },
+    {
+      "id": "3",
+      "quantityId": "qt_002",
+      "minQuantity": 1,
+      "maxQuantity": 5,
+      "discount": 15.0,
+      "discountType": "fixed",
+      "recStatus": "A",
+      "createdDate": "2024-03-20T10:00:00Z",
+      "createdBy": "System",
+      "modifiedDate": "2024-03-21T15:30:00Z",
+      "modifiedBy": "System",
+      "rowVersion": "2"
+    },
+    {
+      "id": "4",
+      "quantityId": "qt_002",
+      "minQuantity": 6,
+      "maxQuantity": 15,
+      "discount": 25.0,
+      "discountType": "fixed",
+      "recStatus": "I",
+      "createdDate": "2024-03-20T10:00:00Z",
+      "createdBy": "System",
+      "modifiedDate": "2024-03-21T16:45:00Z",
+      "modifiedBy": "System",
+      "rowVersion": "2"
+    },
+    {
+      "id": "5",
+      "quantityId": "qt_003",
+      "minQuantity": 1,
+      "maxQuantity": 100,
+      "discount": 7.5,
+      "discountType": "percentage",
+      "recStatus": "A",
+      "createdDate": "2024-03-20T10:00:00Z",
+      "createdBy": "System",
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "1"
+    }
+  ],
+  "totalCount": 5,
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false
+}

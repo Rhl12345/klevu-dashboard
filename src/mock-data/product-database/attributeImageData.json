@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "value": "Blue Sea",
+    "suffix": "BSEA",
+    "seasonalSKU": "Red123",
+    "displayOrder": 1,
+    "isActive": true,
+    "isDiscontinued": false,
+    "media": [
+      {
+        "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/ms25ek15s-bsea_1.jpg?0.6024271983725908",
+        "name": "Blue Sea",
+        "displayOrder": 1
+      }
+    ],
+    "swatch": null,
+    "facetColor": ["#70B6FF"]
+  },
+  {
+    "id": "2",
+    "value": "Navy",
+    "suffix": "NAV",
+    "seasonalSKU": "nav123",
+    "displayOrder": 2,
+    "isActive": true,
+    "isDiscontinued": false,
+    "media": [
+      {
+        "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/ms25ek15s-nav_1.jpg?0.7602065388069721",
+        "name": "Navy",
+        "displayOrder": 1
+      }
+    ],
+    "swatch": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/ms25ek15s-nav_1.jpg?0.7602065388069721",
+    "facetColor": ["#05046D"]
+  },
+  {
+    "id": "3",
+    "value": "Ultra Violet",
+    "suffix": "ULTRV",
+    "seasonalSKU": "ultr123",
+    "displayOrder": 3,
+    "isActive": true,
+    "isDiscontinued": false,
+    "media": [
+      {
+        "url": "https://storagemedia.corporategear.com/betastoragemedia/1/mastercatalog/attributeimages/ms25ek15s-ultrv_1.jpg?0.4680959207203179",
+        "name": "Ultra Violet",
+        "displayOrder": 1
+      }
+    ],
+    "swatch": null,
+    "facetColor": ["#9931FF"]
+  }
+]

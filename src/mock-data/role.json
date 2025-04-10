@@ -1,0 +1,130 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "roleName": "Admin",
+            "createdDate": "05/24/2023 12:07 PM",
+            "createdBy": "Vishal Patel",
+            "updatedBy": "Vipul Solanki",
+            "updatedDate": "01/11/2024 02:34 AM",
+            "status": "A"
+        },
+        {
+            "id": 2,
+            "roleName": "Admin New",
+            "createdDate": "06/07/2023 12:51 PM",
+            "createdBy": "H Admin",
+            "updatedBy": "Vipul Solanki",
+            "updatedDate": "01/11/2024 02:34 AM",
+            "status": "A"
+        },
+        {
+            "id": 3,
+            "roleName": "Admin PHG",
+            "createdDate": "02/01/2024 08:26 AM",
+            "createdBy": "Vipul Solanki",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        },
+        {
+            "id": 4,
+            "roleName": "Admin View",
+            "createdDate": "09/05/2023 10:35 AM",
+            "createdBy": "Vipul Solanki",
+            "updatedBy": "Vipul Solanki",
+            "updatedDate": "01/11/2024 02:35 AM",
+            "status": "A"
+        },
+        {
+            "id": 5,
+            "roleName": "Click Worx",
+            "createdDate": "02/23/2024 12:18 AM",
+            "createdBy": "Vipul Solanki",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        },
+        {
+            "id": 6,
+            "roleName": "CMS M",
+            "createdDate": "05/31/2024 10:35 AM",
+            "createdBy": "Vipul Solanki",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        },
+        {
+            "id": 7,
+            "roleName": "CMS Manager",
+            "createdDate": "05/27/2023 12:31 PM",
+            "createdBy": "Vishal Patel",
+            "updatedBy": "Vipul Solanki",
+            "updatedDate": "06/03/2023 09:46 AM",
+            "status": "A"
+        },
+        {
+            "id": 8,
+            "roleName": "Content Creator / Designer",
+            "createdDate": "05/28/2023 07:27 AM",
+            "createdBy": "Vishal Patel",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        },
+        {
+            "id": 9,
+            "roleName": "DI Team",
+            "createdDate": "06/08/2023 08:50 AM",
+            "createdBy": "H Admin",
+            "updatedBy": "H Admin",
+            "updatedDate": "06/08/2023 09:20 AM",
+            "status": "A"
+        },
+        {
+            "id": 10,
+            "roleName": "Merch Role",
+            "createdDate": "06/06/2023 11:51 AM",
+            "createdBy": "H Admin",
+            "updatedBy": "H Admin",
+            "updatedDate": "06/07/2023 08:27 AM",
+            "status": "A"
+        },
+        {
+            "id": 11,
+            "roleName": "Merchandiser",
+            "createdDate": "05/28/2023 07:19 AM",
+            "createdBy": "Vishal Patel",
+            "updatedBy": "H Admin",
+            "updatedDate": "06/07/2023 08:50 AM",
+            "status": "A"
+        },
+        {
+            "id": 12,
+            "roleName": "Merchandiser Additional",
+            "createdDate": "06/07/2023 08:45 AM",
+            "createdBy": "H Admin",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        },
+        {
+            "id": 13,
+            "roleName": "Merchandiser Additional Custom",
+            "createdDate": "07/18/2023 01:05 PM",
+            "createdBy": "Vipul Solanki",
+            "updatedBy": "Vipul Solanki",
+            "updatedDate": "07/18/2023 01:06 PM",
+            "status": "A"
+        },
+        {
+            "id": 14,
+            "roleName": "Owner",
+            "createdDate": "05/29/2023 04:29 AM",
+            "createdBy": "Vishal Patel",
+            "updatedBy": "-",
+            "updatedDate": "05/29/2023 04:29 AM",
+            "status": "A"
+        }
+    ]
+}

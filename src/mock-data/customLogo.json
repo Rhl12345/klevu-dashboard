@@ -1,0 +1,142 @@
+{
+  "DECORATION_TYPES": [
+    { "label": "Embroidery", "value": "embroidery" },
+    { "label": "Screen Print", "value": "screen_print" },
+    { "label": "Heat Transfer", "value": "heat_transfer" }
+  ],
+  "LOGO_POSITIONS": [
+    { "label": "Front", "value": "front" },
+    { "label": "Back", "value": "back" },
+    { "label": "Left Sleeve", "value": "left_sleeve" },
+    { "label": "Right Sleeve", "value": "right_sleeve" }
+  ],
+  "customLogoData": [
+    {
+      "id": 1,
+      "logoName": "Google Main",
+      "logo": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",
+      "decorationType": "Embroidery",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-20T14:30:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "logoName": "Google Cloud",
+      "logo": "https://ssl.gstatic.com/images/branding/product/2x/drive_2020q4_48dp.png",
+      "decorationType": "Screen Print",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-19T09:15:00",
+      "recStatus": "I"
+    },
+    {
+      "id": 3,
+      "logoName": "Google Drive",
+      "logo": "https://ssl.gstatic.com/images/branding/product/2x/drive_2020q4_48dp.png",
+      "decorationType": "Heat Transfer",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-18T16:45:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 4,
+      "logoName": "Google Meet",
+      "logo": "https://www.gstatic.com/meet/google_meet_horizontal_wordmark_2020q4_1x_icon_124_40_2373e79660dabbf194273d27aa7ee1f5.png",
+      "decorationType": "Embroidery",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-17T11:20:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 5,
+      "logoName": "Google Maps",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/docs_2020q4_48dp.png",
+      "decorationType": "Screen Print",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-16T13:10:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 6,
+      "logoName": "Google Photos",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png",
+      "decorationType": "Heat Transfer",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-15T15:30:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 7,
+      "logoName": "Google Docs",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/docs_2020q4_48dp.png",
+      "decorationType": "Embroidery",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-14T10:45:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 8,
+      "logoName": "Google Sheets",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png",
+      "decorationType": "Screen Print",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-13T14:20:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 9,
+      "logoName": "Google Slides",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/slides_2020q4_48dp.png",
+      "decorationType": "Heat Transfer",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-12T09:30:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 10,
+      "logoName": "Google Forms",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png",
+      "decorationType": "Embroidery",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-11T16:15:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 11,
+      "logoName": "Google Calendar",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/calendar_2020q4_48dp.png",
+      "decorationType": "Screen Print",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-10T11:40:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 12,
+      "logoName": "Google Keep",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/keep_2020q4_48dp.png",
+      "decorationType": "Heat Transfer",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-09T13:25:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 13,
+      "logoName": "Google Chat",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/chat_2020q4_48dp.png",
+      "decorationType": "Embroidery",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-08T15:50:00",
+      "recStatus": "A"
+    },
+    {
+      "id": 14,
+      "logoName": "Google Gmail",
+      "logo": "https://www.gstatic.com/images/branding/product/2x/gmail_2020q4_48dp.png",
+      "decorationType": "Screen Print",
+      "clientStatus": "Approved",
+      "lastActive": "2024-03-07T10:35:00",
+      "recStatus": "A"
+    }
+
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "abandonedCarts": [
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+      "storeName": "Corporate Gear",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "customerId": "CUST001",
+      "shoppingCartId": "CART001",
+      "subTotal": "$129.99",
+      "createdDate": "2024-03-20T14:30:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_123.jpg",
+          "productName": "Corporate Logo T-Shirt",
+          "sku": "CG-TS-001",
+          "size": "L",
+          "color": "Navy Blue",
+          "unitPrice": "$29.99",
+          "quantity": 2,
+          "subTotal": "$59.98"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_124.jpg",
+          "productName": "Business Casual Polo",
+          "sku": "CG-PL-002",
+          "size": "XL",
+          "color": "White",
+          "unitPrice": "$45.99",
+          "quantity": 1,
+          "subTotal": "$45.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_125.jpg",
+          "productName": "Custom Embroidered Cap",
+          "sku": "CG-CP-003",
+          "size": "One Size",
+          "color": "Black",
+          "unitPrice": "$24.02",
+          "quantity": 1,
+          "subTotal": "$24.02"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_7.png",
+      "storeName": "PK Health Gear",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "customerId": "CUST002",
+      "shoppingCartId": "CART002",
+      "subTotal": "$89.99",
+      "createdDate": "2024-03-19T16:45:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_126.jpg",
+          "productName": "Athletic Performance Shirt",
+          "sku": "PK-AS-001",
+          "size": "M",
+          "color": "Gray",
+          "unitPrice": "$49.99",
+          "quantity": 1,
+          "subTotal": "$49.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_127.jpg",
+          "productName": "Compression Socks",
+          "sku": "PK-CS-002",
+          "size": "M",
+          "color": "Black",
+          "unitPrice": "$20.00",
+          "quantity": 2,
+          "subTotal": "$40.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_134.png",
+      "storeName": "Bacardi",
+      "name": "Mike Johnson",
+      "email": "mike.j@example.com",
+      "customerId": "CUST003",
+      "shoppingCartId": "CART003",
+      "subTotal": "$299.99",
+      "createdDate": "2024-03-18T09:15:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_128.jpg",
+          "productName": "Premium Rum Gift Set",
+          "sku": "BC-RG-001",
+          "size": "Standard",
+          "color": "Mixed",
+          "unitPrice": "$99.99",
+          "quantity": 2,
+          "subTotal": "$199.98"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_129.jpg",
+          "productName": "Branded Cocktail Shaker",
+          "sku": "BC-CS-002",
+          "quantity": 1,
+          "subTotal": "$100.01"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_84.svg",
+      "storeName": "Gameday Gear",
+      "name": "Sarah Williams",
+      "email": "sarah.w@example.com",
+      "customerId": "CUST004",
+      "shoppingCartId": "CART004",
+      "subTotal": "$159.99",
+      "createdDate": "2024-03-17T11:20:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_130.jpg",
+          "productName": "Team Jersey",
+          "sku": "GG-TJ-001",
+          "quantity": 1,
+          "subTotal": "$99.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_131.jpg",
+          "productName": "Sports Cap",
+          "sku": "GG-SC-002",
+          "quantity": 2,
+          "subTotal": "$60.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_9.svg",
+      "storeName": "Peter Millar Corporate Gear",
+      "name": "Robert Brown",
+      "email": "robert.b@example.com",
+      "customerId": "CUST005",
+      "shoppingCartId": "CART005",
+      "subTotal": "$199.99",
+      "createdDate": "2024-03-16T15:45:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_132.jpg",
+          "productName": "Luxury Polo Shirt",
+          "sku": "PM-LP-001",
+          "quantity": 1,
+          "subTotal": "$129.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_133.jpg",
+          "productName": "Golf Shorts",
+          "sku": "PM-GS-002",
+          "quantity": 1,
+          "subTotal": "$70.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_135.png",
+      "storeName": "ParsonsKellogg",
+      "name": "Emily Chen",
+      "email": "emily.c@example.com",
+      "customerId": "CUST006",
+      "shoppingCartId": "CART006",
+      "subTotal": "$449.99",
+      "createdDate": "2024-03-15T13:20:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_134.jpg",
+          "productName": "Premium Jacket",
+          "sku": "PK-PJ-001",
+          "quantity": 1,
+          "subTotal": "$299.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_135.jpg",
+          "productName": "Designer Backpack",
+          "sku": "PK-DB-002",
+          "quantity": 1,
+          "subTotal": "$150.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_84.svg",
+      "storeName": "Gameday Gear",
+      "name": "David Wilson",
+      "email": "david.w@example.com",
+      "customerId": "CUST007",
+      "shoppingCartId": "CART007",
+      "subTotal": "$279.99",
+      "createdDate": "2024-03-14T10:15:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_136.jpg",
+          "productName": "Team Hoodie",
+          "sku": "GG-TH-003",
+          "quantity": 2,
+          "subTotal": "$159.98"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_137.jpg",
+          "productName": "Sports Bag",
+          "sku": "GG-SB-004",
+          "quantity": 1,
+          "subTotal": "$120.01"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_134.png",
+      "storeName": "Bacardi",
+      "name": "Lisa Anderson",
+      "email": "lisa.a@example.com",
+      "customerId": "CUST008",
+      "shoppingCartId": "CART008",
+      "subTotal": "$189.99",
+      "createdDate": "2024-03-13T17:30:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_138.jpg",
+          "productName": "Cocktail Glass Set",
+          "sku": "BC-CG-003",
+          "quantity": 1,
+          "subTotal": "$89.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_139.jpg",
+          "productName": "Bar Tools Kit",
+          "sku": "BC-BT-004",
+          "quantity": 1,
+          "subTotal": "$100.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_84.svg",
+      "storeName": "Gameday Gear",
+      "name": "Tom Martinez",
+      "email": "tom.m@example.com",
+      "customerId": "CUST009",
+      "shoppingCartId": "CART009",
+      "subTotal": "$329.99",
+      "createdDate": "2024-03-12T14:45:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_140.jpg",
+          "productName": "Premium Jersey",
+          "sku": "GG-PJ-005",
+          "quantity": 1,
+          "subTotal": "$199.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_141.jpg",
+          "productName": "Team Jacket",
+          "sku": "GG-TJ-006",
+          "quantity": 1,
+          "subTotal": "$130.00"
+        }
+      ]
+    },
+    {
+      "storeLogoUrl": "https://storagemedia.corporategear.com/betastoragemedia/1/store/logo_5.svg",
+      "storeName": "Corporate Gear",
+      "name": "Rachel Kim",
+      "email": "rachel.k@example.com",
+      "customerId": "CUST010",
+      "shoppingCartId": "CART010",
+      "subTotal": "$149.99",
+      "createdDate": "2024-03-11T11:10:00",
+      "viewCart": "View",
+      "sendMail": "Send",
+      "cartItems": [
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_142.jpg",
+          "productName": "Business Blazer",
+          "sku": "CG-BB-004",
+          "quantity": 1,
+          "subTotal": "$99.99"
+        },
+        {
+          "thumbNail": "https://storagemedia.corporategear.com/products/thumb_143.jpg",
+          "productName": "Corporate Laptop Bag",
+          "sku": "CG-LB-005",
+          "quantity": 1,
+          "subTotal": "$50.00"
+        }
+      ]
+    }
+  ]
+}

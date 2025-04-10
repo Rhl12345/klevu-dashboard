@@ -1,0 +1,230 @@
+{
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalCount": 20,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "items": [
+    {
+      "id": 1,
+      "email": "ankit@yopmail.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-03T16:17:43.2642421",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "a"
+    },
+    {
+      "id": 3,
+      "email": "tejas@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-07T09:06:04.0035689",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 4,
+      "email": "kanu@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-08T00:38:35.4661098",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 5,
+      "email": "naynesh@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-08T04:45:30.8001836",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 6,
+      "email": "kanu@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-08T08:37:07.6452264",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 7,
+      "email": "kaushal@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-08T08:37:22.0831299",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 8,
+      "email": "kaushal@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-13T05:22:32.3975096",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 9,
+      "email": "megantran19@gmail.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-19T15:09:55.046043",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 10,
+      "email": "nasdas@gmailc.om",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-22T05:30:24.4182675",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 11,
+      "email": "naynesh@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-22T05:30:39.4901159",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 12,
+      "email": "vivek@gmail.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-26T05:56:14.753065",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 14,
+      "email": "sjfkflfjkls@gmail.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-26T06:23:37.9304702",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 16,
+      "email": "vishalr@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-06-27T07:52:14.7872978",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 21,
+      "email": "baldwinjustine@gmail.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-07-13T15:15:43.492242",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 22,
+      "email": "kanu@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-07-20T06:10:30.8525434",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 23,
+      "email": "alpeshp@redefinecommerce.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-08-17T07:49:22.2680005",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 24,
+      "email": "vipul@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-09-25T09:23:29.0301211",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 25,
+      "email": "melissasexton19@icloud.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-10-06T18:43:52.5564036",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 26,
+      "email": "vipul@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-10-17T00:47:45.1425465",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    },
+    {
+      "id": 27,
+      "email": "vipul@redefinesolutions.com",
+      "isSubscribe": true,
+      "storeName": "PK Health Gear",
+      "createdDate": "2023-10-17T00:48:35.5292573",
+      "createdName": " ",
+      "modifiedDate": null,
+      "modifiedName": " ",
+      "recStatus": "A"
+    }
+  ]
+}

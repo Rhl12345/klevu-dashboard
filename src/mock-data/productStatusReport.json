@@ -1,0 +1,460 @@
+{
+    "pageIndex": 1,
+    "pageSize": 25,
+    "totalCount":50,
+    "totalPages": 2,
+    "hasPreviousPage": true,
+    "hasNextPage": true,
+    "items": [
+        {
+            "id": 42931,
+            "name": "Adidas Black Sustainable Performance Visor",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45550,
+            "name": "Adidas Black Sustainable Performance Visor",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 13605,
+            "name": "Adidas Black Sustainable Rope Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45552,
+            "name": "Adidas Black Sustainable Rope Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 13617,
+            "name": "Adidas Black Sustainable Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45527,
+            "name": "Adidas Black Sustainable Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 12146,
+            "name": "Adidas Black Tonal Camo Backpack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20490,
+            "name": "Adidas Black Tonal Camo Gym Sack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20516,
+            "name": "Adidas Black Tonal Camo Ruck Sack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 22998,
+            "name": "Adidas Black Utility Team Backpack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20444,
+            "name": "Adidas Black Vertical 3-Stripes Gym Sack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43518,
+            "name": "Adidas Black Wide Brim Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45935,
+            "name": "Adidas Black Wide Brim Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70927,
+            "name": "Adidas Black/White/Silver Metallic Tour Tennis 12 Racquet Bag",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70935,
+            "name": "Adidas Black/White/Silver Metallic Tour Tennis 12 Racquet Bag",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70943,
+            "name": "Adidas Black/White/Silver Metallic Tour Tennis 12 Racquet Bag",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 40416,
+            "name": "Adidas Blank Wide Brim Golf Hat",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43513,
+            "name": "Adidas Blank Wide Brim Golf Hat Black  ",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45934,
+            "name": "Adidas Blank Wide Brim Golf Hat Black  ",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70715,
+            "name": "Adidas Blue Stadium 3 Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70737,
+            "name": "Adidas Blue Stadium 3 Backpack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70748,
+            "name": "Adidas Blue Stadium 3 Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70954,
+            "name": "Adidas Bold Blue Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70993,
+            "name": "Adidas Bold Blue Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 71000,
+            "name": "Adidas Bold Blue Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70719,
+            "name": "Adidas Bright Pink Stadium 3 Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70734,
+            "name": "Adidas Bright Pink Stadium 3 Backpack",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70754,
+            "name": "Adidas Bright Pink Stadium 3 Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20845,
+            "name": "Adidas Bright Royal Performance Relaxed Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 24208,
+            "name": "Adidas Bright Royal Performance Relaxed Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 11937,
+            "name": "Adidas Burgundy Structured Adjustable Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43533,
+            "name": "Adidas Camo Print Golf Print Lo Pro Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 47206,
+            "name": "Adidas Camo Print Golf Print Lo Pro Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43531,
+            "name": "Adidas Camo Print Print Wide Brim Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 47205,
+            "name": "Adidas Camo Print Print Wide Brim Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 14917,
+            "name": "Adidas Carbon Golf Members Bounce Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20513,
+            "name": "Adidas Collegiate Burgundy / Black 35L Weekend Duffel Bag",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 20499,
+            "name": "Adidas Collegiate Navy / Black 35L Weekend Duffel Bag",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 23241,
+            "name": "Adidas Collegiate Navy / Navy Poly Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 24345,
+            "name": "Adidas Collegiate Navy / Navy Poly Trucker Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 23342,
+            "name": "Adidas Collegiate Navy Chambray Mully Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 15296,
+            "name": "Adidas Collegiate Navy Heathered Back Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43528,
+            "name": "Adidas Collegiate Navy Revolve Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 47185,
+            "name": "Adidas Collegiate Navy Revolve Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 43502,
+            "name": "Adidas Collegiate Navy Rope 5 Panel Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 45921,
+            "name": "Adidas Collegiate Navy Rope 5 Panel Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70955,
+            "name": "Adidas Collegiate Navy Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 70994,
+            "name": "Adidas Collegiate Navy Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 71004,
+            "name": "Adidas Collegiate Navy Striker II Team Backpack",
+            "productStatus": "",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        },
+        {
+            "id": 13638,
+            "name": "Adidas Collegiate Navy Sustainable Organic Relaxed Hat",
+            "productStatus": "A",
+            "gtinMissing": "No",
+            "notReadyToSell": "No",
+            "partiallyReadyToSell": "Yes",
+            "readyToSell": "No"
+        }
+    ]
+}

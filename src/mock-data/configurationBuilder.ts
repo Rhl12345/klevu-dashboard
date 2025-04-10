@@ -1,0 +1,32 @@
+export const logoPositionOptions = [
+  { value: "text-left", label: "Left" },
+  { value: "text-center", label: "Center" },
+  { value: "text-right", label: "Right" },
+];
+
+export const fontOptions = [
+  { label: "Outfit, sans-serif", value: "font-family-1" },
+  { label: "Open Sans, sans-serif", value: "font-family-2" },
+  { label: "Roboto, sans-serif", value: "font-family-3" },
+  { label: "Lato, sans-serif", value: "font-family-4" },
+  { label: "Roboto Slab, serif", value: "font-family-5" },
+  { label: "Raleway, sans-serif", value: "font-family-6" },
+  { label: "Montserrat, sans-serif", value: "font-family-7" },
+  { label: "Saira Extra Condensed, sans-serif", value: "font-family-8" },
+  { label: "Work Sans, sans-serif", value: "font-family-9" },
+  { label: "Nunito Sans, sans-serif", value: "font-family-10" },
+  { label: "PT Sans, sans-serif", value: "font-family-11" },
+  { label: "Source Sans Pro, sans-serif", value: "font-family-12" },
+  { label: "Porsche Next, serif", value: "font-family-13" },
+  { label: "Helvetica Now", value: "font-family-14" },
+  { label: "Palatino Nova", value: "font-family-15" },
+  { label: "Futura LT", value: "font-family-16" },
+  { label: "URW Egyptienne W01", value: "font-family-17" },
+  { label: "Saira Condensed, sans-serif", value: "font-family-18" },
+  { label: "Urbanist, sans-serif", value: "font-family-19" },
+  { label: "Aksana, sans-serif", value: "font-family-20" },
+  { label: "BureauGrotesque-FiveFive, sans-serif", value: "font-family-21" },
+  { label: "Lora, serif", value: "font-family-22" },
+  { label: "GFont Regular", value: "font-family-23" },
+  { label: "GFont Bold", value: "font-family-24" },
+];

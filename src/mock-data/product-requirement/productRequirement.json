@@ -1,0 +1,405 @@
+{
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalCount": 11,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "items": [
+    {
+      "id": 17,
+      "name": "asass",
+      "storeName": "Bacardi",
+      "percentage": 30,
+      "readinessDetail": [
+        {
+          "id": 28,
+          "name": "Sale Price",
+          "fieldPercentage": 0,
+          "rowVersion": "wM3zFIeV3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Chandan Kumar",
+      "modifiedName": " ",
+      "storeid": 15,
+      "recStatus": "A",
+      "createdDate": "2023-09-01T06:09:16.2658654",
+      "createdBy": 67,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "JNfF+LGq2wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 16,
+      "name": "Core Product Feed",
+      "storeName": "Core Product Feed",
+      "percentage": 90,
+      "readinessDetail": [
+        {
+          "id": 60,
+          "name": "Product Name",
+          "fieldPercentage": 90,
+          "rowVersion": "OFTFo2vN3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Kushal Vaghela",
+      "modifiedName": "Tejas Daftary",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-09-01T05:34:56.1706714",
+      "createdBy": 75,
+      "modifiedDate": "2024-09-05T05:29:00.0056434",
+      "modifiedBy": 81,
+      "rowVersion": "HZVopWvN3Ag=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 4,
+      "name": "Corporate Gear Reediness",
+      "storeName": "Corporate Gear",
+      "percentage": 100,
+      "readinessDetail": [
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 20,
+          "rowVersion": "o8SToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 13,
+          "name": "Category",
+          "fieldPercentage": 10,
+          "rowVersion": "fsKToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 14,
+          "name": "Description",
+          "fieldPercentage": 10,
+          "rowVersion": "48SToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 15,
+          "name": "Short Description",
+          "fieldPercentage": 10,
+          "rowVersion": "cMWToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 25,
+          "name": "Our Cost",
+          "fieldPercentage": 10,
+          "rowVersion": "tsWToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 26,
+          "name": "MSRP",
+          "fieldPercentage": 10,
+          "rowVersion": "8cWToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 42,
+          "name": "Featured",
+          "fieldPercentage": 10,
+          "rowVersion": "LMaToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 52,
+          "name": "Attribute Image",
+          "fieldPercentage": 10,
+          "rowVersion": "eMaToqM+3Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 125,
+          "name": "Facet",
+          "fieldPercentage": 10,
+          "rowVersion": "u8aToqM+3Qg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Bhargav Yadav",
+      "modifiedName": "Ankit  k",
+      "storeid": 5,
+      "recStatus": "A",
+      "createdDate": "2023-06-28T07:40:10.1672221",
+      "createdBy": 65,
+      "modifiedDate": "2025-01-28T05:10:55.2665459",
+      "modifiedBy": 170,
+      "rowVersion": "QGHAJFo/3Qg=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 12,
+      "name": "GG",
+      "storeName": "Gameday Gear",
+      "percentage": 50,
+      "readinessDetail": [
+        {
+          "id": 15,
+          "name": "Short Description",
+          "fieldPercentage": 50,
+          "rowVersion": "EC3uLvCI3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 16,
+          "name": "Search Dimension Template",
+          "fieldPercentage": 50,
+          "rowVersion": "mCzuLvCI3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Bhargav Yadav",
+      "modifiedName": "Bhargav Yadav",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-07-03T12:16:24.8812552",
+      "createdBy": 65,
+      "modifiedDate": "2023-07-03T12:31:29.9418132",
+      "modifiedBy": 65,
+      "rowVersion": "H16FbcF72wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 22,
+      "name": "HNPEN radiness12",
+      "storeName": "HNPEN",
+      "percentage": 80,
+      "readinessDetail": [
+        {
+          "id": 1,
+          "name": "Brand OR Manufacturer Name",
+          "fieldPercentage": 20,
+          "rowVersion": "fKaLmiM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 10,
+          "rowVersion": "taaLmiM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 20,
+          "rowVersion": "7KaLmiM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 13,
+          "name": "Category",
+          "fieldPercentage": 10,
+          "rowVersion": "K6aLmiM53Qg=",
+          "recStatus": "A"
+        },
+        {
+          "id": 28,
+          "name": "Sale Price",
+          "fieldPercentage": 20,
+          "rowVersion": "KaeLmiM53Qg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Mital  Tank",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2025-01-20T07:24:27.7188004",
+      "createdBy": 171,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "aABWeSM53Qg=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 13,
+      "name": "newProductRequirement0012",
+      "storeName": "Bacardi-GREY GOOSE",
+      "percentage": 90,
+      "readinessDetail": [
+        {
+          "id": 0,
+          "name": null,
+          "fieldPercentage": 0,
+          "rowVersion": "AwoETdGJ3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Chandan Kumar",
+      "modifiedName": "Anand Kumar",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-08-01T09:33:42.6825456",
+      "createdBy": 67,
+      "modifiedDate": "2024-03-08T01:57:29.3249061",
+      "modifiedBy": 159,
+      "rowVersion": "Np9nHBM/3Ag=",
+      "location": "RI",
+      "ipAddress": "27.54.168.197",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 19,
+      "name": "Peter Millar CG",
+      "storeName": "Peter Millar CG",
+      "percentage": 100,
+      "readinessDetail": [
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 90,
+          "rowVersion": "dONEP4ha3Ag=",
+          "recStatus": "A"
+        },
+        {
+          "id": 130,
+          "name": "Min Quantity",
+          "fieldPercentage": 10,
+          "rowVersion": "2ONEP4ha3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Binal Prajapati",
+      "modifiedName": "Binal Prajapati",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2024-04-12T00:33:29.7856903",
+      "createdBy": 85,
+      "modifiedDate": "2024-04-12T00:34:23.6097238",
+      "modifiedBy": 85,
+      "rowVersion": "rxwlTYha3Ag=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 20,
+      "name": "Porsche",
+      "storeName": "Porsche",
+      "percentage": 20,
+      "readinessDetail": [
+        {
+          "id": 3,
+          "name": "Product Name",
+          "fieldPercentage": 20,
+          "rowVersion": "xFg8Njql3Ag=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Tejas Daftary",
+      "modifiedName": "Tejas Daftary",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2024-07-16T01:54:11.748664",
+      "createdBy": 81,
+      "modifiedDate": "2024-07-16T01:54:23.7860844",
+      "modifiedBy": 81,
+      "rowVersion": "ASeENzql3Ag=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 5,
+      "name": "PRIYA",
+      "storeName": "Cyxtera",
+      "percentage": 7,
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 4,
+          "rowVersion": "H6PBZ8Z32wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Priya Chitlangia",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-06-28T10:56:53.0980466",
+      "createdBy": 70,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "DAXMYcZ32wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 21,
+      "name": "test",
+      "storeName": "CG Store Test",
+      "percentage": 80,
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 12,
+          "rowVersion": "JBeota8Z3Qg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Anand Kumar",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2024-12-11T06:46:43.4930439",
+      "createdBy": 159,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "agM0k68Z3Qg=",
+      "location": "RI",
+      "ipAddress": "27.54.168.197",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "id": 15,
+      "name": "test1",
+      "storeName": "Core Product Feed",
+      "percentage": 100,
+      "readinessDetail": [
+        {
+          "id": 2,
+          "name": "Vendor Name",
+          "fieldPercentage": 100,
+          "rowVersion": "K554veKp2wg=",
+          "recStatus": "A"
+        }
+      ],
+      "createdName": "Binal Prajapati",
+      "modifiedName": " ",
+      "storeid": 0,
+      "recStatus": "A",
+      "createdDate": "2023-08-31T05:14:18.0932325",
+      "createdBy": 85,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": "noB/IOGp2wg=",
+      "location": "RI",
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00"
+    }
+  ]
+}

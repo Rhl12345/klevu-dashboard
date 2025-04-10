@@ -1,0 +1,48 @@
+{
+    "navSkuMappingData": [
+        {
+            "id": 1,
+            "currentSku": "25618-BCW-XS",
+            "bcSku": "25617-BCW-XS",
+            "storeName": "PK Health Gear",
+            "createdDate": "2023-01-15",
+            "createdBy": "Admin",
+            "updatedDate": "2023-01-20",
+            "updatedBy": "Admin",
+            "recStatus": "I"
+        },
+        {
+            "id": 2,
+            "currentSku": "25618-BCW-SM",
+            "bcSku": "25617-BCW-SM",
+            "storeName": "PK Health Gear",
+            "createdDate": "2023-01-16",
+            "createdBy": "Admin",
+            "updatedDate": "2023-01-21",
+            "updatedBy": "Admin",
+            "recStatus": "A"
+        }
+    ],
+    "NAV_SKU_MAPPING_OPTIONS": [
+        {
+            "label": "24 On Tour",
+            "value": "1"
+        },
+        {
+            "label": "Bacardi",
+            "value": "2"
+        },
+        {
+            "label": "Bacardi Grey Goose",
+            "value": "3"
+        },
+        {
+            "label": "Boston Beer",
+            "value": "4"
+        },
+        {
+            "label": "PK Health Gear",
+            "value": "5"
+        }
+    ]
+}

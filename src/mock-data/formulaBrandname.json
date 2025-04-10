@@ -1,0 +1,518 @@
+{
+  "userNameOptions": [
+    {
+      "value": "133",
+      "label": "Aakash  Chaudhary"
+    },
+    {
+      "value": "93",
+      "label": "Alex Alutto"
+    },
+    {
+      "value": "82",
+      "label": "Alex Dumais"
+    }
+  ],
+  "formulaBrandNames": [
+    {
+      "id": 1,
+      "name": "Brand 1",
+      "storeName": "Store 1",
+      "splitName": "Split 1",
+
+      "brandReplace": "Brand Replace 1",
+      "replaceCharacter": "Replace Character 1",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 1",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 1",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+
+      "name": "Brand 2",
+      "storeName": "Store 2",
+      "splitName": "Split 2",
+      "brandReplace": "Brand Replace 2",
+      "replaceCharacter": "Replace Character 2",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 2",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 2",
+      "recStatus": "I"
+    },
+    {
+      "id": 3,
+      "name": "Brand 3",
+      "storeName": "Store 3",
+      "splitName": "Split 3",
+      "brandReplace": "Brand Replace 3",
+      "replaceCharacter": "Replace Character 3",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 3",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 3",
+      "recStatus": "A"
+    },
+    {
+      "id": 4,
+
+      "name": "Brand 4",
+      "storeName": "Store 4",
+      "splitName": "Split 4",
+      "brandReplace": "Brand Replace 4",
+      "replaceCharacter": "Replace Character 4",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 4",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 4",
+      "recStatus": "I"
+    },
+    {
+      "id": 5,
+      "name": "Brand 5",
+      "storeName": "Store 5",
+      "splitName": "Split 5",
+      "brandReplace": "Brand Replace 5",
+      "replaceCharacter": "Replace Character 5",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 5",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 5",
+      "recStatus": "I"
+    },
+    {
+      "id": 6,
+      "name": "Brand 6",
+      "storeName": "Store 6",
+      "splitName": "Split 6",
+      "brandReplace": "Brand Replace 6",
+      "replaceCharacter": "Replace Character 6",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 6",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 6",
+      "recStatus": "A"
+    },
+    {
+      "id": 7,
+
+      "name": "Brand 7",
+      "storeName": "Store 7",
+      "splitName": "Split 7",
+      "brandReplace": "Brand Replace 7",
+      "replaceCharacter": "Replace Character 7",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 7",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 7",
+      "recStatus": "I"
+    },
+    {
+      "id": 8,
+      "name": "Brand 8",
+      "storeName": "Store 8",
+      "splitName": "Split 8",
+      "brandReplace": "Brand Replace 8",
+      "replaceCharacter": "Replace Character 8",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 8",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 8",
+      "recStatus": "A"
+    },
+    {
+      "id": 9,
+      "name": "Brand 9",
+      "storeName": "Store 9",
+      "splitName": "Split 9",
+      "brandReplace": "Brand Replace 9",
+
+      "replaceCharacter": "Replace Character 9",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 9",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 9",
+      "recStatus": "I"
+    },
+    {
+      "id": 10,
+      "name": "Brand 10",
+      "storeName": "Store 10",
+      "splitName": "Split 10",
+      "brandReplace": "Brand Replace 10",
+      "replaceCharacter": "Replace Character 10",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 10",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 10",
+      "recStatus": "A"
+    },
+    {
+      "id": 11,
+      "name": "Brand 11",
+      "storeName": "Store 11",
+      "splitName": "Split 11",
+      "brandReplace": "Brand Replace 11",
+      "replaceCharacter": "Replace Character 11",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 11",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 11",
+      "recStatus": "I"
+    },
+    {
+      "id": 12,
+      "name": "Brand 12",
+      "storeName": "Store 12",
+      "splitName": "Split 12",
+      "brandReplace": "Brand Replace 12",
+      "replaceCharacter": "Replace Character 12",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 12",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 12",
+      "recStatus": "A"
+    },
+    {
+      "id": 13,
+      "name": "Brand 13",
+      "storeName": "Store 13",
+      "splitName": "Split 13",
+      "brandReplace": "Brand Replace 13",
+      "replaceCharacter": "Replace Character 13",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 13",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 13",
+      "recStatus": "I"
+    },
+    {
+      "id": 14,
+      "name": "Brand 14",
+      "storeName": "Store 14",
+      "splitName": "Split 14",
+      "brandReplace": "Brand Replace 14",
+      "replaceCharacter": "Replace Character 14",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 14",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 14",
+      "recStatus": "A"
+    },
+    {
+      "id": 15,
+      "name": "Brand 15",
+      "storeName": "Store 15",
+      "splitName": "Split 15",
+      "brandReplace": "Brand Replace 15",
+      "replaceCharacter": "Replace Character 15",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 15",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 15",
+      "recStatus": "I"
+    },
+    {
+      "id": 16,
+      "name": "Brand 16",
+      "storeName": "Store 16",
+      "splitName": "Split 16",
+      "brandReplace": "Brand Replace 16",
+      "replaceCharacter": "Replace Character 16",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 16",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 16",
+      "recStatus": "A"
+    },
+    {
+      "id": 17,
+      "name": "Brand 17",
+      "storeName": "Store 17",
+      "splitName": "Split 17",
+      "brandReplace": "Brand Replace 17",
+      "replaceCharacter": "Replace Character 17",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 17",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 17",
+      "recStatus": "I"
+    },
+    {
+      "id": 18,
+      "name": "Brand 18",
+      "storeName": "Store 18",
+      "splitName": "Split 18",
+      "brandReplace": "Brand Replace 18",
+      "replaceCharacter": "Replace Character 18",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 18",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 18",
+      "recStatus": "A"
+    },
+    {
+      "id": 19,
+      "name": "Brand 19",
+      "storeName": "Store 19",
+      "splitName": "Split 19",
+      "brandReplace": "Brand Replace 19",
+      "replaceCharacter": "Replace Character 19",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 19",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 19",
+      "recStatus": "I"
+    },
+    {
+      "id": 20,
+      "name": "Brand 20",
+      "storeName": "Store 20",
+      "splitName": "Split 20",
+      "brandReplace": "Brand Replace 20",
+      "replaceCharacter": "Replace Character 20",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 20",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 20",
+      "recStatus": "A"
+    },
+    {
+      "id": 21,
+      "name": "Brand 21",
+      "storeName": "Store 21",
+      "splitName": "Split 21",
+      "brandReplace": "Brand Replace 21",
+      "replaceCharacter": "Replace Character 21",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 21",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 21",
+      "recStatus": "I"
+    },
+    {
+      "id": 22,
+      "name": "Brand 22",
+      "storeName": "Store 22",
+      "splitName": "Split 22",
+      "brandReplace": "Brand Replace 22",
+      "replaceCharacter": "Replace Character 22",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 22",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 22",
+      "recStatus": "A"
+    },
+    {
+      "id": 23,
+      "name": "Brand 23",
+      "storeName": "Store 23",
+      "splitName": "Split 23",
+      "brandReplace": "Brand Replace 23",
+      "replaceCharacter": "Replace Character 23",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 23",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 23",
+      "recStatus": "I"
+    },
+    {
+      "id": 24,
+      "name": "Brand 24",
+      "storeName": "Store 24",
+      "splitName": "Split 24",
+      "brandReplace": "Brand Replace 24",
+      "replaceCharacter": "Replace Character 24",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 24",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 24",
+      "recStatus": "A"
+    },
+    {
+      "id": 25,
+      "name": "Brand 25",
+      "storeName": "Store 25",
+      "splitName": "Split 25",
+      "brandReplace": "Brand Replace 25",
+      "replaceCharacter": "Replace Character 25",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 25",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 25",
+      "recStatus": "I"
+    },
+    {
+      "id": 26,
+      "name": "Brand 26",
+      "storeName": "Store 26",
+      "splitName": "Split 26",
+      "brandReplace": "Brand Replace 26",
+      "replaceCharacter": "Replace Character 26",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 26",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 26",
+      "recStatus": "A"
+    },
+    {
+      "id": 27,
+      "name": "Brand 27",
+      "storeName": "Store 27",
+      "splitName": "Split 27",
+      "brandReplace": "Brand Replace 27",
+      "replaceCharacter": "Replace Character 27",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 27",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 27",
+      "recStatus": "I"
+    },
+    {
+      "id": 28,
+      "name": "Brand 28",
+      "storeName": "Store 28",
+      "splitName": "Split 28",
+      "brandReplace": "Brand Replace 28",
+      "replaceCharacter": "Replace Character 28",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 28",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 28",
+      "recStatus": "I"
+    },
+    {
+      "id": 29,
+      "name": "Brand 29",
+      "storeName": "Store 29",
+      "splitName": "Split 29",
+      "brandReplace": "Brand Replace 29",
+      "replaceCharacter": "Replace Character 29",
+      "createdDate": "2023-08-07T03:11:13.1243068",
+      "createdBy": "Admin 29",
+      "modifiedDate": "2023-08-07T03:11:13.1243068",
+      "modifiedBy": "Admin 29",
+      "recStatus": "A"
+    }
+  ],
+  "storeOptions": [
+    {
+      "value": "1",
+      "label": "Store 1"
+    },
+    {
+      "value": "2",
+      "label": "Store 2"
+    },
+    {
+      "value": "3",
+      "label": "Store 3"
+    },
+    {
+      "value": "4",
+      "label": "Store 4"
+    },
+    {
+      "value": "5",
+      "label": "Store 5"
+    },
+    {
+      "value": "6",
+      "label": "Store 6"
+    },
+    {
+      "value": "7",
+      "label": "Store 7"
+    },
+    {
+      "value": "8",
+      "label": "Store 8"
+    },
+    {
+      "value": "9",
+      "label": "Store 9"
+    },
+    {
+      "value": "10",
+      "label": "Store 10"
+    },
+    {
+      "value": "11",
+      "label": "Store 11"
+    },
+    {
+      "value": "12",
+      "label": "Store 12"
+    },
+    {
+      "value": "13",
+      "label": "Store 13"
+    },
+    {
+      "value": "14",
+      "label": "Store 14"
+    },
+    {
+      "value": "15",
+      "label": "Store 15"
+    },
+    {
+      "value": "16",
+      "label": "Store 16"
+    },
+    {
+      "value": "17",
+      "label": "Store 17"
+    },
+    {
+      "value": "18",
+      "label": "Store 18"
+    },
+    {
+      "value": "19",
+      "label": "Store 19"
+    },
+    {
+      "value": "20",
+      "label": "Store 20"
+    },
+    {
+      "value": "21",
+      "label": "Store 21"
+    },
+    {
+      "value": "22",
+      "label": "Store 22"
+    },
+    {
+      "value": "23",
+      "label": "Store 23"
+    },
+    {
+      "value": "24",
+      "label": "Store 24"
+    },
+    {
+      "value": "25",
+      "label": "Store 25"
+    },
+    {
+      "value": "26",
+      "label": "Store 26"
+    },
+    {
+      "value": "27",
+      "label": "Store 27"
+    },
+    {
+      "value": "28",
+      "label": "Store 28"
+    },
+    {
+      "value": "29",
+      "label": "Store 29"
+    }
+  ]
+}

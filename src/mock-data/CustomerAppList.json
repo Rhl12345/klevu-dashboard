@@ -1,0 +1,126 @@
+{
+  "customerApplicationList": [
+    {
+      "id": 1,
+      "organizationName": "Tech Solutions Inc",
+      "customerName": "John Smith",
+      "email": "john.smith@techsolutions.com",
+      "phone": "123-456-7890",
+    "createdDate": "2024-03-15T10:30:00",
+    "recStatus": "A",
+    "address1": "123 Main St",
+    "address2": "Apt 4B",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "organizationName": "Global Innovations",
+    "customerName": "Sarah Johnson",
+    "email": "sarah.j@globalinno.com",
+    "phone": "234-567-8901",
+    "createdDate": "2024-03-14T14:20:00",
+    "recStatus": "A",
+    "address1": "",
+    "address2": "",
+    "city": "",
+    "state": "",
+    "zip_code": "",
+    "country": ""
+  },
+  {
+    "id": 3,
+    "organizationName": "Digital Dynamics",
+    "customerName": "Michael Brown",
+    "email": "m.brown@digidyn.com",
+    "phone": "345-678-9012",
+    "createdDate": "2024-03-13T09:15:00",
+    "recStatus": "Pending"
+  },
+  {
+    "id": 4,
+    "organizationName": "Future Systems",
+    "customerName": "Emily Davis",
+    "email": "emily.d@futuresys.com",
+    "phone": "456-789-0123",
+    "createdDate": "2024-03-12T16:45:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 5,
+    "organizationName": "Smart Solutions",
+    "customerName": "David Wilson",
+    "email": "d.wilson@smartsol.com",
+    "phone": "567-890-1234",
+    "createdDate": "2024-03-11T11:00:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 6,
+    "organizationName": "Cloud Computing Co",
+    "customerName": "Lisa Anderson",
+    "email": "l.anderson@cloudcomp.com",
+    "phone": "678-901-2345",
+    "createdDate": "2024-03-10T13:25:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 7,
+    "organizationName": "Data Dynamics",
+    "customerName": "Robert Taylor",
+    "email": "r.taylor@datadyn.com",
+    "phone": "789-012-3456",
+    "createdDate": "2024-03-09T15:50:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 8,
+    "organizationName": "Innovative Tech",
+    "customerName": "Jennifer Martin",
+    "email": "j.martin@innovtech.com",
+    "phone": "890-123-4567",
+    "createdDate": "2024-03-08T10:10:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 9,
+    "organizationName": "System Solutions",
+    "customerName": "Kevin White",
+    "email": "k.white@syssol.com",
+    "phone": "901-234-5678",
+    "createdDate": "2024-03-07T14:30:00",
+    "recStatus": "Pending"
+  },
+  {
+    "id": 10,
+    "organizationName": "Digital Enterprise",
+    "customerName": "Amanda Clark",
+    "email": "a.clark@digient.com",
+    "phone": "012-345-6789",
+    "createdDate": "2024-03-06T09:45:00",
+    "recStatus": "A"
+  },
+  {
+    "id": 11,
+    "organizationName": "Tech Solutions Inc",
+    "customerName": "John Smith",
+    "email": "john.smith@techsolutions.com",
+    "phone": "123-456-7890",
+    "createdDate": "2024-03-15T10:30:00",
+    "recStatus": "A",
+    "address1": "123 Main St",
+    "address2": "Apt 4B",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": "10001",
+      "country": "USA"
+    }
+  ],
+  "vendorOptions": [
+    { "label": "Bacardi", "value": "Bacardi" },
+    { "label": "Bosten Beer", "value": "Bosten Beer" },
+    { "label": "Corporate Gear", "value": "Corporate Gear" }
+  ]
+}

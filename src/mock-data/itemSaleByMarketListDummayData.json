@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+            "productName": "Nike Men's Dark Grey Dri-FIT Solid Icon Pique Modern Fit Polo",
+            "SKU": "746099-GRY",
+            "unitSold": 18,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 40.00
+        },
+        {
+            "productName": "Nike Team Maroon Team Dri-FIT Swoosh Flex Hat",
+            "SKU": "867308-610",
+            "unitSold": 12,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 24.00
+        },
+        {
+            "productName": "Adidas Women's Black / Medium Grey Team Issue Quarter-Zip",
+            "SKU": "AD237-HIO710",
+            "unitSold": 24,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 58.00
+        },
+        {
+            "productName": "Nike Men's College Navy / White Dri-FIT Victory Solid Polo",
+            "SKU": "DH0824-419",
+            "unitSold": 12,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 54.00
+        },
+        {
+            "productName": "Nike Men's University Red / White Dri-FIT Victory Solid Polo",
+            "SKU": "DH0824-657",
+            "unitSold": 13,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 54.00
+        },
+        {
+            "productName": "Peter Millar Men's Black Perth Stretch Loop Terry Quarter-Zip",
+            "SKU": "MEOEK40-BLK",
+            "unitSold": 19,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 135.00
+        },
+        {
+            "productName": "Peter Millar Men's Cottage Blue / White Perth Mini-Stripe Stretch Loop Terry Quarter-Zip",
+            "SKU": "MEOEK40E-CBL",
+            "unitSold": 18,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 135.00
+        },
+        {
+            "productName": "Peter Millar Men's Iron / White Perth Mini-Stripe Stretch Loop Terry Quarter-Zip",
+            "SKU": "MEOEK40E-IRW",
+            "unitSold": 56,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 540.00
+        },
+        {
+            "productName": "Under Armour Men's Steeltown Gold Performance Cotton T-Shirt",
+            "SKU": "UM0706-307",
+            "unitSold": 26,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 31.00
+        },
+        {
+            "productName": "Nike Black / White Brasilia 9.5 Backpack",
+            "SKU": "DM3975-010",
+            "unitSold": 19,
+            "shippingCost": 0.00,
+            "salesTax": 55.00,
+            "revenue": 46.00
+        },
+        {
+            "productName": "Peter Millar Men's White Solid Performance Polo - Self Collar",
+            "SKU": "MEOEK015-WHT",
+            "unitSold": 12,
+            "shippingCost": 0.00,
+            "salesTax": 70.00,
+            "revenue": 98.00
+        },
+        {
+            "productName": "Nike Black Brasilia Medium Backpack",
+            "SKU": "DH7709-BLK",
+            "unitSold": 40,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 101.00
+        },
+        {
+            "productName": "Fairway and Greene Men's Black Tech Solid Quarter-Zip Vest",
+            "SKU": "C11513-BLK",
+            "unitSold": 13,
+            "shippingCost": 0.00,
+            "salesTax": 0.00,
+            "revenue": 112.00
+        }
+    ]
+}

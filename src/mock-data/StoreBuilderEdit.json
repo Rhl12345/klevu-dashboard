@@ -1,0 +1,83 @@
+{
+  "data": {
+    "id": 1,
+    "storeId": 38,
+    "fixedCharge": 0,
+    "cardProcessingCharge": 0,
+    "isAvalaraTaxes": true,
+    "recStatus": "A",
+    "createdDate": "2023-05-05T12:07:30.2314662",
+    "createdBy": 3,
+    "modifiedDate": "2023-10-05T10:23:22.7844187",
+    "modifiedBy": 80,
+    "rowVersion": "prtyGo3F2wg=",
+    "location": "RI",
+    "ipAddress": "71.117.155.138",
+    "macAddress": "00-00-00-00-00-00",
+    "isDisplayFeesInformation": false
+  },
+  "feesData": [
+    {
+      "id": 68,
+      "storeId": 0,
+      "name": "Testing",
+      "type": "1",
+      "amount": 20,
+      "recStatus": "A",
+      "createdDate": "2025-02-19T01:25:14.4835196",
+      "createdBy": 149,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": null,
+      "location": null,
+      "ipAddress": null,
+      "macAddress": null
+    },
+    {
+      "id": 69,
+      "storeId": 0,
+      "name": "Testig 2",
+      "type": "2",
+      "amount": 100,
+      "recStatus": "A",
+      "createdDate": "2025-02-19T01:25:31.5243237",
+      "createdBy": 149,
+      "modifiedDate": null,
+      "modifiedBy": null,
+      "rowVersion": null,
+      "location": null,
+      "ipAddress": null,
+      "macAddress": null
+    }
+  ],
+  "couponData": [
+    {
+      "storeId": 38,
+      "name": "VANDERWEIL50",
+      "type": 1,
+      "amount": 50,
+      "couponCodes": "VANDERWEIL50",
+      "couponCodeUsedOnes": "0",
+      "recStatus": "A",
+      "id": 1,
+      "rowVersion": "anBKl6/I2wg=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    },
+    {
+      "storeId": 38,
+      "name": "VANDERWEIL TESTING",
+      "type": 1,
+      "amount": 20,
+      "couponCodes": "VANDERWEILTEST",
+      "couponCodeUsedOnes": "1",
+      "recStatus": "A",
+      "id": 32,
+      "rowVersion": "o1liVYhQ3Qg=",
+      "location": "RI",
+      "ipAddress": "120.72.90.155",
+      "macAddress": "00-00-00-00-00-00"
+    }
+  ]
+}

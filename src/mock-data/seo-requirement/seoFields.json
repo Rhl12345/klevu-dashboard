@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Name",
+    "value": 1
+  },
+  {
+    "label": "Page Title",
+    "value": 2
+  },
+  {
+    "label": "Url",
+    "value": 3
+  },
+  {
+    "label": "Meta Description",
+    "value": 4
+  },
+  {
+    "label": "Meta Keywords",
+    "value": 5
+  },
+  {
+    "label": "Image Title Tag",
+    "value": 6
+  },
+  {
+    "label": "ROI Keywords",
+    "value": 7
+  },
+  {
+    "label": "Targeted Keywords",
+    "value": 8
+  }
+]

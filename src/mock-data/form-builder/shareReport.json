@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Bhargav",
+      "email": "bhargav@redefinecommerce.com",
+      "sentDate": "02/18/2025 02:20 AM",
+      "updatedDate": "02/18/2025 02:24 AM",
+      "sentBy": "Bhargav Yadav",
+      "updatedBy": "Bhargav Yadav",
+
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "name": "Mital T",
+      "email": "mital@redefinesolutions.com",
+      "sentDate": "02/18/2025 02:24 AM",
+      "updatedDate": "02/18/2025 02:24 AM",
+      "sentBy": "Bhargav Yadav",
+      "updatedBy": "Bhargav Yadav",
+
+      "recStatus": "A"
+    }
+  ]
+}

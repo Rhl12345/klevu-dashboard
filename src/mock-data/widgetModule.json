@@ -1,0 +1,168 @@
+{
+  "widgets": [
+    {
+      "id": 1,
+      "name": "Dashboard Widget",
+      "moduleList": ["Analytics", "Reports", "Statistics"],
+      "rowVersion": "AAAAAAAAB9E=",
+      "recStatus": "Active",
+      "moduleName": ["Dashboard", "Analytics"]
+    },
+    {
+      "id": 2,
+      "name": "User Management Widget",
+      "moduleList": ["Users", "Roles", "Permissions"],
+      "rowVersion": "AAAAAAAAB9F=",
+      "recStatus": "Active",
+      "moduleName": ["Users"]
+    },
+    {
+      "id": 3,
+      "name": "Content Widget",
+      "moduleList": ["Blog", "Pages", "Media"],
+      "rowVersion": "AAAAAAAAB9G=",
+      "recStatus": "Inactive",
+      "moduleName": ["Content", "Blog", "Media"]
+    },
+    {
+      "id": 4,
+      "name": "E-commerce Widget",
+      "moduleList": ["Products", "Orders", "Inventory"],
+      "rowVersion": "AAAAAAAAB9H=",
+      "recStatus": "Active",
+      "moduleName": ["E-commerce"]
+    },
+    {
+      "id": 5,
+      "name": "Settings Widget",
+      "moduleList": ["General", "Security", "Integrations"],
+      "rowVersion": "AAAAAAAAB9I=",
+      "recStatus": "Active",
+      "moduleName": ["Settings", "Security"]
+    },
+    {
+      "id": 6,
+      "name": "Marketing Widget",
+      "moduleList": ["Campaigns", "Email", "Social Media"],
+      "rowVersion": "AAAAAAAAB9J=",
+      "recStatus": "Active",
+      "moduleName": ["Marketing", "Campaigns"]
+    },
+    {
+      "id": 7,
+      "name": "Customer Support Widget",
+      "moduleList": ["Tickets", "Chat", "Knowledge Base"],
+      "rowVersion": "AAAAAAAAB9K=",
+      "recStatus": "Active",
+      "moduleName": ["Support"]
+    },
+    {
+      "id": 8,
+      "name": "HR Widget",
+      "moduleList": ["Employees", "Payroll", "Benefits"],
+      "rowVersion": "AAAAAAAAB9L=",
+      "recStatus": "Inactive",
+      "moduleName": ["HR", "Personnel"]
+    },
+    {
+      "id": 9,
+      "name": "Project Management Widget",
+      "moduleList": ["Tasks", "Timeline", "Resources"],
+      "rowVersion": "AAAAAAAAB9M=",
+      "recStatus": "Active",
+      "moduleName": ["Projects", "Tasks"]
+    },
+    {
+      "id": 10,
+      "name": "Finance Widget",
+      "moduleList": ["Accounting", "Budgets", "Expenses"],
+      "rowVersion": "AAAAAAAAB9N=",
+      "recStatus": "Active",
+      "moduleName": ["Finance"]
+    }
+  ],
+  "moduleOptions": [
+    { "label": "Analytics", "value": "analytics" },
+    { "label": "Reports", "value": "reports" },
+    { "label": "Statistics", "value": "statistics" },
+    { "label": "Dashboard", "value": "dashboard" },
+    { "label": "Users", "value": "users" },
+    { "label": "Roles", "value": "roles" },
+    { "label": "Permissions", "value": "permissions" },
+    { "label": "Blog", "value": "blog" },
+    { "label": "Pages", "value": "pages" },
+    { "label": "Media", "value": "media" },
+    { "label": "Content", "value": "content" },
+    { "label": "Products", "value": "products" },
+    { "label": "Orders", "value": "orders" },
+    { "label": "Inventory", "value": "inventory" },
+    { "label": "E-commerce", "value": "ecommerce" },
+    { "label": "General", "value": "general" },
+    { "label": "Security", "value": "security" },
+    { "label": "Integrations", "value": "integrations" },
+    { "label": "Settings", "value": "settings" },
+    { "label": "Campaigns", "value": "campaigns" },
+    { "label": "Email", "value": "email" },
+    { "label": "Social Media", "value": "social-media" },
+    { "label": "Marketing", "value": "marketing" },
+    { "label": "Tickets", "value": "tickets" },
+    { "label": "Chat", "value": "chat" },
+    { "label": "Knowledge Base", "value": "knowledge-base" },
+    { "label": "Support", "value": "support" },
+    { "label": "Employees", "value": "employees" },
+    { "label": "Payroll", "value": "payroll" },
+    { "label": "Benefits", "value": "benefits" },
+    { "label": "HR", "value": "hr" },
+    { "label": "Personnel", "value": "personnel" },
+    { "label": "Tasks", "value": "tasks" },
+    { "label": "Timeline", "value": "timeline" },
+    { "label": "Resources", "value": "resources" },
+    { "label": "Projects", "value": "projects" },
+    { "label": "Accounting", "value": "accounting" },
+    { "label": "Budgets", "value": "budgets" },
+    { "label": "Expenses", "value": "expenses" },
+    { "label": "Finance", "value": "finance" }
+  ],
+  "widgetOptions": [
+    {
+      "label": "Dashboard Widget",
+      "value": "dashboard"
+    },
+    {
+      "label": "User Management Widget",
+      "value": "users"
+    },
+    {
+      "label": "Content Widget",
+      "value": "content"
+    },
+    {
+      "label": "E-commerce Widget",
+      "value": "ecommerce"
+    },
+    {
+      "label": "Settings Widget",
+      "value": "settings"
+    },
+    {
+      "label": "Marketing Widget",
+      "value": "marketing"
+    },
+    {
+      "label": "Customer Support Widget",
+      "value": "support"
+    },
+    {
+      "label": "HR Widget",
+      "value": "hr"
+    },
+    {
+      "label": "Project Management Widget",
+      "value": "projects"
+    },
+    {
+      "label": "Finance Widget",
+      "value": "finance"
+    }
+  ]
+}

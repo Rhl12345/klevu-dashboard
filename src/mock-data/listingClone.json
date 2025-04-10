@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 61138,
+            "productId": 8128,
+            "colorName": "Black",
+            "imagePath": "/betastoragemedia/1/mastercatalog/attributeimages/ba9a002as-blk_1.jpg",
+            "sku": "BA9A002AS-BLK",
+            "subRows": [
+                {
+                    "id": 61139,
+                    "name": "MISC"
+                },
+                {
+                    "id": 64960,
+                    "name": "Medium"
+                }
+            ]
+        },
+        {
+            "id": 64959,
+            "productId": 8128,
+            "colorName": "Blue",
+            "imagePath": "/betastoragemedia/1/mastercatalog/attributeimages/ba9a002as-blu_1.gif",
+            "sku": "BA9A002AS-Blu",
+            "subRows": [
+                {
+                    "id": 61139,
+                    "name": "MISC"
+                },
+                {
+                    "id": 64960,
+                    "name": "Medium"
+                }
+            ]
+        }
+    ],
+    "errors": {},
+    "otherData": null
+}

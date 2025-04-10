@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_6_5.png",
+            "brand_name": "Peter Millar",
+            "vendor_name": "Peter Millar",
+            "total_products": 1937,
+            "corporate_gear": 1937
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_5_5.png",
+            "brand_name": "Port Authority",
+            "vendor_name": "SanMar",
+            "total_products": 63,
+            "corporate_gear": 63
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_4_5.png",
+            "brand_name": "Alternative",
+            "vendor_name": "S&S Activewear LLC",
+            "total_products": 183,
+            "corporate_gear": 183
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_3_5.png",
+            "brand_name": "Charles River Apparel",
+            "vendor_name": "Other",
+            "total_products": 85,
+            "corporate_gear": 85
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_2_5.png",
+            "brand_name": "Titleist",
+            "vendor_name": "Acushnet Golf",
+            "total_products": 258,
+            "corporate_gear": 258
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_1_5.png",
+            "brand_name": "Nike",
+            "vendor_name": "Nike USA",
+            "total_products": 1829,
+            "corporate_gear": 1829
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_6_5.png",
+            "brand_name": "Imperial Headwear",
+            "vendor_name": "Imperial Headwear Inc",
+            "total_products": 310,
+            "corporate_gear": 310
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_5_5.png",
+            "brand_name": "Adidas",
+            "vendor_name": "S&S Activewear LLC",
+            "total_products": 1131,
+            "corporate_gear": 1131
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_4_5.png",
+            "brand_name": "Patagonia",
+            "vendor_name": "Patagonia - PK East",
+            "total_products": 643,
+            "corporate_gear": 643
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_3_5.png",
+            "brand_name": "YETI",
+            "vendor_name": "YETI Coolers",
+            "total_products": 184,
+            "corporate_gear": 184
+        },
+        {
+            "img": "https://storagemedia.corporategear.com/betastoragemedia/1/brand/logo_3_5.png",
+            "brand_name": "Helly Hansen",
+            "vendor_name": "Other",
+            "total_products": 1057,
+            "corporate_gear": 1057
+        }
+    ]
+}

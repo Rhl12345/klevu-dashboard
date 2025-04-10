@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_7.png",
+      "name": "Gift Card 1",
+      "ourSku": "SKU12345",
+      "endDate": "2024-12-31",
+      "salePrice": 25.0,
+      "createdDate": "2023-01-15",
+      "createdBy": "Admin",
+      "updatedDate": "2023-06-01",
+      "updatedBy": "Admin",
+      "recStatus": "A"
+    },
+    {
+      "id": 2,
+      "image": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_6.png",
+      "name": "Gift Card 2",
+      "ourSku": "SKU12346",
+      "endDate": "2024-11-30",
+      "salePrice": 50.0,
+      "createdDate": "2023-02-20",
+      "createdBy": "Admin",
+      "updatedDate": "2023-07-15",
+      "updatedBy": "Admin",
+      "recStatus": "A"
+    },
+    {
+      "id": 3,
+      "image": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_5.png",
+      "name": "Gift Card 3",
+      "ourSku": "SKU12347",
+      "endDate": "2024-10-15",
+      "salePrice": 75.0,
+      "createdDate": "2023-03-10",
+      "createdBy": "Admin",
+      "updatedDate": "2023-08-01",
+      "updatedBy": "Admin",
+      "recStatus": "I"
+    },
+    {
+      "id": 4,
+      "image": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/store/logo_7.png",
+      "name": "Gift Card 4",
+      "ourSku": "SKU12348",
+      "endDate": "2024-09-30",
+      "salePrice": 100.0,
+      "createdDate": "2023-04-05",
+      "createdBy": "Admin",
+      "updatedDate": "2023-09-10",
+      "updatedBy": "Admin",
+      "recStatus": "A"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+    "data": [
+      {
+          "id": 1,
+          "category": "Science Fiction",
+          "parentCategoryId": 2,
+          "slug": "science-fiction",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T10:00:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T10:00:00Z",
+          "modifiedBy": "admin"
+      },
+      {
+          "id": 2,
+          "category": "Space Opera",
+          "parentCategoryId": 1,
+          "slug": "space-opera",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T10:30:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T10:30:00Z",
+          "modifiedBy": "admin"
+          },
+      {
+          "id": 3,
+          "category": "Fantasy",
+          "parentCategoryId": 3,
+          "slug": "fantasy",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T11:00:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T11:00:00Z",
+          "modifiedBy": "admin"
+      },
+      {
+          "id": 4,
+          "category": "Epic Fantasy",
+          "parentCategoryId": 3,
+          "slug": "epic-fantasy",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T11:30:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T11:30:00Z",
+          "modifiedBy": "admin"
+      },
+      {
+          "id": 5,
+          "category": "Mystery",
+          "parentCategoryId": 1,
+          "slug": "mystery",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T12:00:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T12:00:00Z",
+          "modifiedBy": "admin"
+      },
+      {
+          "id": 6,
+          "category": "Detective Fiction",
+          "parentCategoryId": 5,
+          "slug": "detective-fiction",
+          "recStatus": "A",
+          "createdDate": "2024-03-15T12:30:00Z",
+          "createdBy": "admin",
+          "modifiedDate": "2024-03-15T12:30:00Z",
+          "modifiedBy": "admin"
+      },
+      {
+        "id": 7,
+        "category": "Science Fiction",
+        "parentCategoryId": 2,
+        "slug": "science-fiction",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T10:00:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T10:00:00Z",
+        "modifiedBy": "admin"
+    },
+    {
+        "id": 8,
+        "category": "Space Opera",
+        "parentCategoryId": 1,
+        "slug": "space-opera",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T10:30:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T10:30:00Z",
+        "modifiedBy": "admin"
+        },
+    {
+        "id": 9,
+        "category": "Fantasy",
+        "parentCategoryId": 3,
+        "slug": "fantasy",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T11:00:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T11:00:00Z",
+        "modifiedBy": "admin"
+    },
+    {
+        "id": 10,
+        "category": "Epic Fantasy",
+        "parentCategoryId": 3,
+        "slug": "epic-fantasy",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T11:30:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T11:30:00Z",
+        "modifiedBy": "admin"
+    },
+    {
+        "id": 11,
+        "category": "Mystery",
+        "parentCategoryId": 1,
+        "slug": "mystery",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T12:00:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T12:00:00Z",
+        "modifiedBy": "admin"
+    },
+    {
+        "id": 12,
+        "category": "Detective Fiction",
+        "parentCategoryId": 5,
+        "slug": "detective-fiction",
+        "recStatus": "A",
+        "createdDate": "2024-03-15T12:30:00Z",
+        "createdBy": "admin",
+        "modifiedDate": "2024-03-15T12:30:00Z",
+        "modifiedBy": "admin"
+    },
+    {
+      "id": 13,
+      "category": "Science Fiction",
+      "parentCategoryId": 2,
+      "slug": "science-fiction",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T10:00:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T10:00:00Z",
+      "modifiedBy": "admin"
+  },
+  {
+      "id": 14,
+      "category": "Space Opera",
+      "parentCategoryId": 1,
+      "slug": "space-opera",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T10:30:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T10:30:00Z",
+      "modifiedBy": "admin"
+      },
+  {
+      "id": 15,
+      "category": "Fantasy",
+      "parentCategoryId": 3,
+      "slug": "fantasy",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T11:00:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T11:00:00Z",
+      "modifiedBy": "admin"
+  },
+  {
+      "id": 16,
+      "category": "Epic Fantasy",
+      "parentCategoryId": 3,
+      "slug": "epic-fantasy",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T11:30:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T11:30:00Z",
+      "modifiedBy": "admin"
+  },
+  {
+      "id": 17,
+      "category": "Mystery",
+      "parentCategoryId": 1,
+      "slug": "mystery",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T12:00:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T12:00:00Z",
+      "modifiedBy": "admin"
+  },
+  {
+      "id": 18,
+      "category": "Detective Fiction",
+      "parentCategoryId": 5,
+      "slug": "detective-fiction",
+      "recStatus": "A",
+      "createdDate": "2024-03-15T12:30:00Z",
+      "createdBy": "admin",
+      "modifiedDate": "2024-03-15T12:30:00Z",
+      "modifiedBy": "admin"
+  }
+  ],
+  "PARENT_CATEGORY_OPTIONS": [
+    {
+      "label": "Custom Embroidery",
+      "value": 1
+    },
+    {
+      "label": "Branded Patagonia",
+      "value": 2
+    },
+    {
+      "label": "Corporate Gifts",
+      "value": 3
+    },
+    {
+      "label": "Custom Branded Corporate Apparel",
+      "value": 5
+    },
+    {
+      "label": "Custom Drinkware",
+      "value": 6
+    },
+    {
+      "label": "Custom Gear & Company Gifts",
+      "value": 7
+    }
+  ],
+  "USER_NAME_OPTIONS": [
+    {
+      "value": "133",
+      "label": "Aakash  Chaudhary"
+    },
+    {
+      "value": "93",
+      "label": "Alex Alutto"
+    },
+    {
+      "value": "82",
+      "label": "Alex Dumais"
+    },
+    {
+      "value": "47",
+      "label": "Alex Pohl"
+    },
+    {
+      "value": "40",
+      "label": "Alexis Bernard"
+    },
+    {
+      "value": "24",
+      "label": "Allysa Beaton"
+    },
+    {
+      "value": "4",
+      "label": "Alpesh Prajapati"
+    },
+    {
+      "value": "44",
+      "label": "Amanda Rosenberg"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "fonts": [
+    { "id": 1, "label": "Times New Roman", "value": "Serif" },
+    { "id": 2, "label": "Georgia", "value": "Serif" },
+    { "id": 3, "label": "Garamond", "value": "Serif" },
+    { "id": 4, "label": "Baskerville", "value": "Serif" },
+    { "id": 5, "label": "Palatino", "value": "Serif" },
+    { "id": 6, "label": "Merriweather", "value": "Serif" },
+
+    { "id": 7, "label": "Arial", "value": "Sans-Serif" },
+    { "id": 8, "label": "Helvetica", "value": "Sans-Serif" },
+    { "id": 9, "label": "Roboto", "value": "Sans-Serif" },
+    { "id": 10, "label": "Open Sans", "value": "Sans-Serif" },
+    { "id": 11, "label": "Montserrat", "value": "Sans-Serif" },
+    { "id": 12, "label": "Poppins", "value": "Sans-Serif" },
+    { "id": 13, "label": "Lato", "value": "Sans-Serif" },
+    { "id": 14, "label": "Nunito", "value": "Sans-Serif" },
+    { "id": 15, "label": "Inter", "value": "Sans-Serif" },
+
+    { "id": 16, "label": "Courier New", "value": "Monospace" },
+    { "id": 17, "label": "Consolas", "value": "Monospace" },
+    { "id": 18, "label": "Fira Code", "value": "Monospace" },
+    { "id": 19, "label": "Source Code Pro", "value": "Monospace" },
+    { "id": 20, "label": "IBM Plex Mono", "value": "Monospace" },
+
+    { "id": 21, "label": "Lobster", "value": "Display" },
+    { "id": 22, "label": "Pacifico", "value": "Display" },
+    { "id": 23, "label": "Bangers", "value": "Display" },
+    { "id": 24, "label": "Playfair Display", "value": "Display" },
+    { "id": 25, "label": "Raleway", "value": "Display" },
+
+    { "id": 26, "label": "Dancing Script", "value": "Handwritten" },
+    { "id": 27, "label": "Great Vibes", "value": "Handwritten" },
+    { "id": 28, "label": "Sacramento", "value": "Handwritten" },
+    { "id": 29, "label": "Caveat", "value": "Handwritten" }
+  ],
+  "textSizes": [
+    { "id": 1, "value": "Small", "label": "Small" },
+    { "id": 2, "value": "Medium", "label": "Medium" },
+    { "id": 3, "value": "Large", "label": "Large" },
+    { "id": 4, "value": "Extra Large", "label": "Extra Large" },
+    { "id": 5, "value": "2XL", "label": "2XL" },
+    { "id": 6, "value": "3XL", "label": "3XL" },
+    { "id": 7, "value": "4XL", "label": "4XL" },
+    { "id": 8, "value": "5XL", "label": "5XL" },
+    { "id": 9, "value": "6XL", "label": "6XL" },
+    { "id": 10, "value": "7XL", "label": "7XL" }
+  ],
+  "fontWeights": [
+    { "id": 1, "value": "Thin", "label": "Thin" },
+    { "id": 2, "value": "Extra Light", "label": "Extra Light" },
+    { "id": 3, "value": "Light", "label": "Light" },
+    { "id": 4, "value": "Regular", "label": "Regular" },
+    { "id": 5, "value": "Medium", "label": "Medium" },
+    { "id": 6, "value": "Semi Bold", "label": "Semi Bold" },
+    { "id": 7, "value": "Bold", "label": "Bold" },
+    { "id": 8, "value": "Extra Bold", "label": "Extra Bold" },
+    { "id": 9, "value": "Black", "label": "Black" }
+  ],
+  "letterSpacing": [
+    { "id": 1, "value": "Tighter", "label": "Tighter" },
+    { "id": 2, "value": "Tight", "label": "Tight" },
+    { "id": 3, "value": "Normal", "label": "Normal" },
+    { "id": 4, "value": "Wide", "label": "Wide" },
+    { "id": 5, "value": "Wider", "label": "Wider" },
+    { "id": 6, "value": "Widest", "label": "Widest" }
+  ],
+  "lineHeights": [
+    { "id": 1, "value": "Tight", "label": "Tight" },
+    { "id": 2, "value": "Snug", "label": "Snug" },
+    { "id": 3, "value": "Normal", "label": "Normal" },
+    { "id": 4, "value": "Relaxed", "label": "Relaxed" },
+    { "id": 5, "value": "Loose", "label": "Loose" }
+  ]
+}

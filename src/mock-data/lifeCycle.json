@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "x": 1023,
+      "y": 1000
+    }
+  ],
+  "orders": [
+    {
+      "OrderDate": "2024-01-01",
+      "OrdersAmount": 100,
+      "recStatus": "A",
+      "CustomerName": "John Doe"
+    },
+    {
+      "OrderDate": "2024-01-02",
+      "OrdersAmount": 200,
+      "recStatus": "I",
+      "CustomerName": "Jane Smith"
+    }
+  ],
+  "allTimeAverageOrders": {
+    "data": [
+      { "name": "2023", "value": 5000 },
+      { "name": "2024", "value": 2000 },
+      { "name": "2025", "value": 3000 },
+      { "name": "2026", "value": 1000 },
+      { "name": "2027", "value": 5000 },
+      { "name": "2028", "value": 9000 }
+    ]
+  },
+  "lifeTabData": [
+    {
+      "name": "2023",
+      "value": 10
+    },
+    {
+      "name": "2024",
+      "value": 15
+    },
+    {
+      "name": "2025",
+      "value": 20
+    }
+  ],
+  "productData": [
+    { "label": "Product Inventory", "value": "product Inventory" },
+    { "label": "product Order", "value": "product Order" }
+  ],
+  "CompanyOrders": [
+    {
+      "OrderDate": "2024-01-01",
+      "OrdersAmount": 100,
+      "recStatus": "A",
+      "totalOrders": 100
+    },
+    {
+      "OrderDate": "2024-01-02",
+      "OrdersAmount": 200,
+      "recStatus": "I",
+      "totalOrders": 200
+    }
+  ]
+}

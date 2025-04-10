@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "color": "Red",
+            "size": "M (SKU123-R-M)",
+            "qty": 10,
+            "paid": 100.00,
+            "base": 80.00
+        },
+        {
+            "color": "Blue",
+            "size": "L (SKU123-B-L)",
+            "qty": 15,
+            "paid": 150.00,
+            "base": 120.00
+        },
+        {
+            "color": "Green",
+            "size": "S (SKU123-G-S)",
+            "qty": 8,
+            "paid": 80.00,
+            "base": 60.00
+        },
+        {
+            "color": "Yellow",
+            "size": "XL (SKU123-Y-XL)",
+            "qty": 12,
+            "paid": 120.00,
+            "base": 90.00
+        },
+        {
+            "color": "Black",
+            "size": "XXL (SKU123-BK-XXL)",
+            "qty": 5,
+            "paid": 70.00,
+            "base": 50.00
+        }
+    ],
+    "product_data": [
+        {
+            "productImg": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/product/attributeimages/D620-BUR.jpg",
+            "productName": "Burgundy"
+        },
+        {
+            "productImg": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/product/attributeimages/D620-BLU.jpg",
+            "productName": "French Blue"
+        },
+        {
+            "productImg": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/product/attributeimages/D620-WHT.jpg",
+            "productName": "White"
+        },
+        {
+            "productImg": "https://redefinecommerce.blob.core.windows.net/storagemedia/1/product/attributeimages/D620-CRY.jpg",
+            "productName": "Crystal Blue"
+        }
+    ]
+}

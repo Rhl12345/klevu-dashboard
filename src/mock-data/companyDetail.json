@@ -1,0 +1,124 @@
+[
+    {
+      "email": "customer1@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer2@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer3@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer4@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer5@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer6@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer7@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer8@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer9@example.com",
+      "password": "************"
+    },
+    {
+      "email": "customer10@example.com",
+      "password": "************"
+    },
+    
+    {
+        "email": "customer1@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer2@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer3@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer4@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer5@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer6@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer7@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer8@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer9@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer10@example.com",
+        "password": "************"
+      },
+      
+    {
+        "email": "customer1@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer2@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer3@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer4@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer5@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer6@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer7@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer8@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer9@example.com",
+        "password": "************"
+      },
+      {
+        "email": "customer10@example.com",
+        "password": "************"
+      }
+]

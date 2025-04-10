@@ -1,0 +1,48 @@
+{
+  "pageIndex": 1,
+  "pageSize": 25,
+  "totalCount": 2,
+  "totalPages": 1,
+  "hasPreviousPage": false,
+  "hasNextPage": false,
+  "items": [
+    {
+      "id": 179,
+      "logId": "e36743c7-260e-4fe7-8bee-c1c30ec006c6",
+      "status": "Success",
+      "message": "ecom.ServiceResult`1[System.String]",
+      "page": "ProductFeed",
+      "importType": "ProductFeed",
+      "createdBy": "Amin Deo",
+      "filePath": "https://pkheadlessstorage.blob.core.windows.net/storagemedia/1/import/Grand_Master_Product.csv",
+      "start": "2023-06-26T03:28:32.3514754",
+      "end": "2023-06-26T03:28:36.6781029",
+      "browser": "Chrome/114.0.0.0 - (Windows NT 10.0; Win64; x64)",
+      "location": null,
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00",
+      "recordsSubmitted": 1,
+      "type": "Import",
+      "recordsProcessed": 1
+    },
+    {
+      "id": 178,
+      "logId": "c309c728-99df-41f9-9fe9-c0ed8c20ade2",
+      "status": "NoChange",
+      "message": "Attribute and Attribute Suffix length not same for row 2;ecom.ServiceResult`1[System.String]",
+      "page": "ProductFeed",
+      "importType": "ProductFeed",
+      "createdBy": "Amin Deo",
+      "filePath": "https://pkheadlessstorage.blob.core.windows.net/storagemedia/1/import/Grand_Master_Product.csv",
+      "start": "2023-06-26T03:26:44.6372488",
+      "end": "2023-06-26T03:26:46.5744259",
+      "browser": "Chrome/114.0.0.0 - (Windows NT 10.0; Win64; x64)",
+      "location": null,
+      "ipAddress": "127.0.0.0",
+      "macAddress": "00-00-00-00-00-00",
+      "recordsSubmitted": 1,
+      "type": "Import",
+      "recordsProcessed": 0
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "totalQuantity": 8,
+      "totalOrders": 5,
+      "orders": [
+        {
+          "orderId": "#1635221",
+          "billingName": "Tejas Daftary",
+          "billingEmail": "tejasdaftary@redefinesolutions.com",
+          "paymentMethod": "PREPAYMENT",
+          "orderDate": "12/19/2024 01:57 AM",
+          "shippingAddress": "346 Park Ave, FL1, New York, New York, 10001, United States",
+          "products": [
+            {
+              "productName": "Yeti Camino 20 Carryall Tote Bag",
+              "size": "MISC",
+              "color": "Storm Grey",
+              "quantity": 1,
+              "paid": 143.0
+            },
+            {
+              "productName": "STIO Men's Azura Insulated Vest with Yeti logo",
+              "size": "XL",
+              "color": "Mountain Shadow",
+              "quantity": 1,
+              "paid": 175.0
+            }
+          ]
+        },
+        {
+          "orderId": "#1635222",
+          "billingName": "Tejas Daftary",
+          "billingEmail": "tejasdaftary@redefinesolutions.com",
+          "paymentMethod": "PREPAYMENT",
+          "orderDate": "12/19/2024 02:12 AM",
+          "shippingAddress": "356 Park Ave, GR01, Jersey City, New Jersey, 07307, United States",
+          "products": [
+            {
+              "productName": "Columbia Zigzag 30L Backpack",
+              "size": "MISC",
+              "color": "Black",
+              "quantity": 1,
+              "paid": 68.5
+            }
+          ]
+        },
+        {
+          "orderId": "#1635223",
+          "billingName": "Tejas Daftary",
+          "billingEmail": "tejasdaftary@redefinesolutions.com",
+          "paymentMethod": "PREPAYMENT",
+          "orderDate": "12/20/2024 03:15 PM",
+          "shippingAddress": "123 Main St, Springfield, IL, 62701, United States",
+          "products": [
+            {
+              "productName": "STIO Women's Sweetwater Fleece Jacket",
+              "size": "M",
+              "color": "Mountain Shadow",
+              "quantity": 2,
+              "paid": 350.0
+            }
+          ]
+        },
+        {
+          "orderId": "#1635224",
+          "billingName": "Tejas Daftary",
+          "billingEmail": "tejasdaftary@redefinesolutions.com",
+          "paymentMethod": "PREPAYMENT",
+          "orderDate": "12/21/2024 04:45 PM",
+          "shippingAddress": "789 Elm St, Chicago, IL, 60601, United States",
+          "products": [
+            {
+              "productName": "STIO Women's Azura Jacket",
+              "size": "L",
+              "color": "Abyss Heather",
+              "quantity": 1,
+              "paid": 175.0
+            }
+          ]
+        },
+        {
+          "orderId": "#1635225",
+          "billingName": "Tejas Daftary",
+          "billingEmail": "tejasdaftary@redefinesolutions.com",
+          "paymentMethod": "PREPAYMENT",
+          "orderDate": "12/22/2024 05:30 PM",
+          "shippingAddress": "456 Oak St, Los Angeles, CA, 90001, United States",
+          "products": [
+            {
+              "productName": "STIO Men's Azura Jacket",
+              "size": "XL",
+              "color": "Mountain Shadow",
+              "quantity": 1,
+              "paid": 175.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
