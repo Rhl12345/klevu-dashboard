@@ -792,10 +792,6 @@ video {
   z-index: -10;
 }
 
-.z-0 {
-  z-index: 0;
-}
-
 .z-10 {
   z-index: 10;
 }
@@ -896,11 +892,6 @@ video {
   margin-bottom: 1.25rem;
 }
 
-.my-6 {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
@@ -920,10 +911,6 @@ video {
 
 .mb-1 {
   margin-bottom: 0.25rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .mb-2 {
@@ -1140,10 +1127,6 @@ video {
   height: 8rem;
 }
 
-.h-36 {
-  height: 9rem;
-}
-
 .h-4 {
   height: 1rem;
 }
@@ -1174,10 +1157,6 @@ video {
 
 .h-8 {
   height: 2rem;
-}
-
-.h-9 {
-  height: 2.25rem;
 }
 
 .h-\[100px\] {
@@ -1394,10 +1373,6 @@ video {
   width: 250px;
 }
 
-.w-\[400px\] {
-  width: 400px;
-}
-
 .w-\[800px\] {
   width: 800px;
 }
@@ -1478,10 +1453,6 @@ video {
   max-width: 80rem;
 }
 
-.max-w-80 {
-  max-width: 20rem;
-}
-
 .max-w-8xl {
   max-width: 96rem;
 }
@@ -1555,12 +1526,6 @@ video {
 
 .table-auto {
   table-layout: auto;
-}
-
-.border-spacing-1 {
-  --tw-border-spacing-x: 0.25rem;
-  --tw-border-spacing-y: 0.25rem;
-  border-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y);
 }
 
 .origin-top-left {
@@ -2557,11 +2522,6 @@ video {
   padding-right: 0.5rem;
 }
 
-.px-2\.5 {
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-}
-
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -2707,10 +2667,6 @@ video {
 
 .pl-5 {
   padding-left: 1.25rem;
-}
-
-.pl-7 {
-  padding-left: 1.75rem;
 }
 
 .pl-8 {
@@ -4482,21 +4438,8 @@ table tr:last-child td:last-child {
     grid-column: span 6 / span 6;
   }
 
-  .sm\:mx-auto {
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .sm\:mb-0 {
     margin-bottom: 0px;
-  }
-
-  .sm\:w-full {
-    width: 100%;
-  }
-
-  .sm\:max-w-md {
-    max-width: 28rem;
   }
 
   .sm\:auto-cols-max {
@@ -4530,11 +4473,6 @@ table tr:last-child td:last-child {
 
   .sm\:p-6 {
     padding: 1.5rem;
-  }
-
-  .sm\:px-10 {
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
   }
 
   .sm\:px-4 {
@@ -4848,10 +4786,6 @@ table tr:last-child td:last-child {
 
   .lg\:pl-\[296px\] {
     padding-left: 296px;
-  }
-
-  .lg\:pr-3 {
-    padding-right: 0.75rem;
   }
 
   .lg\:pt-6 {
