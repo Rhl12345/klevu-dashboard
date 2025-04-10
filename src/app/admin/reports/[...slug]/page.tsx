@@ -29,7 +29,7 @@ export async function generateMetadata({
   const reportSlug = await params;
   if (reportSlug.slug.length === 1) {
     switch (reportSlug.slug[0]) {
-      case "item-sale-by-market":
+      case "report-table":
         return {
           title: "Item Sale By Market List",
           description: "Item Sale By Market List",
@@ -149,14 +149,12 @@ const ReportsPage = async ({
 
   if (reportSlug.slug.length === 1) {
     switch (reportSlug.slug[0]) {
-      case "item-sale-by-market":
+      case "report-table":
         return <ItemSaleByMarketList />;
       case "low-inventory":
         return <LowInventoryReport />;
       case "business-intelligence":
         return <BusinessIntelligenceReport />;
-      case "master-product-inventory-report":
-        return <MasterProductInventoryReportList />;
       case "order-statistics":
         return <OrderStatisticsReport />;
       case "brand-wise-product-report":

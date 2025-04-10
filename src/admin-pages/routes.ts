@@ -275,7 +275,7 @@ export const PageRoutes = {
   REPORTS: {
     LIST: "/admin/reports",
     LOW_INVENTORY: "/admin/reports/low-inventory",
-    ITEM_SALE_BY_MARKETS: "/admin/reports/item-sale-by-market",
+    ITEM_SALE_BY_MARKETS: "/admin/reports/report-table",
     ORDER_STATE_TAX_REPORT: "/admin/reports/order-state-tax-report",
     ORDER_NUMBER_SALE_TAX_REPORT: "/admin/reports/order-number-sale-tax-report",
     REVENUE_SUMMARY: "/admin/reports/revenue-summary",

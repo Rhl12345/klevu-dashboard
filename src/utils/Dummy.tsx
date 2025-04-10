@@ -9,7 +9,6 @@ import {
 import { IGiftCardFormFields } from "@/types/gift-card/giftCard.type";
 import { IDashboardCard } from "@/types/main-dashboard/mainDashboard.type";
 import { ITierRangeType } from "@/types/product-tier/productTier.type";
-import { STORE_TYPES } from "@/types/products-database/productDatabase.type";
 
 export const MenuList: MenuItem[] = [
   {
@@ -36,7 +35,7 @@ export const MenuList: MenuItem[] = [
         subItems: [
           {
             id: "10_2_1_item-sale-by-markets",
-            label: "Item Sale By Markets",
+            label: "Report Table",
             href: PageRoutes.REPORTS.ITEM_SALE_BY_MARKETS,
           },
         ],
