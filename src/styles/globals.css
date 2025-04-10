@@ -1216,10 +1216,6 @@ video {
   max-height: 250px;
 }
 
-.max-h-\[400px\] {
-  max-height: 400px;
-}
-
 .max-h-\[48px\] {
   max-height: 48px;
 }
@@ -1915,10 +1911,6 @@ video {
   white-space: nowrap;
 }
 
-.whitespace-pre {
-  white-space: pre;
-}
-
 .text-nowrap {
   text-wrap: nowrap;
 }
@@ -2485,11 +2477,6 @@ video {
 .\!px-3 {
   padding-left: 0.75rem !important;
   padding-right: 0.75rem !important;
-}
-
-.\!px-4 {
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
 }
 
 .\!py-0 {
@@ -3663,10 +3650,6 @@ table tr:last-child td:last-child {
   margin-bottom: 0px;
 }
 
-.last\:\!border-b:last-child {
-  border-bottom-width: 1px !important;
-}
-
 .last\:border-b-0:last-child {
   border-bottom-width: 0px;
 }
@@ -4454,10 +4437,6 @@ table tr:last-child td:last-child {
     flex-direction: row;
   }
 
-  .sm\:items-center {
-    align-items: center;
-  }
-
   .sm\:justify-end {
     justify-content: flex-end;
   }
@@ -4597,10 +4576,6 @@ table tr:last-child td:last-child {
     grid-column: span 5 / span 5;
   }
 
-  .lg\:col-span-6 {
-    grid-column: span 6 / span 6;
-  }
-
   .lg\:mb-2 {
     margin-bottom: 0.5rem;
   }
@@ -4629,10 +4604,6 @@ table tr:last-child td:last-child {
     width: 33.333333%;
   }
 
-  .lg\:w-4\/5 {
-    width: 80%;
-  }
-
   .lg\:w-44 {
     width: 11rem;
   }
@@ -4659,14 +4630,6 @@ table tr:last-child td:last-child {
 
   .lg\:w-\[calc\(100\%-5rem\)\] {
     width: calc(100% - 5rem);
-  }
-
-  .lg\:max-w-5xl {
-    max-width: 64rem;
-  }
-
-  .lg\:grid-cols-12 {
-    grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
   .lg\:grid-cols-2 {
@@ -4730,11 +4693,6 @@ table tr:last-child td:last-child {
 
   .lg\:p-8 {
     padding: 2rem;
-  }
-
-  .lg\:px-0 {
-    padding-left: 0px;
-    padding-right: 0px;
   }
 
   .lg\:px-4 {
@@ -4827,18 +4785,6 @@ table tr:last-child td:last-child {
 
   .xl\:col-span-4 {
     grid-column: span 4 / span 4;
-  }
-
-  .xl\:col-span-6 {
-    grid-column: span 6 / span 6;
-  }
-
-  .xl\:col-span-8 {
-    grid-column: span 8 / span 8;
-  }
-
-  .xl\:col-span-9 {
-    grid-column: span 9 / span 9;
   }
 
   .xl\:mx-8 {
